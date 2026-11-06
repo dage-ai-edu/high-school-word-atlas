@@ -1,0 +1,15 @@
+{
+  "official_source_words": 7298,
+  "available_dataset_words": 1457,
+  "matched_unique_words": 1457,
+  "direct_occurrences": 1476,
+  "fuzzy_occurrences": 0,
+  "unmatched_candidates": 571,
+  "by_source": {
+    "七年级上册": 190,
+    "七年级下册": 298,
+    "八年级上册": 363,
+    "八年级下册": 336,
+    "九年级上册": 286
+  }
+}

@@ -1,0 +1,2148 @@
+﻿number,code,word,gloss,ipa,book,stage,page,is_single_word,is_likely_proper_name
+1,1*1,exchange,n.&vt.交换;交流;交易;兑换,/ɪksˈtʃeɪndʒ/,必修第一册,高一上,1,True,False
+2,1*1,lecture,n.讲座;讲课 vi.(开)讲座,/ˈlektʃə(r)/,必修第一册,高一上,1,True,False
+3,1*1,registration,n.登记;注册;挂号,/ˌredʒɪˈstreɪʃn/,必修第一册,高一上,1,True,False
+4,1*1,register,vt.&vi.登记;注册,/ˈredʒɪstə(r)/,必修第一册,高一上,1,True,False
+5,1*1,sex,n.性别,/seks/,必修第一册,高一上,1,True,False
+6,1*1,female,adj.女(性)的;雌的 n.雌性,/ˈfi:meɪl/,必修第一册,高一上,1,True,False
+7,1*1,male,adj.男(性)的;雄的 n.雄性,/meɪl/,必修第一册,高一上,1,True,False
+8,1*1,nationality,n.国籍;民族,/ˌnæʃəˈnæləti/,必修第一册,高一上,1,True,False
+9,1*1,nation,n.国家;民族;国民,/ˈneɪʃn/,必修第一册,高一上,1,True,False
+10,1*1,designer,n.设计者,/dɪˈzaɪnə(r)/,必修第一册,高一上,1,True,False
+11,1*1,design,n.设计;设计方案 vt.设计,/dɪˈzaɪn/,必修第一册,高一上,1,True,False
+12,1*1,campus,n.校园;校区,/ˈkæmpəs/,必修第一册,高一上,1,True,False
+13,1*1,formal,adj.办正式的;正规的,/ˈfɔ:ml/,必修第一册,高一上,1,True,False
+14,1*1,anxious,adj.焦虑的;不安的,/ˈæŋkʃəs/,必修第一册,高一上,1,True,False
+15,1*1,annoyed,adj.恼怒的;生气的,/əˈnɔɪd/,必修第一册,高一上,1,True,False
+16,1*1,annoy,vt.使恼怒;打扰,/əˈnɔɪ/,必修第一册,高一上,1,True,False
+17,1*1,frightened,adj.办惊吓的;害怕的,/ˈfraɪtnd/,必修第一册,高一上,1,True,False
+18,1*1,p.m.,abbr.(源自拉丁)下午;午后,/pi: em/,必修第一册,高一上,1,True,False
+19,1*1,a.m.,abbr.(源自拉丁)上午;午前,/ə em/,必修第一册,高一上,1,True,False
+20,1*1,senior,adj.级别高的 n.较年长的人,/ˈsi:niə(r)/,必修第一册,高一上,1,True,False
+23,1*1,outgoing,adj.爱交际的;外向的,/ˈaʊtgəʊɪŋ/,必修第一册,高一上,1,True,False
+24,1*1,impression,n.印象;感想,/ɪmˈpreʃn/,必修第一册,高一上,1,True,False
+25,1*1,impress,vt.使钦佩 vi.留下印象,/ɪmˈpres/,必修第一册,高一上,1,True,False
+28,1*1,guy,n.小伙子;男人;家伙,/gaɪ/,必修第一册,高一上,1,True,False
+29,1*1,concentrate,vi.&vt.集中注意;聚精会神,/ˈkɒnsntreɪt/,必修第一册,高一上,1,True,False
+31,1*1,experiment,n.实验;试验,/ɪkˈsperɪmənt/,必修第一册,高一上,1,True,False
+33,1*1,awkward,adj.令人尴尬的;难对付的,/ˈɔ:kwəd/,必修第一册,高一上,1,True,False
+34,1*1,junior,adj.地位低的 n.职位较低者,/ˈdʒu:niə(r)/,必修第一册,高一上,1,True,False
+36,1*1,explore,vt.&vi.搜索;勘探,/ɪkˈsplɔ:(r)/,必修第一册,高一上,1,True,False
+37,1*1,confident,adj.自信的;有把握的,/ˈkɒnfɪdənt/,必修第一册,高一上,1,True,False
+38,1*1,confidence,n.信心;信任,/ˈkɒnfɪdəns/,必修第一册,高一上,1,True,False
+39,1*1,forward,adv.向前;前进 adj.向前的,/ˈfɔ:wəd/,必修第一册,高一上,1,True,False
+42,1*1,flash,n.光;信号 vi.闪耀;闪光,/flæʃ/,必修第一册,高一上,1,True,False
+44,1*1,organise,vt.组织;筹备 vi.组建;成立,/'ɔ:gənaɪz/,必修第一册,高一上,1,True,False
+45,1*1,organisation,n.组织;团体;机构,/ˌɔ:gənaɪ'zeɪʃən/,必修第一册,高一上,1,True,False
+46,1*1,goal,n.目标;球门;射门,/gəʊl/,必修第一册,高一上,1,True,False
+47,1*1,strategy,n.策略;策划,/ˈstrætədʒi/,必修第一册,高一上,1,True,False
+48,1*1,partner,n.同伴;配偶;合伙人,/ˈpɑ:tnə(r)/,必修第一册,高一上,1,True,False
+49,1*1,improve,vi.&vt.改进;改善,/ɪmˈpru:v/,必修第一册,高一上,1,True,False
+50,1*1,curious,adj.好奇的;求知欲强的,/ˈkjʊəriəs/,必修第一册,高一上,1,True,False
+51,1*1,company,n.公司;商行;陪伴,/ˈkʌmpəni/,必修第一册,高一上,2,True,False
+52,1*1,personality,n.性格;个性,/ˌpɜ:səˈnæləti/,必修第一册,高一上,2,True,False
+53,1*1,style,n.方式;作风,/staɪl/,必修第一册,高一上,2,True,False
+54,1*1,revise,vt.&vi.修改;修订;复习,/rɪˈvaɪz/,必修第一册,高一上,2,True,False
+55,1*2,teenage,adj.十几岁的;青少年的,/ˈti:neɪdʒ/,必修第一册,高一上,2,True,False
+56,1*2,teenager,n.(13至19岁之间的)青少年,/ˈti:neɪdʒə(r)/,必修第一册,高一上,2,True,False
+57,1*2,ballet,n.芭蕾舞,/ˈbæleɪ/,必修第一册,高一上,2,True,False
+58,1*2,volunteer,n.志愿者,/ˌvɒlənˈtɪə(r)/,必修第一册,高一上,2,True,False
+59,1*2,debate,n.辩论;争论 vt.&vi.辩论,/dɪˈbeɪt/,必修第一册,高一上,2,True,False
+60,1*2,prefer,vt.较喜欢,/prɪˈfɜ:(r)/,必修第一册,高一上,2,True,False
+62,1*2,content,n.内容;[pl.]目录,/'kɒntent/,必修第一册,高一上,2,True,False
+63,1*2,movement,n.动作;运动;活动,/ˈmu:vmənt/,必修第一册,高一上,2,True,False
+64,1*2,greenhouse,n.温室;暖房,/ˈgri:nhaʊs/,必修第一册,高一上,2,True,False
+66,1*2,suitable,adj.合适的;适用的,/ˈsu:təbl/,必修第一册,高一上,2,True,False
+68,1*2,actually,adv.事实上;的确,/ˈæktʃuəli/,必修第一册,高一上,2,True,False
+69,1*2,challenge,n.挑战;艰巨任务 vt.怀疑,/ˈtʃæləndʒ/,必修第一册,高一上,2,True,False
+70,1*2,title,n.(书、诗歌等)名称;标题,/ˈtaɪtl/,必修第一册,高一上,2,True,False
+71,1*2,topic,n.话题;标题,/ˈtɒpɪk/,必修第一册,高一上,2,True,False
+72,1*2,freshman,n.中学九年级学生;大学新生,/ˈfreʃmən/,必修第一册,高一上,2,True,False
+73,1*2,confusing,adj.难以理解的;不清楚的,/kənˈfju:zɪŋ/,必修第一册,高一上,2,True,False
+74,1*2,confuse,vt.使糊涂;使迷惑,/kənˈfju:z/,必修第一册,高一上,2,True,False
+75,1*2,confused,adj.糊涂的;迷惑的,/kənˈfju:zd/,必修第一册,高一上,2,True,False
+76,1*2,fluent,adj.(外语)流利的;熟练的,/ˈflu:ənt/,必修第一册,高一上,2,True,False
+77,1*2,graduate,vi.&vt.毕业 n.毕业生,/ˈgrædʒuət/,必修第一册,高一上,2,True,False
+78,1*2,recommend,vt.建议;推荐;介绍,/ˌrekəˈmend/,必修第一册,高一上,2,True,False
+80,1*2,advanced,adj.高级的;高等的;先进的,/ədˈvɑ:nst/,必修第一册,高一上,2,True,False
+81,1*2,advance,n.&vi.&vt.前进;发展;促进,/ədˈvɑ:ns/,必修第一册,高一上,2,True,False
+82,1*2,literature,n.文学;文学作品,/ˈlɪtrətʃə(r)/,必修第一册,高一上,2,True,False
+83,1*2,extra-curricular,adj.课外的;课程以外的,/ˈekstrə kəˈrɪkjələ(r)/,必修第一册,高一上,2,True,False
+84,1*2,extra,adj.额外的;附加的,/ˈekstrə/,必修第一册,高一上,2,True,False
+85,1*2,obviously,adv.显然;明显地,/ˈɒbviəsli/,必修第一册,高一上,2,True,False
+86,1*2,quit,vi.&vt.停止;戒掉;离开,/kwɪt/,必修第一册,高一上,2,True,False
+87,1*2,responsible,adj.负责的;有责任的,/rɪˈspɒnsəbl/,必修第一册,高一上,2,True,False
+88,1*2,responsibility,n.责任;义务,/rɪˌspɒnsəˈbɪləti/,必修第一册,高一上,2,True,False
+90,1*2,solution,n.解决办法;答案,/səˈlu:ʃn/,必修第一册,高一上,2,True,False
+91,1*2,schedule,n.工作计划 vt.安排;预定,/ˈʃedju:l/,必修第一册,高一上,2,True,False
+92,1*2,editor,n.主编;编辑;编者,/ˈedɪtə(r)/,必修第一册,高一上,2,True,False
+93,1*2,plate,n.盘子;碟子,/pleɪt/,必修第一册,高一上,2,True,False
+94,1*2,adventure,n.冒险;奇遇,/ədˈventʃə(r)/,必修第一册,高一上,2,True,False
+95,1*2,youth,n.青年时期;青春,/ju:θ/,必修第一册,高一上,2,True,False
+96,1*2,expert,n.专家;行家 adj.熟练的,/ˈekspɜ:t/,必修第一册,高一上,2,True,False
+97,1*2,behaviour,n.行为;举止,/bɪˈheɪvjə(r)/,必修第一册,高一上,2,True,False
+98,1*2,generation,n.一代(人),/ˌdʒenəˈreɪʃn/,必修第一册,高一上,2,True,False
+99,1*2,attract,vt.吸引;引起…注意(兴趣),/əˈtrækt/,必修第一册,高一上,2,True,False
+101,1*2,focus,vi.&vt.集中精力等 n.焦点,/ˈfəʊkəs/,必修第一册,高一上,2,True,False
+103,1*2,addicted,adj.有瘾的;上瘾的;入迷的,/əˈdɪktɪd/,必修第一册,高一上,3,True,False
+104,1*2,addict,n.对…入迷的人;吸毒成瘾者,/ˈædɪkt/,必修第一册,高一上,3,True,False
+106,1*2,adult,n.成年人 adj.成年的,/ˈædʌlt/,必修第一册,高一上,3,True,False
+107,1*2,Chicago,芝加哥(美国城市),/ʃɪ'kɑ:gəʊ/,必修第一册,高一上,3,True,True
+108,1*2,Seoul,首尔(韩国首都),/səʊl/,必修第一册,高一上,3,True,True
+109,1*3,castle,n.城堡;堡垒,/ˈkɑ:sl/,必修第一册,高一上,3,True,False
+110,1*3,apply,vi.&vt.申请;请求 vt.应用,/əˈplaɪ/,必修第一册,高一上,3,True,False
+112,1*3,visa,n.签证,/ˈvi:zə/,必修第一册,高一上,3,True,False
+113,1*3,rent,vt.&vi.租用;出租 n.租金,/rent/,必修第一册,高一上,3,True,False
+114,1*3,pack,vi.&vt.收拾(行李);包装,/pæk/,必修第一册,高一上,3,True,False
+115,1*3,amazing,adj.令人惊奇的;令人惊喜的,/əˈmeɪzɪŋ/,必修第一册,高一上,3,True,False
+116,1*3,amazed,adj.惊奇的;惊喜的,/əˈmeɪzd/,必修第一册,高一上,3,True,False
+117,1*3,arrangement,n.安排;筹备,/əˈreɪndʒmənt/,必修第一册,高一上,3,True,False
+118,1*3,extremely,adv.极其;非常,/ɪkˈstri:mli/,必修第一册,高一上,3,True,False
+119,1*3,source,n.来源;出处,/sɔ:s/,必修第一册,高一上,3,True,False
+120,1*3,narrow,adj.狭窄的 vi.&vt.使变窄,/ˈnærəʊ/,必修第一册,高一上,3,True,False
+121,1*3,flat,adj.平坦的;扁平的 n.公寓,/flæt/,必修第一册,高一上,3,True,False
+122,1*3,powerful,adj.强有力的;有权势的,/ˈpaʊəfl/,必修第一册,高一上,3,True,False
+123,1*3,empire,n.帝国,/ˈempaɪə(r)/,必修第一册,高一上,3,True,False
+124,1*3,emperor,n.皇帝,/ˈempərə(r)/,必修第一册,高一上,3,True,False
+125,1*3,site,n.地点;位置;现场,/saɪt/,必修第一册,高一上,3,True,False
+127,1*3,official,adj.官方的;正式的 n.官员,/əˈfɪʃl/,必修第一册,高一上,3,True,False
+128,1*3,recognise,vt.辨别出;承认;认可,/'rekəgnaɪz/,必修第一册,高一上,3,True,False
+129,1*3,type,n.类型;种类 vi.&vt.打字,/taɪp/,必修第一册,高一上,3,True,False
+130,1*3,flight,n.空中航行;航班;航程,/flaɪt/,必修第一册,高一上,3,True,False
+131,1*3,accommodation,n.住处;停留处;膳宿,/əˌkɒməˈdeɪʃn/,必修第一册,高一上,3,True,False
+132,1*3,unique,adj.唯一的;独特的;特有的,/juˈni:k/,必修第一册,高一上,3,True,False
+133,1*3,path,n.小路;路线;道路,/pɑ:θ/,必修第一册,高一上,3,True,False
+134,1*3,destination,n.目的地;终点,/ˌdestɪˈneɪʃn/,必修第一册,高一上,3,True,False
+136,1*3,admire,vt.钦佩;赞赏,/ədˈmaɪə(r)/,必修第一册,高一上,3,True,False
+137,1*3,architecture,n.建筑设计;建筑学,/ˈɑ:kɪtektʃə(r)/,必修第一册,高一上,3,True,False
+138,1*3,architect,n.建筑设计师,/ˈɑ:kɪtekt/,必修第一册,高一上,3,True,False
+139,1*3,brochure,n.资料(或广告)手册,/ˈbrəʊʃə(r)/,必修第一册,高一上,3,True,False
+140,1*3,package,n.包裹;包装盒 vt.将…包装,/ˈpækɪdʒ/,必修第一册,高一上,3,True,False
+142,1*3,contact,vt.联络;联系 n.联系;接触,/ˈkɒntækt/,必修第一册,高一上,3,True,False
+143,1*3,civilisation,n.文明;文明世界,/sɪvɪlaɪ'zeɪʃən/,必修第一册,高一上,3,True,False
+145,1*3,soldier,n.士兵;军人,/ˈsəʊldʒə(r)/,必修第一册,高一上,3,True,False
+146,1*3,transport,n.交通运输系统 vt.运输,/ˈtrænspɔ:t/,必修第一册,高一上,3,True,False
+147,1*3,hike,vi.徒步旅行 vt.去……远足,/haɪk/,必修第一册,高一上,3,True,False
+148,1*3,economy,n.经济;节约,/ɪˈkɒnəmi/,必修第一册,高一上,3,True,False
+149,1*3,economic,adj.经济(上)的;经济学的,/ˌi:kəˈnɒmɪk/,必修第一册,高一上,3,True,False
+150,1*3,credit,n.借款;信用;称赞;学分,/ˈkredɪt/,必修第一册,高一上,3,True,False
+152,1*3,detail,n.细节;详情;细微之处,/ˈdi:teɪl/,必修第一册,高一上,3,True,False
+155,1*3,request,n.&vi.(正式的)要求;请求,/rɪˈkwest/,必修第一册,高一上,4,True,False
+156,1*3,view,n.视野;景色;看法,/vju:/,必修第一册,高一上,4,True,False
+157,1*3,sight,n.景象;视野;视力,/saɪt/,必修第一册,高一上,4,True,False
+158,1*3,statue,n.雕塑;雕像,/ˈstætʃu:/,必修第一册,高一上,4,True,False
+159,1*3,BC,abbr.公元前,/ˌbiː'siː/,必修第一册,高一上,4,True,False
+160,1*3,tomb,n.坟墓,/tu:m/,必修第一册,高一上,4,True,False
+161,1*3,unearth,vt.挖掘;发掘,/ʌnˈɜ:θ/,必修第一册,高一上,4,True,False
+162,1*3,comment,n.&vi.&vt.议论;评论,/ˈkɒment/,必修第一册,高一上,4,True,False
+165,1*3,Iceland,冰岛(国家名),/'aɪslənd/,必修第一册,高一上,4,True,True
+166,1*3,Disneyland,迪士尼乐园,/ˈdɪznilænd/,必修第一册,高一上,4,True,True
+167,1*3,Peru,秘鲁(国家名),/pə'rʊ/,必修第一册,高一上,4,True,True
+172,1*3,Spain,西班牙,/speɪn/,必修第一册,高一上,4,True,True
+173,1*3,Spanish,n.&adj.西班牙(语/人)的,/ˈspænɪʃ/,必修第一册,高一上,4,True,True
+174,1*3,Cusco,库斯科(秘鲁城市),/ˈku:skəu/,必修第一册,高一上,4,True,True
+178,1*4,fitness,n.健康;健壮;适合,/ˈfɪtnəs/,必修第一册,高一上,4,True,False
+179,1*4,soccer,n.足球,/ˈsɒkə(r)/,必修第一册,高一上,4,True,False
+180,1*4,stadium,n.体育场;运动场,/ˈsteɪdiəm/,必修第一册,高一上,4,True,False
+181,1*4,boxing,n.拳击(运动),/ˈbɒksɪŋ/,必修第一册,高一上,4,True,False
+182,1*4,badminton,n.羽毛球运动,/ˈbædmɪntən/,必修第一册,高一上,4,True,False
+183,1*4,marathon,n.马拉松赛跑,/ˈmærəθən/,必修第一册,高一上,4,True,False
+184,1*4,event,n.比赛项目;大事;公开活动,/ɪˈvent/,必修第一册,高一上,4,True,False
+186,1*4,ski,adj.滑雪的 vi.滑雪,/ski:/,必修第一册,高一上,4,True,False
+187,1*4,host,vt.主办;主持 n.主持人,/həʊst/,必修第一册,高一上,4,True,False
+188,1*4,track,n.跑道;足迹 vt.&vi.追踪,/træk/,必修第一册,高一上,4,True,False
+190,1*4,gym,n.健身房;体育馆,/dʒɪm/,必修第一册,高一上,4,True,False
+191,1*4,gymnastics,n.体操(训练),/dʒɪmˈnæstɪks/,必修第一册,高一上,4,True,False
+193,1*4,sweat,vt.&vi.使出汗;流汗 n.汗水,/swet/,必修第一册,高一上,4,True,False
+195,1*4,legend,n.传奇故事(或人物);传说,/ˈledʒənd/,必修第一册,高一上,4,True,False
+196,1*4,athlete,n.运动员;运动健儿,/ˈæθli:t/,必修第一册,高一上,4,True,False
+197,1*4,master,n.高手;主人 vt.精通;掌握,/ˈmɑ:stə(r)/,必修第一册,高一上,4,True,False
+199,1*4,honour,n.荣誉;尊敬;荣幸,/'ɒnə(r)/,必修第一册,高一上,4,True,False
+200,1*4,glory,n.荣誉;光荣;赞美,/ˈglɔ:ri/,必修第一册,高一上,4,True,False
+201,1*4,medal,n.奖章;勋章,/ˈmedl/,必修第一册,高一上,4,True,False
+202,1*4,championship,n.锦标赛;冠军赛;冠军称号,/ˈtʃæmpiənʃɪp/,必修第一册,高一上,4,True,False
+203,1*4,champion,n.冠军;优胜者,/ˈtʃæmpiən/,必修第一册,高一上,4,True,False
+204,1*4,determination,n.决心;决定,/dɪˌtɜ:mɪˈneɪʃn/,必修第一册,高一上,4,True,False
+205,1*4,apart,adv.分离;分开;成碎片,/əˈpɑ:t/,必修第一册,高一上,4,True,False
+207,1*4,injure,vt.使受伤;损害,/ˈɪndʒə(r)/,必修第一册,高一上,5,True,False
+208,1*4,injured,adj.受伤的;有伤的,/ˈɪndʒəd/,必修第一册,高一上,5,True,False
+209,1*4,injury,n.伤害;损伤,/ˈɪndʒəri/,必修第一册,高一上,5,True,False
+210,1*4,captain,n.(运动队)队长;船长;机长,/ˈkæptɪn/,必修第一册,高一上,5,True,False
+212,1*4,graceful,adj.优美的;优雅的,/ˈgreɪsfl/,必修第一册,高一上,5,True,False
+213,1*4,strength,n.力量;体力,/streŋθ/,必修第一册,高一上,5,True,False
+214,1*4,failure,n.失败;失败的人(或事物),/ˈfeɪljə(r)/,必修第一册,高一上,5,True,False
+216,1*4,compete,vi.竞争;对抗,/kəmˈpi:t/,必修第一册,高一上,5,True,False
+218,1*4,pretend,vi.&vt.叚装;装扮,/prɪˈtend/,必修第一册,高一上,5,True,False
+221,1*4,million,num.一百万,/ˈmɪljən/,必修第一册,高一上,5,True,False
+222,1*4,cheat,vi.作弊;舞弊 vt.欺骗;蒙骗,/tʃi:t/,必修第一册,高一上,5,True,False
+223,1*4,audience,n.观众;听众,/ˈɔ:diəns/,必修第一册,高一上,5,True,False
+224,1*4,positive,adj.积极的;正面的;乐观的,/ˈpɒzətɪv/,必修第一册,高一上,5,True,False
+225,1*4,slim,adj.苗条的;单薄的,/slɪm/,必修第一册,高一上,5,True,False
+226,1*4,diet,n.规定饮食 vi.节食,/ˈdaɪət/,必修第一册,高一上,5,True,False
+228,1*4,rather,adv.相当;有点儿,/ˈrɑ:ðə(r)/,必修第一册,高一上,5,True,False
+230,1*4,push-up,n.俯卧撑,/pʊʃ ʌp/,必修第一册,高一上,5,True,False
+234,1*4,jog,vi.慢跑 n.慢跑,/dʒɒg/,必修第一册,高一上,5,True,False
+235,1*4,stress,n.压力;紧张 vt.强调;重读,/stres/,必修第一册,高一上,5,True,False
+236,1*4,error,n.错误;差错,/ˈerə(r)/,必修第一册,高一上,5,True,False
+237,1*5,disaster,n.灾难;灾害,/dɪˈzɑ:stə(r)/,必修第一册,高一上,5,True,False
+238,1*5,tornado,n.龙卷风;旋风,/tɔ:ˈneɪdəʊ/,必修第一册,高一上,5,True,False
+239,1*5,drought,n.旱灾;久旱,/draʊt/,必修第一册,高一上,5,True,False
+240,1*5,landslide,n.(山地或悬崖的)崩塌;滑坡,/ˈlændslaɪd/,必修第一册,高一上,5,True,False
+241,1*5,slide,vi.&vt.(使)滑行;滑动,/slaɪd/,必修第一册,高一上,5,True,False
+242,1*5,tsunami,n.海啸,/tsu:ˈnɑ:mi/,必修第一册,高一上,5,True,False
+243,1*5,flood,n.洪水;大量 vi.淹没,/flʌd/,必修第一册,高一上,5,True,False
+245,1*5,magnitude,n.(地)震级;重大,/ˈmægnɪtju:d/,必修第一册,高一上,5,True,False
+246,1*5,rescue,n.&vt.营救;救援,/ˈreskju:/,必修第一册,高一上,5,True,False
+247,1*5,damage,vt.损害;破坏 n.损坏;损失,/ˈdæmɪdʒ/,必修第一册,高一上,5,True,False
+248,1*5,destroy,vt.摧毁;毁灭,/dɪˈstrɔɪ/,必修第一册,高一上,5,True,False
+249,1*5,evacuate,vt.疏散;撤出 vi.撤离,/ɪˈvækjueɪt/,必修第一册,高一上,5,True,False
+250,1*5,helicopter,n.直升机,/ˈhelɪkɒptə(r)/,必修第一册,高一上,5,True,False
+251,1*5,death,n.死;死亡,/deθ/,必修第一册,高一上,5,True,False
+252,1*5,affect,vt.影响;(疾病)侵袭,/əˈfekt/,必修第一册,高一上,5,True,False
+253,1*5,shelter,n.避难处;居所 vt.保护,/ˈʃeltə(r)/,必修第一册,高一上,5,True,False
+254,1*5,crack,n.裂纹;裂缝 vi.&vt.使破裂,/kræk/,必修第一册,高一上,5,True,False
+256,1*5,ruin,n.&vt.破坏;毁坏,/ˈru:ɪn/,必修第一册,高一上,5,True,False
+258,1*5,percent,n.百分之… adv.每一百中,/pə'sent/,必修第一册,高一上,5,True,False
+259,1*5,brick,n.砖;砖块,/brɪk/,必修第一册,高一上,6,True,False
+260,1*5,metal,n.金属,/ˈmetl/,必修第一册,高一上,6,True,False
+261,1*5,shock,n.震惊;休克 vt.(使)震惊,/ʃɒk/,必修第一册,高一上,6,True,False
+263,1*5,electricity,n.电;电能,/ɪˌlekˈtrɪsəti/,必修第一册,高一上,6,True,False
+264,1*5,trap,vt.使落入险境 n.险境;陷阱,/træp/,必修第一册,高一上,6,True,False
+265,1*5,bury,vt.埋葬;安葬,/ˈberi/,必修第一册,高一上,6,True,False
+266,1*5,breathe,vi.&vt.呼吸,/bri:ð/,必修第一册,高一上,6,True,False
+267,1*5,revive,vi.&vt.复活;(使)苏醒,/rɪˈvaɪv/,必修第一册,高一上,6,True,False
+268,1*5,revival,n.振兴;复苏,/rɪˈvaɪvl/,必修第一册,高一上,6,True,False
+269,1*5,effort,n.努力;艰难的尝试;尽力,/ˈefət/,必修第一册,高一上,6,True,False
+270,1*5,unify,vi.&vt.统一;(使)成一体,/ˈju:nɪfaɪ/,必修第一册,高一上,6,True,False
+271,1*5,wisdom,n.智慧;才智,/ˈwɪzdəm/,必修第一册,高一上,6,True,False
+272,1*5,context,n.上下文;语境;背景,/ˈkɒntekst/,必修第一册,高一上,6,True,False
+273,1*5,suffer,vt.遭受;蒙受 vi.受苦,/ˈsʌfə(r)/,必修第一册,高一上,6,True,False
+274,1*5,volcano,n.火山,/vɒlˈkeɪnəʊ/,必修第一册,高一上,6,True,False
+275,1*5,erupt,vi.&vt.火山爆发;岩浆喷出,/ɪˈrʌpt/,必修第一册,高一上,6,True,False
+276,1*5,supply,n.供应;补给 vt.供应;供给,/səˈplaɪ/,必修第一册,高一上,6,True,False
+277,1*5,typhoon,n.台风,/taɪˈfu:n/,必修第一册,高一上,6,True,False
+279,1*5,hurricane,n.(尤指西大西洋的)飓风,/ˈhʌrɪkən/,必修第一册,高一上,6,True,False
+280,1*5,survive,vi.生存;存活 vt.幸存,/səˈvaɪv/,必修第一册,高一上,6,True,False
+281,1*5,power,n.电力供应;能量;力量,/ˈpaʊə(r)/,必修第一册,高一上,6,True,False
+282,1*5,tap,vi.&vt.轻叩;轻敲 n.水龙头,/tæp/,必修第一册,高一上,6,True,False
+283,1*5,pipe,n.管子;管道,/paɪp/,必修第一册,高一上,6,True,False
+284,1*5,whistle,vi.&vt.吹口哨 n.哨子(声),/ˈwɪsl/,必修第一册,高一上,6,True,False
+285,1*5,emergency,n.突发事件;紧急情况,/iˈmɜ:dʒənsi/,必修第一册,高一上,6,True,False
+286,1*5,calm,a.镇静的;沉着的 vt.使平静,/kɑ:m/,必修第一册,高一上,6,True,False
+287,1*5,aid,n.援助;帮助 vi.&vt.帮助,/eɪd/,必修第一册,高一上,6,True,False
+288,1*5,kit,n.成套工具;成套设备,/kɪt/,必修第一册,高一上,6,True,False
+291,1*5,crash,vt&vi.碰撞;撞击 n.撞车,/kræʃ/,必修第一册,高一上,6,True,False
+292,1*5,sweep,vt.&vi.打扫;清扫,/swi:p/,必修第一册,高一上,6,True,False
+294,1*5,wave,n.海浪;波浪 vi.&vt.挥手,/weɪv/,必修第一册,高一上,6,True,False
+295,1*5,strike,vi.&vt.侵袭;突击 n.罢工,/straɪk/,必修第一册,高一上,6,True,False
+296,1*5,deliver,vi.&vt.传递;传达 vt.发表,/dɪˈlɪvə(r)/,必修第一册,高一上,6,True,False
+297,1*5,summary,n.总结;概括;概要,/ˈsʌməri/,必修第一册,高一上,6,True,False
+298,1*5,effect,n.影响;结果;效果,/ɪˈfekt/,必修第一册,高一上,6,True,False
+299,1*5,length,n.长;长度,/leŋθ/,必修第一册,高一上,6,True,False
+300,1*5,Ecuador,厄瓜多尔(国家名),/'ekwədɔ:(r)/,必修第一册,高一上,6,True,True
+301,1*5,Memphis,孟菲斯(美国城市),/ˈmemfis/,必修第一册,高一上,6,True,True
+302,1*5,Alberta,艾伯塔省(加拿大省份),/æl'bɜ:tə/,必修第一册,高一上,6,True,True
+303,1*5,Colombo,科伦坡(斯里兰卡首都),/kəˈlʌmbəu/,必修第一册,高一上,6,True,True
+305,1*5,Indonesia,度尼西亚(国家名),/ˌɪndəʊ'ni:zjə/,必修第一册,高一上,6,True,True
+306,1*5,Thailand,泰国(国家名),/'taɪlænd/,必修第一册,高一上,6,True,True
+307,1*5,Malaysia,马来西亚(国家名),/mə'leɪʒə/,必修第一册,高一上,6,True,True
+310,1*6,billion,n.十亿,/ˈbɪljən/,必修第一册,高一上,6,True,False
+311,1*6,native,a.本地的;土著的 n.本地人,/ˈneɪtɪv/,必修第一册,高一上,7,True,False
+312,1*6,attitude,n.态度;看法,/ˈætɪtju:d/,必修第一册,高一上,7,True,False
+313,1*6,reference,n.指称关系;参考,/ˈrefrəns/,必修第一册,高一上,7,True,False
+314,1*6,refer,vi.提到;参考;查阅 vt.查询,/rɪˈfɜ:(r)/,必修第一册,高一上,7,True,False
+316,1*6,system,n.体系;制度;系统,/ˈsɪstəm/,必修第一册,高一上,7,True,False
+317,1*6,despite,prep.即使;尽管,/dɪˈspaɪt/,必修第一册,高一上,7,True,False
+319,1*6,factor,n.因素;要素,/ˈfæktə(r)/,必修第一册,高一上,7,True,False
+320,1*6,based,adj.以(某事)为基础的,/beɪst/,必修第一册,高一上,7,True,False
+321,1*6,base,vt.以…为据点 n.底部;根据,/beɪs/,必修第一册,高一上,7,True,False
+323,1*6,bone,n.骨头;骨(质),/bəʊn/,必修第一册,高一上,7,True,False
+324,1*6,shell,n.壳;壳状物,/ʃel/,必修第一册,高一上,7,True,False
+325,1*6,symbol,n.符号;象征,/ˈsɪmbl/,必修第一册,高一上,7,True,False
+326,1*6,carve,vt.&vi.雕刻,/kɑ:v/,必修第一册,高一上,7,True,False
+327,1*6,dynasty,n.王朝;朝代,/ˈdɪnəsti/,必修第一册,高一上,7,True,False
+328,1*6,variety,n.(植物、语言等)变体;异体,/vəˈraɪəti/,必修第一册,高一上,7,True,False
+329,1*6,major,a.主要的;重要的 n.主修课,/ˈmeɪdʒə(r)/,必修第一册,高一上,7,True,False
+331,1*6,dialect,n.地方话;方言,/ˈdaɪəlekt/,必修第一册,高一上,7,True,False
+332,1*6,means,n.方式;方法;途径,/mi:nz/,必修第一册,高一上,7,True,False
+333,1*6,classic,a.传统的;最优秀的 n.名著,/ˈklæsɪk/,必修第一册,高一上,7,True,False
+334,1*6,regard,n.尊重;关注 vt.把……视为,/rɪˈgɑ:d/,必修第一册,高一上,7,True,False
+335,1*6,character,n.文字;符号;角色;品质,/ˈkærəktə(r)/,必修第一册,高一上,7,True,False
+336,1*6,calligraphy,n.书法;书法艺术,/kəˈlɪgrəfi/,必修第一册,高一上,7,True,False
+337,1*6,global,adj.全球的;全世界的,/ˈgləʊbl/,必修第一册,高一上,7,True,False
+338,1*6,affair,n.公共事务;事件;关系,/əˈfeə(r)/,必修第一册,高一上,7,True,False
+339,1*6,appreciate,vt.欣赏;重视;感激 vi.增值,/əˈpri:ʃieɪt/,必修第一册,高一上,7,True,False
+340,1*6,specific,adj.特定的;明确的;具体的,/spəˈsɪfɪk/,必修第一册,高一上,7,True,False
+341,1*6,AD,abbr.(源自拉丁语)公元,/ˌeɪ'diː/,必修第一册,高一上,7,True,False
+342,1*6,struggle,n.&vi.斗争;奋斗;搏斗,/ˈstrʌgl/,必修第一册,高一上,7,True,False
+343,1*6,tongue,n.舌头;语言,/tʌŋ/,必修第一册,高一上,7,True,False
+345,1*6,semester,n.学期,/sɪˈmestə(r)/,必修第一册,高一上,7,True,False
+346,1*6,gas,n.汽油;气体;燃气,/gæs/,必修第一册,高一上,7,True,False
+347,1*6,petrol,n.汽油,/ˈpetrəl/,必修第一册,高一上,7,True,False
+348,1*6,subway,n.地铁,/ˈsʌbweɪ/,必修第一册,高一上,7,True,False
+349,1*6,apartment,n.公寓套房,/əˈpɑ:tmənt/,必修第一册,高一上,7,True,False
+350,1*6,pants,n.[pl.]内裤;短裤;裤子,/pænts/,必修第一册,高一上,7,True,False
+351,1*6,beg,vt.恳求;祈求;哀求,/beg/,必修第一册,高一上,7,True,False
+352,1*6,equal,n.同等人;相等物 a.相同的,/ˈi:kwəl/,必修第一册,高一上,7,True,False
+353,1*6,gap,n.间隔;开口;差距,/gæp/,必修第一册,高一上,7,True,False
+354,1*6,demand,n.要求;需求 vt.强烈要求,/dɪˈmɑ:nd/,必修第一册,高一上,7,True,False
+355,1*6,vocabulary,n.词汇,/vəˈkæbjələri/,必修第一册,高一上,7,True,False
+356,1*6,description,n.描写(文字);形容,/dɪˈskrɪpʃn/,必修第一册,高一上,7,True,False
+357,1*6,relate,vt.联系;讲述,/rɪˈleɪt/,必修第一册,高一上,7,True,False
+359,1*6,Korean,n.&a.(朝鲜/韩国)(语/人)的,/kə'rɪən/,必修第一册,高一上,7,True,True
+360,1*6,Danish,n.丹麦语;丹麦人 a.丹麦的,/ˈdeɪnɪʃ/,必修第一册,高一上,7,True,True
+361,1*6,Denmark,丹麦(国家名),/'denmɑ:k/,必修第一册,高一上,7,True,True
+362,1*6,Arabic,n.&a.阿拉伯语/文学(的),/ˈærəbɪk/,必修第一册,高一上,7,True,True
+363,1*6,FIFA,abbr.(源自法语)国际足联,/ˈfi:fə/,必修第一册,高一上,8,True,False
+364,2*1,heritage,n.遗产(国家社会长期形成),/ˈherɪtɪdʒ/,必修第二册,高一下,8,True,False
+365,2*1,creatively,adv.创造性地;有创造力地,/krɪ'eɪtɪvlɪ/,必修第二册,高一下,8,True,False
+366,2*1,creative,adj.创造性的;有创造力的,/kriˈeɪtɪv/,必修第二册,高一下,8,True,False
+367,2*1,temple,n.庙;寺,/ˈtempl/,必修第二册,高一下,8,True,False
+368,2*1,relic,n.遗物;遗迹.,/ˈrelɪk/,必修第二册,高一下,8,True,False
+369,2*1,mount,n.山峰 vt.爬上;骑上 vi.爬,/maʊnt/,必修第二册,高一下,8,True,False
+370,2*1,former,adj.以前的;(两者中)前者的,/ˈfɔ:mə(r)/,必修第二册,高一下,8,True,False
+371,2*1,clue,n.线索;提示,/klu:/,必修第二册,高一下,8,True,False
+372,2*1,preserve,vt.保存;保护 n.保护区,/prɪˈzɜ:v/,必修第二册,高一下,8,True,False
+373,2*1,promote,vt.促进;提升;推销;晋级,/prəˈməʊt/,必修第二册,高一下,8,True,False
+374,2*1,cypress,n.柏树,/ˈsaɪprəs/,必修第二册,高一下,8,True,False
+375,2*1,app,n.应用程序;应用软件,/æp/,必修第二册,高一下,8,True,False
+376,2*1,application,n.申请(表);用途;应用程序,/ˌæplɪˈkeɪʃn/,必修第二册,高一下,8,True,False
+379,2*1,balance,n.平衡;均匀 vt.使平衡,/ˈbæləns/,必修第二册,高一下,8,True,False
+382,2*1,dam,n.水坝;拦河坝,/dæm/,必修第二册,高一下,8,True,False
+383,2*1,proposal,n.提议;建议,/prəˈpəʊzl/,必修第二册,高一下,8,True,False
+385,2*1,protest,n.抗议 vi.&vt.(公开)反对,/ˈprəʊtest/,必修第二册,高一下,8,True,False
+386,2*1,likely,adj.可能的 adv.可能地,/ˈlaɪkli/,必修第二册,高一下,8,True,False
+388,2*1,committee,n.委员会,/kəˈmɪti/,必修第二册,高一下,8,True,False
+389,2*1,establish,vt.建立;创立,/ɪˈstæblɪʃ/,必修第二册,高一下,8,True,False
+390,2*1,limit,n.限度;限制 vt.限制;限定,/ˈlɪmɪt/,必修第二册,高一下,8,True,False
+391,2*1,prevent,vt.阻止;阻碍;阻挠,/prɪˈvent/,必修第二册,高一下,8,True,False
+393,2*1,loss,n.丧失;损失,/lɒs/,必修第二册,高一下,8,True,False
+394,2*1,contribution,n.捐款;贡献;捐赠,/ˌkɒntrɪˈbju:ʃn/,必修第二册,高一下,8,True,False
+395,2*1,contribute,vi.&vt.捐献;捐助,/kənˈtrɪbju:t/,必修第二册,高一下,8,True,False
+396,2*1,department,n.部;司;科,/dɪˈpɑ:tmənt/,必修第二册,高一下,8,True,False
+397,2*1,fund,n.基金;专款,/fʌnd/,必修第二册,高一下,8,True,False
+398,2*1,within,prep.在(某段时间/距离)内,/wɪˈðɪn/,必修第二册,高一下,8,True,False
+399,2*1,investigate,vi.&vt.调查;研究,/ɪnˈvestɪgeɪt/,必修第二册,高一下,8,True,False
+400,2*1,issue,n.重要议题 vi.宣布;公布,/ˈɪʃu:/,必修第二册,高一下,8,True,False
+401,2*1,conduct,n.行为;举止 vt.组织;安排,/kənˈdʌkt/,必修第二册,高一下,8,True,False
+402,2*1,document,n.文件;公文 vt.记录;记载,/ˈdɒkjumənt/,必修第二册,高一下,8,True,False
+403,2*1,donate,vt.(尤指向慈善)捐赠;赠送,/dəʊˈneɪt/,必修第二册,高一下,8,True,False
+405,2*1,disappear,vi.消失;灭绝;消亡,/ˌdɪsəˈpɪə(r)/,必修第二册,高一下,8,True,False
+406,2*1,attempt,n.&vt.企图;试图;尝试,/əˈtempt/,必修第二册,高一下,8,True,False
+408,2*1,worthwhile,adj.值得做的;值得花时间的,/ˌwɜ:θˈwaɪl/,必修第二册,高一下,8,True,False
+409,2*1,download,vt.&n.下载;下载的数据资料,/ˌdaʊnˈləʊd/,必修第二册,高一下,8,True,False
+410,2*1,republic,n.共和国,/rɪˈpʌblɪk/,必修第二册,高一下,8,True,False
+411,2*1,professional,adj.&n.专业的(人);职业的,/prəˈfeʃənl/,必修第二册,高一下,8,True,False
+412,2*1,archaeologist,n.考古学家,/ˌɑ:kiˈɒlədʒɪst/,必修第二册,高一下,8,True,False
+413,2*1,entrance,n.入口;进入,/ˈentrəns/,必修第二册,高一下,8,True,False
+414,2*1,pyramid,n.(古埃及的)金字塔;棱锥体,/ˈpɪrəmɪd/,必修第二册,高一下,8,True,False
+415,2*1,process,n.过程;进程 vt.处理;加工,/ˈprəʊses/,必修第二册,高一下,9,True,False
+416,2*1,overseas,adj.海外的 adv.在海外,/ˌəʊvəˈsi:z/,必修第二册,高一下,9,True,False
+417,2*1,exit,n.出口;通道 vi.&vt.出去,/ˈeksɪt/,必修第二册,高一下,9,True,False
+418,2*1,sheet,n.一张(纸);床单;被单,/ʃi:t/,必修第二册,高一下,9,True,False
+419,2*1,parade,n.游行;检阅 vi.游行庆祝,/pəˈreɪd/,必修第二册,高一下,9,True,False
+420,2*1,mirror,n.镜子,/ˈmɪrə(r)/,必修第二册,高一下,9,True,False
+421,2*1,roof,n.顶部;屋顶,/ru:f/,必修第二册,高一下,9,True,False
+422,2*1,chiwen,鸱吻,/kaɪ wɛn/,必修第二册,高一下,9,True,False
+423,2*1,dragon,n.龙,/ˈdrægən/,必修第二册,高一下,9,True,False
+424,2*1,forgive,vt.&vi.原谅;宽恕;对不起,/fəˈgɪv/,必修第二册,高一下,9,True,False
+425,2*1,digital,adj.数码的;数字显示的,/ˈdɪdʒɪtl/,必修第二册,高一下,9,True,False
+426,2*1,image,n.形象;印象,/ˈɪmɪdʒ/,必修第二册,高一下,9,True,False
+427,2*1,cave,n.山洞;洞穴,/keɪv/,必修第二册,高一下,9,True,False
+428,2*1,throughout,prep.各处;遍及;自始至终,/θru:ˈaʊt/,必修第二册,高一下,9,True,False
+429,2*1,quality,n.质量;品质 adj.优质的,/ˈkwɒləti/,必修第二册,高一下,9,True,False
+431,2*1,tradition,n.传统;传统的信仰或风俗,/trəˈdɪʃn/,必修第二册,高一下,9,True,False
+432,2*1,further,adv.更远;进一步,/ˈfɜ:ðə(r)/,必修第二册,高一下,9,True,False
+433,2*1,historic,adj.历史著名的;有史时期的,/hɪˈstɒrɪk/,必修第二册,高一下,9,True,False
+434,2*1,opinion,n.意见;想法;看法,/əˈpɪnjən/,必修第二册,高一下,9,True,False
+435,2*1,quote,vt.引用,/kwəʊt/,必修第二册,高一下,9,True,False
+436,2*1,paraphrase,v.(用更易理解的文字)解释,/ˈpærəfreɪz/,必修第二册,高一下,9,True,False
+437,2*1,comparison,n.比较;相比,/kəmˈpærɪsn/,必修第二册,高一下,9,True,False
+438,2*1,contrast,n.对比;对照 vt.对比;对照,/ˈkɒntrɑ:st/,必修第二册,高一下,9,True,False
+439,2*1,identify,"vi,确认;认出;找到",/aɪˈdentɪfaɪ/,必修第二册,高一下,9,True,False
+440,2*1,forever,adv.永远;长久地,/fərˈevə(r)/,必修第二册,高一下,9,True,False
+443,2*1,Egypt,埃及(国家名),/'i:dʒɪpt/,必修第二册,高一下,9,True,True
+444,2*1,Egyptian,adj.埃及的,/ɪ'dʒɪpʃn/,必修第二册,高一下,9,True,True
+445,2*1,UNESCO,abbr.联合国教科文组织,/ju:ˈneskəʊ/,必修第二册,高一下,9,True,False
+446,2*1,Cairo,开罗(埃及首都),/'kaɪərəʊ/,必修第二册,高一下,9,True,True
+447,2*1,Tanzania,坦桑尼亚(国家名),/ˌtænzəˈni:ə/,必修第二册,高一下,9,True,True
+449,2*1,Moscow,莫斯科(俄罗斯首都),/'mɒskəʊ/,必修第二册,高一下,9,True,True
+453,2*2,poster,n.海报,/ˈpəʊstə(r)/,必修第二册,高一下,9,True,False
+454,2*2,illegal,adj.不合法的;非法的,/ɪˈli:gl/,必修第二册,高一下,9,True,False
+455,2*2,illegally,adv.不合法地;非法地,/ɪ'li:ɡəlɪ/,必修第二册,高一下,9,True,False
+456,2*2,hunt,vt.&vi.打猎;搜寻;追捕,/hʌnt/,必修第二册,高一下,9,True,False
+457,2*2,hunter,n.猎人,/ˈhʌntə(r)/,必修第二册,高一下,9,True,False
+458,2*2,immediately,adv.立刻,/ɪˈmi:diətli/,必修第二册,高一下,9,True,False
+459,2*2,species,n.物种,/ˈspi:ʃi:z/,必修第二册,高一下,9,True,False
+460,2*2,shark,n.鲨鱼,/ʃɑ:k/,必修第二册,高一下,9,True,False
+461,2*2,fin,n.(鱼的)鳍,/fɪn/,必修第二册,高一下,9,True,False
+464,2*2,alarming,adj.惊人的;使人惊恐的,/əˈlɑ:mɪŋ/,必修第二册,高一下,9,True,False
+465,2*2,alarm,vt.使惊恐;使害怕 n.恐慌,/əˈlɑ:m/,必修第二册,高一下,9,True,False
+466,2*2,rate,n.速度;(比)率 vt.划分等级,/reɪt/,必修第二册,高一下,9,True,False
+467,2*2,rating,n.等级;级别,/ˈreɪtɪŋ/,必修第二册,高一下,10,True,False
+468,2*2,extinct,adj.已灭绝的,/ɪkˈstɪŋkt/,必修第二册,高一下,10,True,False
+469,2*2,extinction,n.灭绝,/ɪkˈstɪŋkʃn/,必修第二册,高一下,10,True,False
+470,2*2,mass,adj.大量的;广泛的 n.大量,/mæs/,必修第二册,高一下,10,True,False
+471,2*2,habitat,n.(动植物)生活环境;栖息地,/ˈhæbɪtæt/,必修第二册,高一下,10,True,False
+472,2*2,aware,adj.知道;发觉;有…意识的,/əˈweə(r)/,必修第二册,高一下,10,True,False
+474,2*2,endanger,vt.使遭受危险;危害,/ɪnˈdeɪndʒə(r)/,必修第二册,高一下,10,True,False
+475,2*2,average,n.平均数 adj.平均的,/ˈævərɪdʒ/,必修第二册,高一下,10,True,False
+477,2*2,prince,n.王子;王孙;亲王,/prɪns/,必修第二册,高一下,10,True,False
+479,2*2,concern,vt.涉及;让……担忧,/kənˈsɜ:n/,必修第二册,高一下,10,True,False
+480,2*2,concerned,adj.担心的;关切的,/kənˈsɜ:nd/,必修第二册,高一下,10,True,False
+482,2*2,living,adj.居住的;活的 n.生活,/ˈlɪvɪŋ/,必修第二册,高一下,10,True,False
+483,2*2,adapt,vi.适应 vt.使适应;使适合,/əˈdæpt/,必修第二册,高一下,10,True,False
+485,2*2,measure,n.措施;方法 vt.测量;度量,/ˈmeʒə(r)/,必修第二册,高一下,10,True,False
+486,2*2,authority,n.官方;当权;权威,/ɔ:ˈθɒrəti/,必修第二册,高一下,10,True,False
+487,2*2,pressure,n.压力;要求,/ˈpreʃə(r)/,必修第二册,高一下,10,True,False
+489,2*2,whale,n.鲸,/weɪl/,必修第二册,高一下,10,True,False
+490,2*2,antelope,n.羚;羚类动物,/ˈæntɪləʊp/,必修第二册,高一下,10,True,False
+492,2*2,reserve,n.(动植物)保护区;储藏(量),/rɪˈzɜ:v/,必修第二册,高一下,10,True,False
+493,2*2,plain,n.平原 adj.简单明了的,/pleɪn/,必修第二册,高一下,10,True,False
+495,2*2,herd,n.牧群;兽群,/hɜ:d/,必修第二册,高一下,10,True,False
+496,2*2,observe,vt.观察(到);注视;遵守,/əbˈzɜ:v/,必修第二册,高一下,10,True,False
+497,2*2,beauty,n.美;美人;美好的东西,/ˈbju:ti/,必修第二册,高一下,10,True,False
+498,2*2,remind,vt.提醒;使想起,/rɪˈmaɪnd/,必修第二册,高一下,10,True,False
+500,2*2,fur,n.毛(皮);毛皮衣服,/fɜ:(r)/,必修第二册,高一下,10,True,False
+501,2*2,sacred,adj.神圣的;受尊敬的,/ˈseɪkrɪd/,必修第二册,高一下,10,True,False
+503,2*2,profit,n.利润;利益,/ˈprɒfɪt/,必修第二册,高一下,10,True,False
+506,2*2,attack,"n.,vi.&vt.攻击;抨击",/əˈtæk/,必修第二册,高一下,10,True,False
+507,2*2,effective,adj.有效的;生效的,/ɪˈfektɪv/,必修第二册,高一下,10,True,False
+508,2*2,recover,vi.恢复;康复 vt.找回;寻回,/rɪˈkʌvə(r)/,必修第二册,高一下,10,True,False
+509,2*2,remove,vt.去除;移开;脱去,/rɪˈmu:v/,必修第二册,高一下,10,True,False
+510,2*2,intend,vi.&vt.打算;计划;想要,/ɪnˈtend/,必修第二册,高一下,10,True,False
+511,2*2,threat,n.威胁,/θret/,必修第二册,高一下,10,True,False
+512,2*2,threaten,vt.威胁;危及,/ˈθretn/,必修第二册,高一下,10,True,False
+513,2*2,exist,vi.存在;生存,/ɪgˈzɪst/,必修第二册,高一下,10,True,False
+514,2*2,harmony,n.和谐;融洽,/ˈhɑ:məni/,必修第二册,高一下,10,True,False
+515,2*2,goods,n.商品;货物,/gʊdz/,必修第二册,高一下,10,True,False
+516,2*2,creature,n.生物;动物,/ˈkri:tʃə(r)/,必修第二册,高一下,10,True,False
+517,2*2,deer,n.鹿,/dɪə(r)/,必修第二册,高一下,10,True,False
+518,2*2,kangaroo,n.袋鼠,/ˌkæŋgəˈru:/,必修第二册,高一下,10,True,False
+519,2*2,reduce,vt.减少,/rɪˈdju:s/,必修第二册,高一下,11,True,False
+520,2*2,due,adj.由于;因为,/dju:/,必修第二册,高一下,11,True,False
+522,2*2,insect,n.昆虫,/ˈɪnsekt/,必修第二册,高一下,11,True,False
+523,2*2,net,n.网 adj.净得的;纯的,/net/,必修第二册,高一下,11,True,False
+524,2*2,neighbourhood,n.临近的地方;街区,/ˈneɪbəhʊd/,必修第二册,高一下,11,True,False
+525,2*2,binoculars,n.双筒望远镜,/bɪˈnɒkjələz/,必修第二册,高一下,11,True,False
+528,2*2,dolphin,n.海豚,/ˈdɒlfɪn/,必修第二册,高一下,11,True,False
+530,2*2,koala,n.树袋熊;考拉,/kəʊˈɑ:lə/,必修第二册,高一下,11,True,False
+531,2*2,stir,vt.激发;搅动,/stɜ:(r)/,必修第二册,高一下,11,True,False
+533,2*2,emotion,n.感情;情感;情绪,/ɪˈməʊʃn/,必修第二册,高一下,11,True,False
+534,2*2,skin,n.皮;皮肤,/skɪn/,必修第二册,高一下,11,True,False
+535,2*2,unusual,adj.特别的;不寻常的,/ʌnˈju:ʒuəl/,必修第二册,高一下,11,True,False
+536,2*2,Tibetan,adj.&n.西藏人/语(的),/tɪ'betn/,必修第二册,高一下,11,True,True
+537,2*2,Tibet,n.西藏,/'taɪbet/,必修第二册,高一下,11,True,True
+538,2*3,blog,n.博客 vi.写博客,/blɒg/,必修第二册,高一下,11,True,False
+540,2*3,blogger,n.博客作者;博主,/'blɒɡə(r)/,必修第二册,高一下,11,True,False
+541,2*3,engine,n.引擎;发动机;火车头,/ˈendʒɪn/,必修第二册,高一下,11,True,False
+543,2*3,chat,vi.聊天;闲聊,/tʃæt/,必修第二册,高一下,11,True,False
+544,2*3,stream,v.流播;流出;流动 n.小河,/stri:m/,必修第二册,高一下,11,True,False
+545,2*3,identity,n.身份;个性,/aɪˈdentəti/,必修第二册,高一下,11,True,False
+547,2*3,convenient,adj.方便的;近便的,/kənˈvi:niənt/,必修第二册,高一下,11,True,False
+548,2*3,cash,n.现金;金钱,/kæʃ/,必修第二册,高一下,11,True,False
+549,2*3,update,vt.更新 n.更新;最新消息,/ˌʌpˈdeɪt/,必修第二册,高一下,11,True,False
+550,2*3,database,n.数据库;资料库,/ˈdeɪtəbeɪs/,必修第二册,高一下,11,True,False
+551,2*3,software,n.软件,/ˈsɒftweə(r)/,必修第二册,高一下,11,True,False
+552,2*3,network,n.网络 vt.将…连成网,/ˈnetwɜ:k/,必修第二册,高一下,11,True,False
+553,2*3,stuck,adj.卡住;陷(入);困(于),/stʌk/,必修第二册,高一下,11,True,False
+555,2*3,surf,vt.&vi.浏览;冲浪,/sɜ:f/,必修第二册,高一下,11,True,False
+556,2*3,benefit,n.益处 vt.使受益,/ˈbenɪfɪt/,必修第二册,高一下,11,True,False
+557,2*3,distance,n.距离,/ˈdɪstəns/,必修第二册,高一下,11,True,False
+558,2*3,inspire,vt.鼓舞;激励;启发思考,/ɪnˈspaɪə(r)/,必修第二册,高一下,11,True,False
+560,2*3,access,n.通道;机会 vt.进入;使用,/ˈækses/,必修第二册,高一下,11,True,False
+561,2*3,charity,n.慈善;慈善机构(或组织),/ˈtʃærəti/,必修第二册,高一下,11,True,False
+563,2*3,tough,adj.艰难的;严厉的,/tʌf/,必修第二册,高一下,11,True,False
+564,2*3,province,n.省,/ˈprɒvɪns/,必修第二册,高一下,11,True,False
+565,2*3,conference,n.会议;研讨会;正式会谈,/ˈkɒnfərəns/,必修第二册,高一下,11,True,False
+566,2*3,resident,n.居民;(美国的)住院医生,/ˈrezɪdənt/,必修第二册,高一下,11,True,False
+567,2*3,plus,conj.而且;此外 n.加号,/plʌs/,必修第二册,高一下,11,True,False
+568,2*3,function,n.功能;作用 vi.起作用,/ˈfʌŋkʃn/,必修第二册,高一下,11,True,False
+569,2*3,battery,n.电池,/ˈbætri/,必修第二册,高一下,11,True,False
+570,2*3,confirm,vt.确认;使确信,/kənˈfɜ:m/,必修第二册,高一下,11,True,False
+571,2*3,Wi-Fi,n.无线保真(数据传输系统),/ˈwaɪ faɪ/,必修第二册,高一下,12,True,True
+572,2*3,press,"vt.按,压;敦促",/pres/,必修第二册,高一下,12,True,False
+573,2*3,button,n.按钮;纽扣,/ˈbʌtn/,必修第二册,高一下,12,True,False
+574,2*3,file,n.文件;文件夹;档案,/faɪl/,必修第二册,高一下,12,True,False
+577,2*3,discount,n.折扣 vt.打折,/ˈdɪskaʊnt/,必修第二册,高一下,12,True,False
+578,2*3,account,n.账户;描述,/əˈkaʊnt/,必修第二册,高一下,12,True,False
+579,2*3,click,vt.&vi.点击,/klɪk/,必修第二册,高一下,12,True,False
+580,2*3,privacy,n.隐私;私密,/ˈprɪvəsi/,必修第二册,高一下,12,True,False
+581,2*3,theft,n.偷(窃);盗窃罪,/θeft/,必修第二册,高一下,12,True,False
+582,2*3,rude,adj.粗鲁的;无礼的,/ru:d/,必修第二册,高一下,12,True,False
+583,2*3,target,n.目标;对象;靶子,/ˈtɑ:gɪt/,必修第二册,高一下,12,True,False
+584,2*3,troll,n.发挑衅帖子的人,/trɒl/,必修第二册,高一下,12,True,False
+585,2*3,cyberbully,n.网霸 vt.&vi.网络欺凌,/ˈsaɪbərbʊli/,必修第二册,高一下,12,True,False
+586,2*3,false,adj.假的;错误的,/fɔ:ls/,必修第二册,高一下,12,True,False
+587,2*3,particular,adj.特定的;特别的;讲究的,/pəˈtɪkjələ(r)/,必修第二册,高一下,12,True,False
+588,2*3,embarrassing,adj.让人难堪(尴尬;害羞)的,/ɪmˈbærəsɪŋ/,必修第二册,高一下,12,True,False
+590,2*3,upset,adj.心烦的;苦恼的;沮丧的,/ʌpˈset/,必修第二册,高一下,12,True,False
+591,2*3,guideline,n.准则;指导原则,/ˈgaɪdlaɪn/,必修第二册,高一下,12,True,False
+592,2*3,author,n.作者;作家,/ˈɔ:θə(r)/,必修第二册,高一下,12,True,False
+593,2*3,tip,n.忠告;诀窍;实用的提示,/tɪp/,必修第二册,高一下,12,True,False
+594,2*3,familiar,adj.熟悉;熟知,/fəˈmɪliə(r)/,必修第二册,高一下,12,True,False
+596,2*3,define,vt.给……下定义;界定;解释,/dɪˈfaɪn/,必修第二册,高一下,12,True,False
+597,2*3,case,n.盒;箱;情况;案件,/keɪs/,必修第二册,高一下,12,True,False
+600,2*3,Birmingham,伯明翰(英国城市),/'bɜ:mɪŋˌhæm/,必修第二册,高一下,12,True,True
+601,2*4,Confucius,n.孔子,/kənˈfjuːʃəs/,必修第二册,高一下,12,True,True
+602,2*4,mansion,n.公馆;宅第,/ˈmænʃn/,必修第二册,高一下,12,True,False
+603,2*4,cemetery,n.墓地;公墓,/ˈsemətri/,必修第二册,高一下,12,True,False
+604,2*4,philosophy,n.哲学,/fəˈlɒsəfi/,必修第二册,高一下,12,True,False
+605,2*4,descendant,n.后裔;后代;子孙,/dɪˈsendənt/,必修第二册,高一下,12,True,False
+606,2*4,individual,adj.单独的;个别的 n.个人,/ˌɪndɪˈvɪdʒuəl/,必修第二册,高一下,12,True,False
+607,2*4,heel,n.足跟;(脚、袜子等)后跟,/hi:l/,必修第二册,高一下,12,True,False
+609,2*4,kingdom,n.王国;领域,/ˈkɪŋdəm/,必修第二册,高一下,12,True,False
+610,2*4,chief,adj.最重要的 n.(机构)首领,/tʃi:f/,必修第二册,高一下,12,True,False
+611,2*4,puzzle,n.谜;智力游戏 vt.迷惑,/ˈpʌzl/,必修第二册,高一下,12,True,False
+612,2*4,nearby,adj.附近的;邻近的,/ˌnɪəˈbaɪ/,必修第二册,高一下,12,True,False
+615,2*4,belong,vi.应在(某处);适应,/bɪˈlɒŋ/,必修第二册,高一下,12,True,False
+618,2*4,currency,通货;货币,/ˈkʌrənsi/,必修第二册,高一下,12,True,False
+619,2*4,military,adj.军事的;军用的,/ˈmɪlətri/,必修第二册,高一下,12,True,False
+620,2*4,defence,n.防御;保卫,/dɪˈfens/,必修第二册,高一下,12,True,False
+621,2*4,legal,adj.法律的;合法的,/ˈli:gl/,必修第二册,高一下,12,True,False
+622,2*4,surround,vt.围绕;包围,/səˈraʊnd/,必修第二册,高一下,12,True,False
+623,2*4,evidence,n.证据;证明,/ˈevɪdəns/,必修第二册,高一下,13,True,False
+624,2*4,achievement,n.成就;成绩;达到,/əˈtʃi:vmənt/,必修第二册,高一下,13,True,False
+625,2*4,location,n.地方;地点;位置,/ləʊˈkeɪʃn/,必修第二册,高一下,13,True,False
+626,2*4,conquer,vt.占领;征服;控制,/ˈkɒŋkə(r)/,必修第二册,高一下,13,True,False
+627,2*4,battle,n.战役;搏斗 v.搏斗;奋斗,/ˈbætl/,必修第二册,高一下,13,True,False
+628,2*4,port,n.港口(城市),/pɔ:t/,必修第二册,高一下,13,True,False
+629,2*4,fascinating,adj.极有吸引力的;迷人的,/ˈfæsɪneɪtɪŋ/,必修第二册,高一下,13,True,False
+631,2*4,charge,n.收费;指控 vt.收费;控告,/tʃɑ:dʒ/,必修第二册,高一下,13,True,False
+632,2*4,announce,vt.宣布;通知;声称,/əˈnaʊns/,必修第二册,高一下,13,True,False
+633,2*4,amount,n.金额;数量,/əˈmaʊnt/,必修第二册,高一下,13,True,False
+634,2*4,gallery,n.(艺术作品的)展览馆;画廊,/ˈgæləri/,必修第二册,高一下,13,True,False
+635,2*4,approach,n.方法;途径 vt.接近;接洽,/əˈprəʊtʃ/,必修第二册,高一下,13,True,False
+636,2*4,ensure,vt.保证;确保;担保,/ɪn'ʃʊə(r)/,必修第二册,高一下,13,True,False
+637,2*4,landscape,"n.(陆上,尤指乡村的)风景",/ˈlændskeɪp/,必修第二册,高一下,13,True,False
+638,2*4,generous,adj.慷慨的;大方的;丰富的,/ˈdʒenərəs/,必修第二册,高一下,13,True,False
+639,2*4,butter,n.黄油;奶油 vt.涂黄油于,/ˈbʌtə(r)/,必修第二册,高一下,13,True,False
+640,2*4,honey,n.蜂蜜,/ˈhʌni/,必修第二册,高一下,13,True,False
+641,2*4,ancestor,n.祖宗;祖先,/ˈænsestə(r)/,必修第二册,高一下,13,True,False
+642,2*4,position,n.位置;姿态;职位,/pəˈzɪʃn/,必修第二册,高一下,13,True,False
+643,2*4,courtyard,n.庭院;院子,/ˈkɔ:tjɑ:d/,必修第二册,高一下,13,True,False
+644,2*4,snack,n.点心;小吃,/snæk/,必修第二册,高一下,13,True,False
+645,2*4,eager,adj.热切的;渴望的,/ˈi:gə(r)/,必修第二册,高一下,13,True,False
+646,2*4,poet,n.诗人,/ˈpəʊɪt/,必修第二册,高一下,13,True,False
+647,2*4,county,n.(英国)郡;(美国)县,/ˈkaʊnti/,必修第二册,高一下,13,True,False
+648,2*4,feast,n.盛宴;宴会;节日,/fi:st/,必修第二册,高一下,13,True,False
+649,2*4,roll,vi.(使)翻滚;(使)滚动,/rəʊl/,必修第二册,高一下,13,True,False
+650,2*4,dot,n.点;小(圆)点 vt.加点,/dɒt/,必修第二册,高一下,13,True,False
+651,2*4,cattle,n.牛,/ˈkætl/,必修第二册,高一下,13,True,False
+652,2*4,roar,vi.&n.吼叫;咆哮,/rɔ:(r)/,必修第二册,高一下,13,True,False
+653,2*4,ocean,n.大海;海洋,/ˈəʊʃn/,必修第二册,高一下,13,True,False
+654,2*4,scent,n.气味;气息,/sent/,必修第二册,高一下,13,True,False
+655,2*4,greet,vt.问候;迎接,/gri:t/,必修第二册,高一下,13,True,False
+656,2*4,pub,n.酒吧;酒馆,/pʌb/,必修第二册,高一下,13,True,False
+657,2*4,wine,n.葡萄酒;果酒,/waɪn/,必修第二册,高一下,13,True,False
+658,2*4,beer,n.(一杯)啤酒,/bɪə(r)/,必修第二册,高一下,13,True,False
+659,2*4,stew,n.炖菜(有肉和蔬菜) v.炖,/stju:/,必修第二册,高一下,13,True,False
+660,2*4,custom,n.风俗;习俗;习惯,/ˈkʌstəm/,必修第二册,高一下,13,True,False
+661,2*4,sensory,adj.感觉的;感官的,/ˈsensəri/,必修第二册,高一下,13,True,False
+662,2*4,striking,adj.引人注目的;显著的,/ˈstraɪkɪŋ/,必修第二册,高一下,13,True,False
+663,2*4,transition,n.过渡;转变;变迁,/trænˈzɪʃn/,必修第二册,高一下,13,True,False
+664,2*4,crowd,n.人群;一群;民众 vt.挤满,/kraʊd/,必修第二册,高一下,13,True,False
+665,2*4,Wales,威尔士(英国),/weɪlz/,必修第二册,高一下,13,True,True
+666,2*4,Scotland,苏格兰(英国),/'skɒtlənd/,必修第二册,高一下,13,True,True
+668,2*4,Anglo-Saxon,盎格鲁－撒克逊人,/ˈæŋgləʊ ˈsæksn/,必修第二册,高一下,13,True,True
+669,2*4,Viking,n.维京人;北欧海盗,/ˈvaɪkɪŋ/,必修第二册,高一下,13,True,True
+670,2*4,Norman,adj.诺曼式的;诺曼人的,/ˈnɔ:mən/,必修第二册,高一下,13,True,True
+673,2*4,Roman,adj.&n.古罗马(人)(的),/rɔmə/,必修第二册,高一下,13,True,True
+676,2*4,Irish,adj.爱尔兰(人/语)的,/ˈaɪrɪʃ/,必修第二册,高一下,14,True,True
+677,2*5,classical,adj.古典的;经典的,/ˈklæsɪkl/,必修第二册,高一下,14,True,False
+678,2*5,hip-hop,n.嘻哈音乐;嘻哈文化,/hɪp hɒp/,必修第二册,高一下,14,True,False
+679,2*5,techno,n.泰克诺音乐(快节奏音乐),/ˈteknəʊ/,必修第二册,高一下,14,True,False
+680,2*5,energy,n.能源;能量;精力,/ˈenədʒi/,必修第二册,高一下,14,True,False
+681,2*5,soul,n.灵魂;心灵,/səʊl/,必修第二册,高一下,14,True,False
+682,2*5,bagpipes,n.[pl.]风笛,/ˈbægpaɪps/,必修第二册,高一下,14,True,False
+683,2*5,stringed,adj.有弦的,/strɪŋd/,必修第二册,高一下,14,True,False
+685,2*5,virtual,adj.很接近的;事实上的,/ˈvɜ:tʃuəl/,必修第二册,高一下,14,True,False
+687,2*5,composition,n.成分;(音乐、艺术等)作品,/ˌkɒmpəˈzɪʃn/,必修第二册,高一下,14,True,False
+688,2*5,opportunity,n.机会;时机,/ˌɒpəˈtju:nəti/,必修第二册,高一下,14,True,False
+689,2*5,perform,vi.&vt.表演;履行;执行,/pəˈfɔ:m/,必修第二册,高一下,14,True,False
+690,2*5,performance,n.表演;演技;表现,/pəˈfɔ:məns/,必修第二册,高一下,14,True,False
+691,2*5,performer,n.表演者;演员,/pəˈfɔ:mə(r)/,必修第二册,高一下,14,True,False
+692,2*5,onto,prep.(朝)向,/ˈɒntə/,必修第二册,高一下,14,True,False
+693,2*5,studio,n.演播室;(音乐的)录音棚,/ˈstju:diəʊ/,必修第二册,高一下,14,True,False
+694,2*5,ordinary,adj.普通的;平凡的,/ˈɔ:dnri/,必修第二册,高一下,14,True,False
+695,2*5,enable,vt.使能够;使可能,/ɪˈneɪbl/,必修第二册,高一下,14,True,False
+696,2*5,prove,vt.证明;展现,/pru:v/,必修第二册,高一下,14,True,False
+697,2*5,award,vt.授予 n.奖品,/əˈwɔ:d/,必修第二册,高一下,14,True,False
+698,2*5,composer,n.作曲者;作曲家,/kəmˈpəʊzə(r)/,必修第二册,高一下,14,True,False
+699,2*5,conductor,n.(乐队)指挥;(公车)售票员,/kənˈdʌktə(r)/,必修第二册,高一下,14,True,False
+701,2*5,original,adj.原来的;独创的;原作的,/əˈrɪdʒənl/,必修第二册,高一下,14,True,False
+702,2*5,phenomenon,n.现象,/fəˈnɒmɪnən/,必修第二册,高一下,14,True,False
+703,2*5,stage,n.(发展或进展的)时期;阶段,/steɪdʒ/,必修第二册,高一下,14,True,False
+704,2*5,altogether,adv.(用以强调)全部;总共,/ˌɔ:ltəˈgeðə(r)/,必修第二册,高一下,14,True,False
+705,2*5,thus,adv.如此;因此,/ðʌs/,必修第二册,高一下,14,True,False
+706,2*5,band,n.乐队;带子,/bænd/,必修第二册,高一下,14,True,False
+707,2*5,rap,n.快速敲击;说唱音乐,/ræp/,必修第二册,高一下,14,True,False
+708,2*5,nowadays,adv.现在;目前,/ˈnaʊədeɪz/,必修第二册,高一下,14,True,False
+709,2*5,gradual,adj.逐渐的;渐进的,/ˈgrædʒuəl/,必修第二册,高一下,14,True,False
+710,2*5,capable,adj.有能力的;有才能的,/ˈkeɪpəbl/,必修第二册,高一下,14,True,False
+711,2*5,relief,n.(焦虑、痛苦)减轻或消除,/rɪˈli:f/,必修第二册,高一下,14,True,False
+712,2*5,cure,vt.治愈;治好(疾病) n.药物,/kjʊə(r)/,必修第二册,高一下,14,True,False
+714,2*5,previous,adj.先前的;以往的,/ˈpri:viəs/,必修第二册,高一下,14,True,False
+715,2*5,unemployed,adj.失业的;待业的,/ˌʌnɪmˈplɔɪd/,必修第二册,高一下,14,True,False
+716,2*5,romantic,adj.浪漫的 n.浪漫的人,/rəʊˈmæntɪk/,必修第二册,高一下,14,True,False
+717,2*5,album,n.相册;集邮簿;音乐专辑,/ˈælbəm/,必修第二册,高一下,14,True,False
+718,2*5,impact,n.巨大影响;强大作用,/ˈɪmpækt/,必修第二册,高一下,14,True,False
+719,2*5,aim,n.目的;目标 v.力求达到,/eɪm/,必修第二册,高一下,14,True,False
+721,2*5,equipment,n.设备;装备,/ɪˈkwɪpmənt/,必修第二册,高一下,14,True,False
+723,2*5,talent,n.天才;天资;天赋,/ˈtælənt/,必修第二册,高一下,14,True,False
+724,2*5,piano,n.钢琴,/piˈænəʊ/,必修第二册,高一下,14,True,False
+725,2*5,assume,vt.以为;假设,/əˈsju:m/,必修第二册,高一下,14,True,False
+726,2*5,addition,n.添加;加法;增加物,/əˈdɪʃn/,必修第二册,高一下,14,True,False
+728,2*5,disease,n.(疾)病,/dɪˈzi:z/,必修第二册,高一下,15,True,False
+729,2*5,ache,vi.&n.疼痛,/eɪk/,必修第二册,高一下,15,True,False
+730,2*5,treatment,n.治疗;对待;处理,/ˈtri:tmənt/,必修第二册,高一下,15,True,False
+732,2*5,lean,vt.依靠;倾斜,/li:n/,必修第二册,高一下,15,True,False
+734,2*5,moreover,adv.而且;此外,/mɔ:rˈəʊvə(r)/,必修第二册,高一下,15,True,False
+735,2*5,satisfaction,n.满足;满意;欣慰,/ˌsætɪsˈfækʃn/,必修第二册,高一下,15,True,False
+736,2*5,being,n.身心;存在;生物,/ˈbi:ɪŋ/,必修第二册,高一下,15,True,False
+737,2*5,various,adj.各种不同的;各种各样的,/ˈveəriəs/,必修第二册,高一下,15,True,False
+738,2*5,somehow,adv.以某种方式(或方法),/ˈsʌmhaʊ/,必修第二册,高一下,15,True,False
+739,2*5,rhetorical,adj.修辞的,/rɪˈtɒrɪkl/,必修第二册,高一下,15,True,False
+740,2*5,metaphor,n.暗喻;隐喻,/ˈmetəfə(r)/,必修第二册,高一下,15,True,False
+741,2*5,personification,n.拟人;人格化;化身,/pəˌsɒnɪfɪˈkeɪʃn/,必修第二册,高一下,15,True,False
+742,2*5,repetition,n.重复;重做,/ˌrepəˈtɪʃn/,必修第二册,高一下,15,True,False
+743,2*5,simile,n.明喻,/ˈsɪməli/,必修第二册,高一下,15,True,False
+744,2*5,outline,n.&vt.概述;概要,/ˈaʊtlaɪn/,必修第二册,高一下,15,True,False
+745,2*5,reaction,n.反应;回血,/riˈækʃn/,必修第二册,高一下,15,True,False
+747,2*5,Nevada,内华达州(美国),/neˈvɑ:də/,必修第二册,高一下,15,True,True
+748,2*5,Mozart,莫扎特,/'məʊtsɑ:t/,必修第二册,高一下,15,True,True
+750,2*5,UNICEF,abbr.联合国儿童基金会,/ˈju:nɪsef/,必修第二册,高一下,15,True,False
+752,2*5,John,A. Logan 约翰・洛根,/dʒɒn ə ˈləʊgən/,必修第二册,高一下,15,True,True
+753,3*1,lantern,n.灯笼;提灯,/ˈlæntən/,必修第三册,高一下,15,True,False
+754,3*1,carnival,n.狂欢节;嘉年华,/ˈkɑ:nɪvl/,必修第三册,高一下,15,True,False
+755,3*1,costume,n.(某地或某时期)服装;戏装,/ˈkɒstju:m/,必修第三册,高一下,15,True,False
+757,3*1,march,vi.&n.行进;前进;示威游行,/mɑ:tʃ/,必修第三册,高一下,15,True,False
+758,3*1,congratulation,n.祝贺;恭喜,/kənˌgrætʃuˈleɪʃn/,必修第三册,高一下,15,True,False
+759,3*1,congratulate,vt.向(某人)道贺;感到自豪,/kənˈgrætʃuleɪt/,必修第三册,高一下,15,True,False
+760,3*1,riddle,n.谜语;神秘事件,/ˈrɪdl/,必修第三册,高一下,15,True,False
+761,3*1,ceremony,n.典礼;仪式,/ˈserəməni/,必修第三册,高一下,15,True,False
+762,3*1,samba,n.桑巴舞;桑巴舞曲,/ˈsæmbə/,必修第三册,高一下,15,True,False
+763,3*1,make-up,n.化妆品;性格;构成方式,/meɪk ʌp/,必修第三册,高一下,15,True,False
+765,3*1,range,n.一系列;范围 vi.包括,/reɪndʒ/,必修第三册,高一下,15,True,False
+767,3*1,origin,n.起源;起因;出身,/ˈɒrɪdʒɪn/,必修第三册,高一下,15,True,False
+768,3*1,religion,n.宗教;宗教信仰,/rɪˈlɪdʒən/,必修第三册,高一下,15,True,False
+769,3*1,religious,adj.宗教的;笃信宗教的,/rɪˈlɪdʒəs/,必修第三册,高一下,15,True,False
+770,3*1,figure,n.人物;数字;身材 vt.认为,/ˈfɪgə(r)/,必修第三册,高一下,15,True,False
+771,3*1,charm,n.魅力;迷人的特征;咒语,/tʃɑ:m/,必修第三册,高一下,15,True,False
+772,3*1,joy,n.高兴;喜悦,/dʒɔɪ/,必修第三册,高一下,15,True,False
+773,3*1,joyful,adj.高兴的;快乐的,/ˈdʒɔɪfl/,必修第三册,高一下,15,True,False
+774,3*1,gratitude,n.感激之情;感谢,/ˈgrætɪtju:d/,必修第三册,高一下,15,True,False
+775,3*1,harvest,n.收获季节;收获 v.收割,/ˈhɑ:vɪst/,必修第三册,高一下,15,True,False
+776,3*1,agricultural,adj.农业(劳动/生产),/ˌæɡrɪ'kʌltʃərəl/,必修第三册,高一下,15,True,False
+777,3*1,agriculture,n.农业;农艺,/ˈægrɪkʌltʃə(r)/,必修第三册,高一下,15,True,False
+778,3*1,crop,n.庄稼;作物;一季的收成,/krɒp/,必修第三册,高一下,15,True,False
+779,3*1,gather,vi.聚集;集合 vt.聚集;搜集,/ˈgæðə(r)/,必修第三册,高一下,16,True,False
+780,3*1,grateful,adj.感激的;表示感谢的,/ˈgreɪtfl/,必修第三册,高一下,16,True,False
+781,3*1,feature,vt.以…为特色 n.特色,/ˈfi:tʃə(r)/,必修第三册,高一下,16,True,False
+782,3*1,decorate,vt.装饰;装潢,/ˈdekəreɪt/,必修第三册,高一下,16,True,False
+783,3*1,church,n.(基督教的)教堂;礼拜堂,/tʃɜ:tʃ/,必修第三册,高一下,16,True,False
+784,3*1,significant,adj.有重大意义的;显著的,/sɪgˈnɪfɪkənt/,必修第三册,高一下,16,True,False
+785,3*1,fade,vi.&vt.逐渐消失;(使)褪色,/feɪd/,必修第三册,高一下,16,True,False
+787,3*1,typical,adj.典型的;有代表性的,/ˈtɪpɪkl/,必修第三册,高一下,16,True,False
+788,3*1,firecracker,n.鞭炮;爆竹,/ˈfaɪəkrækə(r)/,必修第三册,高一下,16,True,False
+789,3*1,evil,adj.邪恶的;有害的 n.邪恶,/ˈi:vl/,必修第三册,高一下,16,True,False
+791,3*1,commercial,adj.商业(化)的,/kəˈmɜ:ʃl/,必修第三册,高一下,16,True,False
+792,3*1,commercialise,vt.使商业化;用…牟利,/kə'mɜ:ʃəlaɪz/,必修第三册,高一下,16,True,False
+793,3*1,commercialisation,n.商业化,/kəˌmɜ:ʃəlaɪ'zeɪʃən/,必修第三册,高一下,16,True,False
+795,3*1,medium,n.媒介;手段 adj.中等的,/ˈmi:diəm/,必修第三册,高一下,16,True,False
+797,3*1,reflect,vt.显示;反映;反射,/rɪˈflekt/,必修第三册,高一下,16,True,False
+798,3*1,belief,n.信仰;信心;信任,/bɪˈli:f/,必修第三册,高一下,16,True,False
+799,3*1,faith,n.宗教信仰;信任;相信,/feɪθ/,必修第三册,高一下,16,True,False
+800,3*1,occasion,n.特别的事(或仪式、庆典),/əˈkeɪʒn/,必修第三册,高一下,16,True,False
+802,3*1,atmosphere,n.气氛;氛围;(地球)大气层,/ˈætməsfɪə(r)/,必修第三册,高一下,16,True,False
+803,3*1,lunar,adj.阴历的;月球的;月亮的,/ˈlu:nə(r)/,必修第三册,高一下,16,True,False
+804,3*1,eve,n.前夕;前一天,/i:v/,必修第三册,高一下,16,True,False
+805,3*1,envelope,n.信封;塑料封套,/ˈenvələʊp/,必修第三册,高一下,16,True,False
+807,3*1,merry,adj.愉快的;高兴的,/ˈmeri/,必修第三册,高一下,16,True,False
+809,3*1,pumpkin,n.南瓜,/ˈpʌmpkɪn/,必修第三册,高一下,16,True,False
+810,3*1,pudding,n.布丁;(餐末的)甜食,/ˈpʊdɪŋ/,必修第三册,高一下,16,True,False
+812,3*1,roast,adj.烤的;焙的 v.烘烤;焙,/rəʊst/,必修第三册,高一下,16,True,False
+813,3*1,turkey,n.火鸡;火鸡肉,/ˈtɜ:ki/,必修第三册,高一下,16,True,False
+815,3*1,pleased,adj.高兴的;满意的,/pli:zd/,必修第三册,高一下,16,True,False
+816,3*1,firework,n.烟花;[pl.]烟花表演,/ˈfaɪəwɜ:k/,必修第三册,高一下,16,True,False
+817,3*1,frank,adj.坦率的;直率的,/fræŋk/,必修第三册,高一下,16,True,False
+821,3*1,inner,adj.内部的;里面的;内心的,/ˈɪnə(r)/,必修第三册,高一下,16,True,False
+822,3*1,autonomous,adj.自治的;有自治权的,/ɔ:ˈtɒnəməs/,必修第三册,高一下,16,True,False
+823,3*1,region,n.地区;区域;地带,/ˈri:dʒən/,必修第三册,高一下,16,True,False
+824,3*1,represent,vt.象征;代表;相当于,/ˌreprɪˈzent/,必修第三册,高一下,16,True,False
+825,3*1,wrestling,n.摔跤运动,/ˈreslɪŋ/,必修第三册,高一下,16,True,False
+826,3*1,wrestle,vi.&vt.摔跤;奋力对付,/ˈresl/,必修第三册,高一下,16,True,False
+827,3*1,wrestler,n.摔跤运动员,/ˈreslə(r)/,必修第三册,高一下,16,True,False
+828,3*1,archery,n.射箭术;射箭运动,/ˈɑ:tʃəri/,必修第三册,高一下,16,True,False
+830,3*1,fancy,adj.花哨的;精致的 v.想要,/ˈfænsi/,必修第三册,高一下,16,True,False
+831,3*1,robe,n.袍服;礼袍,/rəʊb/,必修第三册,高一下,17,True,False
+832,3*1,eagle,n.雕,/ˈi:gl/,必修第三册,高一下,17,True,False
+833,3*1,grace,n.优美;优雅;高雅,/greɪs/,必修第三册,高一下,17,True,False
+834,3*1,absolutely,adv.绝对地;完全地,/ˈæbsəlu:tli/,必修第三册,高一下,17,True,False
+835,3*1,moment,n.片刻;瞬间,/ˈməʊmənt/,必修第三册,高一下,17,True,False
+836,3*1,tent,n.帐篷,/tent/,必修第三册,高一下,17,True,False
+837,3*1,pot,n.罐;壶;锅,/pɒt/,必修第三册,高一下,17,True,False
+838,3*1,brief,adj.简洁的;简单的;短暂的,/bri:f/,必修第三册,高一下,17,True,False
+839,3*1,branch,n.树枝;分支;支流,/brɑ:ntʃ/,必修第三册,高一下,17,True,False
+840,3*1,wedding,n.婚礼;结婚庆典,/ˈwedɪŋ/,必修第三册,高一下,17,True,False
+841,3*1,clap,vt.鼓掌;拍手;击掌 n.鼓掌,/klæp/,必修第三册,高一下,17,True,False
+842,3*1,respect,n.&vt.尊敬;尊重,/rɪˈspekt/,必修第三册,高一下,17,True,False
+843,3*1,horrible,adj.令人震惊的;恐怖的,/ˈhɒrəbl/,必修第三册,高一下,17,True,False
+845,3*1,Rio,里约热内卢(巴西城市),/rɪəʊ/,必修第三册,高一下,17,True,True
+846,3*1,Carla,卡拉,/ˈkɑ:lə/,必修第三册,高一下,17,True,True
+847,3*1,Halloween,n.万圣节前夕,/ˌhæləʊˈi:n/,必修第三册,高一下,17,True,True
+850,3*1,Bunol,布尼奥尔(西班牙小镇),,必修第三册,高一下,17,True,True
+853,3*1,Mongolian,n.&adj.蒙古(人/语)(的),/mɔŋ'ɡuliən/,必修第三册,高一下,17,True,True
+854,3*2,moral,adj.道德的;道义的 n.品行,/ˈmɒrəl/,必修第三册,高一下,17,True,False
+855,3*2,virtue,n.高尚的道德;美德,/ˈvɜ:tʃu:/,必修第三册,高一下,17,True,False
+856,3*2,dilemma,n.进退两难的境地;困境,/dɪˈlemə/,必修第三册,高一下,17,True,False
+858,3*2,faint,vi.昏倒;晕厥 adj.不清楚的,/feɪnt/,必修第三册,高一下,17,True,False
+859,3*2,illustrate,vt.(举例)说明;阐明,/ˈɪləstreɪt/,必修第三册,高一下,17,True,False
+860,3*2,precious,adj.珍稀的;宝贵的,/ˈpreʃəs/,必修第三册,高一下,17,True,False
+861,3*2,entrust,vt.委托;交付,/ɪnˈtrʌst/,必修第三册,高一下,17,True,False
+863,3*2,marriage,n.结婚;婚姻,/ˈmærɪdʒ/,必修第三册,高一下,17,True,False
+864,3*2,majority,n.大部分;大多数,/məˈdʒɒrəti/,必修第三册,高一下,17,True,False
+865,3*2,complain,vi.&vt.抱怨;发牢骚,/kəmˈpleɪn/,必修第三册,高一下,17,True,False
+866,3*2,tuition,n.(小组)教学;讲课,/tjuˈɪʃn/,必修第三册,高一下,17,True,False
+867,3*2,fee,n.专业服务费;报酬,/fi:/,必修第三册,高一下,17,True,False
+869,3*2,respond,vt.回答;回复 vi.做出反应,/rɪˈspɒnd/,必修第三册,高一下,17,True,False
+870,3*2,response,n.反应;回答;回复,/rɪˈspɒns/,必修第三册,高一下,17,True,False
+871,3*2,union,n.协会;联合会;工会,/ˈju:niən/,必修第三册,高一下,17,True,False
+872,3*2,scholarship,n.奖学金,/ˈskɒləʃɪp/,必修第三册,高一下,17,True,False
+873,3*2,hire,vt.聘任;雇用;租用 n.租借,/ˈhaɪə(r)/,必修第三册,高一下,17,True,False
+874,3*2,physician,n.医师;(尤指)内科医生,/fɪˈzɪʃn/,必修第三册,高一下,17,True,False
+876,3*2,colleague,n.同事;同僚,/ˈkɒli:g/,必修第三册,高一下,17,True,False
+877,3*2,reject,vt.拒绝接受;不录用,/rɪˈdʒekt/,必修第三册,高一下,17,True,False
+878,3*2,rejection,n.拒绝接受;否决,/rɪ'dʒekʃn/,必修第三册,高一下,17,True,False
+879,3*2,appoint,vt.任命;委派,/əˈpɔɪnt/,必修第三册,高一下,17,True,False
+880,3*2,clinic,n.诊所;门诊部,/ˈklɪnɪk/,必修第三册,高一下,17,True,False
+881,3*2,faraway,adj.遥远的,/ˈfɑ:rəweɪ/,必修第三册,高一下,17,True,False
+882,3*2,elect,vt.选举;推选,/ɪˈlekt/,必修第三册,高一下,17,True,False
+883,3*2,election,n.选举;推选;当选,/ɪˈlekʃn/,必修第三册,高一下,18,True,False
+884,3*2,decade,n.十年;十年期,/ˈdekeɪd/,必修第三册,高一下,18,True,False
+885,3*2,elsewhere,adv.在别处;去别处,/ˌelsˈweə(r)/,必修第三册,高一下,18,True,False
+886,3*2,tend,vt.照顾;照料 vi.倾向,/tend/,必修第三册,高一下,18,True,False
+888,3*2,publish,vt.发表(作品);出版,/ˈpʌblɪʃ/,必修第三册,高一下,18,True,False
+889,3*2,staff,n.员工;全体职员,/stɑ:f/,必修第三册,高一下,18,True,False
+890,3*2,retire,vi.&vt.退休;退职;退出,/rɪˈtaɪə(r)/,必修第三册,高一下,18,True,False
+891,3*2,saving,n.节省物;节省;[pl.]储蓄金,/ˈseɪvɪŋ/,必修第三册,高一下,18,True,False
+892,3*2,kindergarten,n.学前班;幼儿园,/ˈkɪndəgɑ:tn/,必修第三册,高一下,18,True,False
+893,3*2,principle,n.道德原则;法则;原则,/ˈprɪnsəpl/,必修第三册,高一下,18,True,False
+894,3*2,passive,adj.被动的;顺从的,/ˈpæsɪv/,必修第三册,高一下,18,True,False
+895,3*2,scared,adj.害怕的;对…感到惊慌,/skeəd/,必修第三册,高一下,18,True,False
+896,3*2,scare,vt.惊吓;使害怕 vi.受惊吓,/skeə(r)/,必修第三册,高一下,18,True,False
+897,3*2,sharp,adj.(增长/下跌等)急剧的,/ʃɑ:p/,必修第三册,高一下,18,True,False
+898,3*2,insurance,n.保险;保险业,/ɪnˈʃʊərəns/,必修第三册,高一下,18,True,False
+899,3*2,energetic,adj.精力充沛的;充满活力的,/ˌenəˈdʒetɪk/,必修第三册,高一下,18,True,False
+900,3*2,replace,vt.接替;取代;更换,/rɪˈpleɪs/,必修第三册,高一下,18,True,False
+901,3*2,accident,n.事故;车祸;失事,/ˈæksɪdənt/,必修第三册,高一下,18,True,False
+902,3*2,operation,n.手术;企业;经营,/ˌɒpəˈreɪʃn/,必修第三册,高一下,18,True,False
+903,3*2,whisper,v.悄声说;耳语 n.耳语(声),/ˈwɪspə(r)/,必修第三册,高一下,18,True,False
+904,3*2,midnight,n.子夜;午夜,/ˈmɪdnaɪt/,必修第三册,高一下,18,True,False
+905,3*2,import,n.进口;进口商品 vt.进口,/ˈɪmpɔ:t/,必修第三册,高一下,18,True,False
+906,3*2,export,n.出口;出口商品 vt.出口,/ˈekspɔ:t/,必修第三册,高一下,18,True,False
+907,3*2,pole,n.(行星的)极;地极,/pəʊl/,必修第三册,高一下,18,True,False
+908,3*2,lap,n.(坐着)大腿部;(跑道)一圈,/læp/,必修第三册,高一下,18,True,False
+909,3*2,bite,vt.&vi.咬;叮;蜇 n.咬,/baɪt/,必修第三册,高一下,18,True,False
+910,3*2,lip,n.嘴唇,/lɪp/,必修第三册,高一下,18,True,False
+911,3*2,assist,vt.帮助;援助,/əˈsɪst/,必修第三册,高一下,18,True,False
+914,3*2,chairman,n.主席;主持人;董事长,/ˈtʃeəmən/,必修第三册,高一下,18,True,False
+915,3*2,memory,n.记忆力;回忆,/ˈmeməri/,必修第三册,高一下,18,True,False
+917,3*2,chain,n.一连串(人或事);链子,/tʃeɪn/,必修第三册,高一下,18,True,False
+918,3*2,cafe,n.咖啡馆;小餐馆,/ˈkæfeɪ/,必修第三册,高一下,18,True,False
+919,3*2,waitress,n.(餐馆)女服务员;女侍者,/ˈweɪtrəs/,必修第三册,高一下,18,True,False
+920,3*2,pregnant,adj怀孕的;妊娠的,/ˈpregnənt/,必修第三册,高一下,18,True,False
+921,3*2,disguise,vt.装扮;假扮;掩盖 n.伪装,/dɪsˈgaɪz/,必修第三册,高一下,18,True,False
+922,3*2,maple,n.枫树;槭树,/ˈmeɪpl/,必修第三册,高一下,18,True,False
+923,3*2,cart,n.手推车;运货马车,/kɑ:t/,必修第三册,高一下,18,True,False
+924,3*2,spill,vt.&vi.(使)洒出;(使)溢出,/spɪl/,必修第三册,高一下,18,True,False
+926,3*2,limp,vi.跛行; 一瘸一拐地走,/lɪmp/,必修第三册,高一下,18,True,False
+927,3*2,tear,n.眼泪;泪水,/teə(r)/,必修第三册,高一下,18,True,False
+929,3*2,harm,n.&vt.伤害;损害,/hɑ:m/,必修第三册,高一下,18,True,False
+930,3*2,despair,n.绝望 vi.绝望;感到无望,/dɪˈspeə(r)/,必修第三册,高一下,18,True,False
+932,3*2,might,n.力量;威力,/maɪt/,必修第三册,高一下,18,True,False
+934,3*2,fable,n.寓言;寓言故事,/ˈfeɪbl/,必修第三册,高一下,18,True,False
+935,3*2,court,n.(网球等)球场;法院;法庭,/kɔ:t/,必修第三册,高一下,19,True,False
+936,3*2,flexible,adj.灵活的;可变通的,/ˈfleksəbl/,必修第三册,高一下,19,True,False
+937,3*2,income,n.收入;收益,/ˈɪnkʌm/,必修第三册,高一下,19,True,False
+938,3*2,per,prep.每;每一,/pə(r)/,必修第三册,高一下,19,True,False
+939,3*2,therefore,adv.因此;所以,/ˈðeəfɔ:(r)/,必修第三册,高一下,19,True,False
+940,3*2,tension,n.紧张关系;紧张;焦虑,/ˈtenʃn/,必修第三册,高一下,19,True,False
+948,3*3,diverse,adj.不同的;多种多样的,/daɪˈvɜ:s/,必修第三册,高一下,19,True,False
+949,3*3,diversity,n.差异(性);不同(点);,/daɪˈvɜ:səti/,必修第三册,高一下,19,True,False
+950,3*3,fortune,n.机会;运气,/ˈfɔ:tʃu:n/,必修第三册,高一下,19,True,False
+952,3*3,gumbo,n.秋葵汤,/ˈgʌmbəʊ/,必修第三册,高一下,19,True,False
+953,3*3,nachos,n.[pl.]墨西哥玉米片,/ˈnætʃəʊz/,必修第三册,高一下,19,True,False
+954,3*3,chip,n.炸土豆条;炸薯片;芯片,/tʃɪp/,必修第三册,高一下,19,True,False
+955,3*3,cheese,n.干酪;奶酪,/tʃi:z/,必修第三册,高一下,19,True,False
+956,3*3,spicy,adj.加有香料的;辛辣的,/ˈspaɪsi/,必修第三册,高一下,19,True,False
+957,3*3,ethnic,adj.具有民族特色的,/ˈeθnɪk/,必修第三册,高一下,19,True,False
+958,3*3,admit,vi.&vt.承认 vt.准许进入,/ədˈmɪt/,必修第三册,高一下,19,True,False
+959,3*3,definitely,adv.肯定;确实,/ˈdefɪnətli/,必修第三册,高一下,19,True,False
+960,3*3,occur,vi.发生;出现,/əˈkɜ:(r)/,必修第三册,高一下,19,True,False
+961,3*3,downtown,adv.在市中心;往市中心,/ˌdaʊnˈtaʊn/,必修第三册,高一下,19,True,False
+962,3*3,mission,n.传教(区) ;重要任务,/ˈmɪʃn/,必修第三册,高一下,19,True,False
+963,3*3,district,n.地区;区域,/ˈdɪstrɪkt/,必修第三册,高一下,19,True,False
+964,3*3,graffiti,n.[pl.]涂鸦;胡写乱画,/grəˈfi:ti/,必修第三册,高一下,19,True,False
+965,3*3,comic,n.连环画杂志 adj.滑稽的,/ˈkɒmɪk/,必修第三册,高一下,19,True,False
+966,3*3,afterwards,adv.以后;后来,/ˈɑ:ftəwədz/,必修第三册,高一下,19,True,False
+968,3*3,historical,adj.(有关)历史的,/hɪˈstɒrɪkl/,必修第三册,高一下,19,True,False
+969,3*3,seek,vt.&vi.寻找;寻求;争取,/si:k/,必修第三册,高一下,19,True,False
+971,3*3,earn,vt.&vi.挣得;赚得;贏得,/ɜ:n/,必修第三册,高一下,19,True,False
+973,3*3,immigrant,n.(外来)移民;外侨,/ˈɪmɪgrənt/,必修第三册,高一下,19,True,False
+974,3*3,select,vt.选择;挑选;选拔,/sɪˈlekt/,必修第三册,高一下,19,True,False
+975,3*3,china,n.瓷;瓷器,/'tʃaɪnə/,必修第三册,高一下,19,True,False
+976,3*3,jazz,n.爵士乐,/dʒæz/,必修第三册,高一下,19,True,False
+977,3*3,bar,n.酒吧;小吃店;小馆子,/bɑ:(r)/,必修第三册,高一下,19,True,False
+978,3*3,diagram,n.简图;图解;图表;示意图,/ˈdaɪəgræm/,必修第三册,高一下,19,True,False
+979,3*3,journal,n.日志;日记; 报纸;刊物,/ˈdʒɜ:nl/,必修第三册,高一下,19,True,False
+980,3*3,claim,vt.&n.夺取(生命);宣称,/kleɪm/,必修第三册,高一下,19,True,False
+981,3*3,series,n.一系列;连续;接连,/ˈsɪəri:z/,必修第三册,高一下,19,True,False
+984,3*3,minority,n.少数民族;少数派;少数人,/maɪˈnɒrəti/,必修第三册,高一下,19,True,False
+985,3*3,escape,vi.&vt.逃走;逃脱 n.逃跑,/ɪˈskeɪp/,必修第三册,高一下,19,True,False
+987,3*3,Atlantic,adj.大西洋的,/ət'læntɪk/,必修第三册,高一下,20,True,True
+988,3*3,financial,adj.财政的;财务的;金融的,/faɪˈnænʃl/,必修第三册,高一下,20,True,False
+989,3*3,poetry,n.诗集;诗歌;诗作,/ˈpəʊətri/,必修第三册,高一下,20,True,False
+990,3*3,jeans,n.牛仔裤,/dʒi:nz/,必修第三册,高一下,20,True,False
+991,3*3,boot,n.靴子,/bu:t/,必修第三册,高一下,20,True,False
+992,3*3,mushroom,n.蘑菇;蕈,/ˈmʌʃrʊm/,必修第三册,高一下,20,True,False
+993,3*3,poisonous,adj.引起中毒的;有毒的,/ˈpɔɪzənəs/,必修第三册,高一下,20,True,False
+994,3*3,poison,n.毒物;毒药;毒素 vt.毒死,/ˈpɔɪzn/,必修第三册,高一下,20,True,False
+995,3*3,fold,vt.包;裹;折叠 v.(可)折小,/fəʊld/,必修第三册,高一下,20,True,False
+996,3*3,super,adv.特别;格外 adj.顶好的,/ˈsu:pə(r)/,必修第三册,高一下,20,True,False
+997,3*3,collection,n.作品集;收集物;收藏品,/kəˈlekʃn/,必修第三册,高一下,20,True,False
+998,3*3,accessory,n.配饰;附件;配件,/əkˈsesəri/,必修第三册,高一下,20,True,False
+999,3*3,souvenir,n.纪念物;纪念品,/ˌsu:vəˈnɪə(r)/,必修第三册,高一下,20,True,False
+1000,3*3,percentage,n.百分率;百分比,/pəˈsentɪdʒ/,必修第三册,高一下,20,True,False
+1001,3*3,climate,n.气候,/ˈklaɪmət/,必修第三册,高一下,20,True,False
+1002,3*3,mild,adj.温和的;和善的;轻微的,/maɪld/,必修第三册,高一下,20,True,False
+1003,3*3,settle,vt.&vi.定居;结束(争论),/ˈsetl/,必修第三册,高一下,20,True,False
+1004,3*3,construction,n.建筑;建造;(句子等)结构,/kənˈstrʌkʃn/,必修第三册,高一下,20,True,False
+1005,3*3,material,n.材料;布料 adj.物质的,/məˈtɪəriəl/,必修第三册,高一下,20,True,False
+1008,3*3,clothing,n.衣服;服装,/ˈkləʊðɪŋ/,必修第三册,高一下,20,True,False
+1009,3*3,herbal,adj.药草的;香草的,/ˈhɜ:bl/,必修第三册,高一下,20,True,False
+1010,3*3,suit,vt.适合;满足需要 n.西服,/su:t/,必修第三册,高一下,20,True,False
+1012,3*3,item,n.项目;一件商品(或物品),/ˈaɪtəm/,必修第三册,高一下,20,True,False
+1013,3*3,contain,vt.包含;含有;容纳,/kənˈteɪn/,必修第三册,高一下,20,True,False
+1014,3*3,neat,adj.极好的;整洁的;整齐的,/ni:t/,必修第三册,高一下,20,True,False
+1019,3*3,Mexico,墨西哥(北美洲国家),/'meksɪkəʊ/,必修第三册,高一下,20,True,True
+1020,3*3,California,加利福尼亚(美国州名),/ˌkælɪ'fɔ:njə/,必修第三册,高一下,20,True,True
+1021,3*3,Cantonese,adj.广东的;粤语的 n.粤语,/ˌkæntəˈni:z/,必修第三册,高一下,20,True,True
+1029,3*4,astronaut,n.宇航员;太空人,/ˈæstrənɔ:t/,必修第三册,高一下,20,True,False
+1030,3*4,procedure,n.程序;步骤;手续,/prəˈsi:dʒə(r)/,必修第三册,高一下,20,True,False
+1031,3*4,mental,adj.精神的;思想的,/ˈmentl/,必修第三册,高一下,20,True,False
+1032,3*4,cm,abbr.厘米,/siː em/,必修第三册,高一下,20,True,False
+1033,3*4,intelligent,adj.有智慧的;聪明的,/ɪnˈtelɪdʒənt/,必修第三册,高一下,20,True,False
+1034,3*4,rocket,n.火箭;火箭弹,/ˈrɒkɪt/,必修第三册,高一下,20,True,False
+1035,3*4,gravity,n.重力;引力,/ˈgrævəti/,必修第三册,高一下,20,True,False
+1036,3*4,frontier,n.边境;国界;边远地区,/ˈfrʌntɪə(r)/,必修第三册,高一下,20,True,False
+1037,3*4,vehicle,n.交通工具;车辆,/ˈvi:əkl/,必修第三册,高一下,20,True,False
+1038,3*4,universe,n.宇宙;天地万物,/ˈju:nɪvɜ:s/,必修第三册,高一下,20,True,False
+1039,3*4,determined,adj.有决心的;意志坚定的,/dɪˈtɜ:mɪnd/,必修第三册,高一下,21,True,False
+1040,3*4,determine,vt.查明;确定;决定,/dɪˈtɜ:mɪn/,必修第三册,高一下,21,True,False
+1041,3*4,satellite,n.人造卫星;卫星,/ˈsætəlaɪt/,必修第三册,高一下,21,True,False
+1042,3*4,launch,vt.&n.发射;发起;上市,/lɔ:ntʃ/,必修第三册,高一下,21,True,False
+1043,3*4,orbit,n.轨道 vt.&vi.沿轨道运行,/ˈɔ:bɪt/,必修第三册,高一下,21,True,False
+1044,3*4,giant,adj.巨大的;伟大的 n.巨人,/ˈdʒaɪənt/,必修第三册,高一下,21,True,False
+1045,3*4,leap,n.跳跃;剧增 vi.&vt.跳过,/li:p/,必修第三册,高一下,21,True,False
+1046,3*4,mankind,n.人类,/mænˈkaɪnd/,必修第三册,高一下,21,True,False
+1047,3*4,agency,n.(政府)专门机构;服务机构,/ˈeɪdʒənsi/,必修第三册,高一下,21,True,False
+1048,3*4,transmit,vt.&vi.传输;发送,/trænsˈmɪt/,必修第三册,高一下,21,True,False
+1049,3*4,data,n.[pl.]资料;数据,/ˈdeɪtə/,必修第三册,高一下,21,True,False
+1050,3*4,disappointed,adj.失望的;沮丧的,/ˌdɪsəˈpɔɪntɪd/,必修第三册,高一下,21,True,False
+1051,3*4,desire,n.渴望;欲望 vt.渴望,/dɪˈzaɪə(r)/,必修第三册,高一下,21,True,False
+1053,3*4,ongoing,adj.持续存在的;仍在进行的,/ˈɒngəʊɪŋ/,必修第三册,高一下,21,True,False
+1055,3*4,independently,adv.独立地;自立地,/ˌɪndɪ'pendəntlɪ/,必修第三册,高一下,21,True,False
+1056,3*4,independent,adj.独立的;自立的,/ˌɪndɪˈpendənt/,必修第三册,高一下,21,True,False
+1057,3*4,spacecraft,n.航天器;宇宙飞船,/ˈspeɪskrɑ:ft/,必修第三册,高一下,21,True,False
+1058,3*4,spacewalk,n.太空行走;太空行走时间,/ˈspeɪswɔ:k/,必修第三册,高一下,21,True,False
+1059,3*4,jade,n.玉;翡翠;玉器,/dʒeɪd/,必修第三册,高一下,21,True,False
+1060,3*4,dock,v.(航天器)对接;使…进港,/dɒk/,必修第三册,高一下,21,True,False
+1061,3*4,signal,v.标志着;发信号 n.信号,/ˈsɪgnəl/,必修第三册,高一下,21,True,False
+1064,3*4,recycle,vt.回收利用;再利用,/ˌri:ˈsaɪkl/,必修第三册,高一下,21,True,False
+1065,3*4,muscle,n.肌肉;实力;影响力,/ˈmʌsl/,必修第三册,高一下,21,True,False
+1066,3*4,lack,n.缺乏;短缺 vt.没有;缺乏,/læk/,必修第三册,高一下,21,True,False
+1067,3*4,float,vi.浮动;漂流 vt.使浮动,/fləʊt/,必修第三册,高一下,21,True,False
+1068,3*4,otherwise,adv.否则;要不然,/ˈʌðəwaɪz/,必修第三册,高一下,21,True,False
+1069,3*4,beyond,prep.在更远处;超出,/bɪˈjɒnd/,必修第三册,高一下,21,True,False
+1070,3*4,solar,adj.太阳的;太阳能的,/ˈsəʊlə(r)/,必修第三册,高一下,21,True,False
+1072,3*4,current,adj.当前的;现在的 n.水流,/ˈkʌrənt/,必修第三册,高一下,21,True,False
+1074,3*4,sufficient,adj.足够的;充足的,/səˈfɪʃnt/,必修第三册,高一下,21,True,False
+1075,3*4,soap,n.肥皂,/səʊp/,必修第三册,高一下,21,True,False
+1076,3*4,towel,n.毛巾;抹布,/ˈtaʊəl/,必修第三册,高一下,21,True,False
+1077,3*4,microwave,n.微波炉,/ˈmaɪkrəweɪv/,必修第三册,高一下,21,True,False
+1078,3*4,tissue,n.纸巾;(动植物细胞)组织,/ˈtɪʃu:/,必修第三册,高一下,21,True,False
+1079,3*4,facility,n.设施;设备,/fəˈsɪləti/,必修第三册,高一下,21,True,False
+1080,3*4,keen,adj.热衷的;渴望的,/ki:n/,必修第三册,高一下,21,True,False
+1081,3*4,globe,n.地球;世界;地球仪,/gləʊb/,必修第三册,高一下,21,True,False
+1082,3*4,argue,vt.&vi.论证;争辩;争论,/ˈɑ:gju:/,必修第三册,高一下,21,True,False
+1083,3*4,argument,n.争论;争吵;论点,/ˈɑ:gjumənt/,必修第三册,高一下,21,True,False
+1084,3*4,fatal,adj.致命的;灾难性的,/ˈfeɪtl/,必修第三册,高一下,21,True,False
+1085,3*4,shallow,adj.肤浅的;浅的,/ˈʃæləʊ/,必修第三册,高一下,21,True,False
+1087,3*4,pattern,n.模式;图案;模范,/ˈpætn/,必修第三册,高一下,21,True,False
+1088,3*4,analysis,n.(对事物)分析;分析结果,/əˈnæləsɪs/,必修第三册,高一下,21,True,False
+1090,3*4,high-end,adj.高端的,/haɪ end/,必修第三册,高一下,21,True,False
+1091,3*4,monitor,n.监视器;监测仪 vt.监视,/ˈmɒnɪtə(r)/,必修第三册,高一下,22,True,False
+1092,3*4,regularly,adv.经常;定期地,/ˈregjələli/,必修第三册,高一下,22,True,False
+1093,3*4,regular,adj.定期的;经常的;正常的,/ˈregjələ(r)/,必修第三册,高一下,22,True,False
+1094,3*4,foam,n.泡沫橡胶;泡沫,/fəʊm/,必修第三册,高一下,22,True,False
+1095,3*4,pillow,n.枕头,/ˈpɪləʊ/,必修第三册,高一下,22,True,False
+1096,3*4,smartphone,n.智能手机,/ˈsmɑːtfəʊn/,必修第三册,高一下,22,True,False
+1097,3*4,resource,n.资源;财力;物力,/rɪˈsɔ:s/,必修第三册,高一下,22,True,False
+1098,3*4,limited,adj.有限的,/ˈlɪmɪtɪd/,必修第三册,高一下,22,True,False
+1100,3*4,closing,adj.结尾的;结束的 n.停业,/ˈkləʊzɪŋ/,必修第三册,高一下,22,True,False
+1102,3*4,mystery,n.神秘事物;谜,/ˈmɪstri/,必修第三册,高一下,22,True,False
+1104,3*4,attach,vt.系;绑;贴,/əˈtætʃ/,必修第三册,高一下,22,True,False
+1105,3*4,oxygen,n.氧;氧气,/ˈɒksɪdʒən/,必修第三册,高一下,22,True,False
+1106,3*4,Sputnik,旅伴一号(苏联人造卫星),/ˈspʌtnɪk/,必修第三册,高一下,22,True,True
+1110,3*4,NASA,abbr.(美)国家航空航天局,/ˈnæsə/,必修第三册,高一下,22,True,False
+1116,3*4,Mars,n.火星,/mɑ:z/,必修第三册,高一下,22,True,True
+1117,3*4,Jupiter,n.木星,/ˈdʒu:pɪtə(r)/,必修第三册,高一下,22,True,True
+1119,3*4,GPS,abbr.全球(卫星)定位系统,/ˌdʒiːpiː'es/,必修第三册,高一下,22,True,False
+1120,3*5,basis,n.基础;根据;基点,/ˈbeɪsɪs/,必修第三册,高一下,22,True,False
+1122,3*5,loan,n.贷款;借款,/ləʊn/,必修第三册,高一下,22,True,False
+1124,3*5,plastic,n.塑料 adj.塑料制的,/ˈplæstɪk/,必修第三册,高一下,22,True,False
+1125,3*5,apologise,vi.道歉;谢罪,/ə'pɒlədʒaɪz/,必修第三册,高一下,22,True,False
+1126,3*5,ignore,vt.忽视;对…不予理会,/ɪgˈnɔ:(r)/,必修第三册,高一下,22,True,False
+1128,3*5,judge,vt.&vi.评价;评判 n.法官,/dʒʌdʒ/,必修第三册,高一下,22,True,False
+1129,3*5,scene,n.(戏剧或歌剧)场;现场,/si:n/,必修第三册,高一下,22,True,False
+1130,3*5,narrator,n.(书/戏剧)叙述者;讲述者,/nəˈreɪtə(r)/,必修第三册,高一下,22,True,False
+1131,3*5,narration,n.叙述;讲述;解说,/nəˈreɪʃn/,必修第三册,高一下,22,True,False
+1132,3*5,bet,n.打赌;赌注v.下赌注,/bet/,必修第三册,高一下,22,True,False
+1134,3*5,servant,n.仆人;用人,/ˈsɜ:vənt/,必修第三册,高一下,22,True,False
+1137,3*5,sail,v.(船)航行;(人)乘船航行,/seɪl/,必修第三册,高一下,22,True,False
+1138,3*5,spot,vt.看见;注意到 n.地点,/spɒt/,必修第三册,高一下,22,True,False
+1139,3*5,consulate,n.领事馆,/ˈkɒnsjələt/,必修第三册,高一下,22,True,False
+1140,3*5,dare,vi.&modal v.胆敢;敢于,/deə(r)/,必修第三册,高一下,22,True,False
+1141,3*5,sort,n.种类;类别,/sɔ:t/,必修第三册,高一下,22,True,False
+1142,3*5,mining,n.采矿;采矿业,/ˈmaɪnɪŋ/,必修第三册,高一下,22,True,False
+1143,3*5,patience,n.耐心;忍耐力;毅力,/ˈpeɪʃns/,必修第三册,高一下,23,True,False
+1147,3*5,indicate,vt.&vi.表明;显示 vt.象征,/ˈɪndɪkeɪt/,必修第三册,高一下,23,True,False
+1148,3*5,beneath,adv.&prep.在(或往)…下面,/bɪˈni:θ/,必修第三册,高一下,23,True,False
+1149,3*5,postpone,vt.延迟;延期;延缓,/pəˈspəʊn/,必修第三册,高一下,23,True,False
+1150,3*5,odd,adj.奇怪的;怪异的;反常的,/ɒd/,必修第三册,高一下,23,True,False
+1151,3*5,obligation,n.义务;职责;责任,/ˌɒblɪˈgeɪʃn/,必修第三册,高一下,23,True,False
+1152,3*5,intention,n.打算;计划;意图;目的,/ɪnˈtenʃn/,必修第三册,高一下,23,True,False
+1153,3*5,nowhere,adv.无处;哪里都不,/ˈnəʊweə(r)/,必修第三册,高一下,23,True,False
+1155,3*5,extent,n.程度;限度;大小;范围,/ɪkˈstent/,必修第三册,高一下,23,True,False
+1157,3*5,opera,n.歌剧,/ˈɒprə/,必修第三册,高一下,23,True,False
+1158,3*5,musical,n.音乐剧 adj.音乐的,/ˈmju:zɪkl/,必修第三册,高一下,23,True,False
+1159,3*5,dinosaur,n.恐龙,/ˈdaɪnəsɔ:(r)/,必修第三册,高一下,23,True,False
+1160,3*5,hug,vt.&vi.拥抱;抱紧,/hʌg/,必修第三册,高一下,23,True,False
+1161,3*5,pursue,vt.追求;致力于,/pəˈsju:/,必修第三册,高一下,23,True,False
+1162,3*5,duty,n.责任;义务;职责;值班,/ˈdju:ti/,必修第三册,高一下,23,True,False
+1164,3*5,hesitate,vi.犹豫;迟疑;顾虑,/ˈhezɪteɪt/,必修第三册,高一下,23,True,False
+1165,3*5,sequence,vt.按顺序排列 n.顺序,/ˈsi:kwəns/,必修第三册,高一下,23,True,False
+1166,3*5,eventually,adv.最后;终于,/ɪˈventʃuəli/,必修第三册,高一下,23,True,False
+1167,3*5,tailor,n.(男装)裁缝 vt.专门制作,/ˈteɪlə(r)/,必修第三册,高一下,23,True,False
+1168,3*5,clerk,n.职员;文书;店员,/klɑ:k/,必修第三册,高一下,23,True,False
+1169,3*5,manner,n.举止;行为方式;[pl.]礼貌,/ˈmænə(r)/,必修第三册,高一下,23,True,False
+1171,3*5,downstairs,adv.顺楼梯而下;在楼下,/ˌdaʊnˈsteəz/,必修第三册,高一下,23,True,False
+1172,3*5,stair,n.楼梯;梯级,/steə(r)/,必修第三册,高一下,23,True,False
+1173,3*5,aside,adv.到旁边;在旁边;留;存,/əˈsaɪd/,必修第三册,高一下,23,True,False
+1174,3*5,frown,n.&vi.皱眉,/fraʊn/,必修第三册,高一下,23,True,False
+1176,3*5,option,n.可选择的事物;选择,/ˈɒpʃn/,必修第三册,高一下,23,True,False
+1177,3*5,broad,adj.宽阔的;广阔的;广泛的,/brɔ:d/,必修第三册,高一下,23,True,False
+1178,3*5,indeed,adv.其实;实际上;当然,/ɪnˈdi:d/,必修第三册,高一下,23,True,False
+1179,3*5,normal,adj.典型的;正常的 n.常态,/ˈnɔ:ml/,必修第三册,高一下,23,True,False
+1180,3*5,willing,adj.愿意;乐意,/ˈwɪlɪŋ/,必修第三册,高一下,23,True,False
+1182,3*5,element,n.要素;基本部分,/ˈelɪmənt/,必修第三册,高一下,23,True,False
+1183,3*5,plot,n.故事情节;布局;阴谋,/plɒt/,必修第三册,高一下,23,True,False
+1184,3*5,ambassador,n.大使;使节;代表,/æmˈbæsədə(r)/,必修第三册,高一下,23,True,False
+1186,3*5,upper,adj.上面的;上层的,/ˈʌpə(r)/,必修第三册,高一下,23,True,False
+1188,3*5,maintain,vt.维持;保持;维修;保养,/meɪnˈteɪn/,必修第三册,高一下,23,True,False
+1189,3*5,permission,n.准许;许可;批准;许可证,/pəˈmɪʃn/,必修第三册,高一下,23,True,False
+1190,3*5,permit,vt.&vi.允许;准许;使可能,/pəˈmɪt/,必修第三册,高一下,23,True,False
+1191,3*5,saying,n.谚语;格言;警句,/ˈseɪɪŋ/,必修第三册,高一下,23,True,False
+1192,3*5,external,adj.外部的;外面的;外来的,/ɪkˈstɜ:nl/,必修第三册,高一下,23,True,False
+1193,3*5,Roderick,罗德里克,/ˈrɔdərik/,必修第三册,高一下,23,True,True
+1194,3*5,Oliver,奥利弗,/ˈɔlivə/,必修第三册,高一下,23,True,True
+1197,3*5,Reid,里德,/ri:d/,必修第三册,高一下,24,True,True
+1198,3*5,Todd,托德,/tɔd/,必修第三册,高一下,24,True,True
+1200,1*1,physiology,n.生理学;生理机能,/ˌfɪziˈɒlədʒi/,选择性必修第一册,高二,24,True,False
+1201,1*1,artemisinin,n.[药]青蒿素,/ɑːtɪmɪ'saɪnɪn/,选择性必修第一册,高二,24,True,False
+1202,1*1,crucial,a.至关重要的;关键性的,/ˈkru:ʃl/,选择性必修第一册,高二,24,True,False
+1203,1*1,malaria,n.疟疾,/məˈleəriə/,选择性必修第一册,高二,24,True,False
+1204,1*1,vital,a.必不可少的;极其重要的,/ˈvaɪtl/,选择性必修第一册,高二,24,True,False
+1205,1*1,committed,a.尽心尽力的;坚定的,/kəˈmɪtɪd/,选择性必修第一册,高二,24,True,False
+1206,1*1,commit,vi.承诺;保证 vi.忠于,/kəˈmɪt/,选择性必修第一册,高二,24,True,False
+1208,1*1,academy,n.(艺术文学等)研究院;学会,/əˈkædəmi/,选择性必修第一册,高二,24,True,False
+1209,1*1,academic,a.学业的;学术的,/ˌækəˈdemɪk/,选择性必修第一册,高二,24,True,False
+1210,1*1,objective,n.目标;目的 a.客观的,/əbˈdʒektɪv/,选择性必修第一册,高二,24,True,False
+1211,1*1,botanical,a.植物学的,/bəˈtænɪkl/,选择性必修第一册,高二,24,True,False
+1212,1*1,evaluate,vt.评价;评估,/ɪˈvæljueɪt/,选择性必修第一册,高二,24,True,False
+1213,1*1,property,n.性质;特征;财产,/ˈprɒpəti/,选择性必修第一册,高二,24,True,False
+1214,1*1,distinct,a.清晰的;清楚的;有区别的,/dɪˈstɪŋkt/,选择性必修第一册,高二,24,True,False
+1215,1*1,extract,n.提取物;摘录 vt.提取,/ˈekstrækt/,选择性必修第一册,高二,24,True,False
+1216,1*1,wormwood,n.蒿;洋艾,/ˈwɜːmwʊd/,选择性必修第一册,高二,24,True,False
+1217,1*1,boil,v.使沸腾;煮开 n.沸点,/bɔɪl/,选择性必修第一册,高二,24,True,False
+1218,1*1,liquid,n.液体 a.液体的;液态的,/ˈlɪkwɪd/,选择性必修第一册,高二,24,True,False
+1219,1*1,obtain,vt.获得;赢得 vi.存在;流行,/əbˈteɪn/,选择性必修第一册,高二,24,True,False
+1220,1*1,acknowledge,vt.承认(属实等);感谢,/əkˈnɒlɪdʒ/,选择性必修第一册,高二,24,True,False
+1221,1*1,defeat,n.失败;挫败 vt.击败;战胜,/dɪˈfi:t/,选择性必修第一册,高二,24,True,False
+1222,1*1,analyse,vt.分析,/ˈænəlaɪz/,选择性必修第一册,高二,24,True,False
+1223,1*1,apparently,ad.显而易见;看来;显然,/əˈpærəntli/,选择性必修第一册,高二,24,True,False
+1224,1*1,substance,n.物质;物品;事实根据,/ˈsʌbstəns/,选择性必修第一册,高二,24,True,False
+1225,1*1,insist,v.坚持;坚决要求,/ɪnˈsɪst/,选择性必修第一册,高二,24,True,False
+1227,1*1,scientific,a.科学(上)的;关于科学的,/ˌsaɪənˈtɪfɪk/,选择性必修第一册,高二,24,True,False
+1228,1*1,mostly,ad.主要地;一般地,/ˈməʊstli/,选择性必修第一册,高二,24,True,False
+1230,1*1,conclusion,n.结论;推论,/kənˈklu:ʒn/,选择性必修第一册,高二,24,True,False
+1231,1*1,penicillin,n.青霉素;盘尼西林,/ˌpenɪˈsɪlɪn/,选择性必修第一册,高二,24,True,False
+1232,1*1,flee,v.迅速离开;逃跑,/fli:/,选择性必修第一册,高二,24,True,False
+1233,1*1,circumstance,n.条件;环境;状况,/ˈsɜ:kəmstəns/,选择性必修第一册,高二,24,True,False
+1234,1*1,novelist,n.小说家,/ˈnɒvəlɪst/,选择性必修第一册,高二,24,True,False
+1235,1*1,novel,n.(长篇)小说,/ˈnɒvl/,选择性必修第一册,高二,24,True,False
+1236,1*1,flow,n.流;流动;流畅 vi.流;流动,/fləʊ/,选择性必修第一册,高二,24,True,False
+1237,1*1,chart,n.图表 vt.记录;制订计划,/tʃɑ:t/,选择性必修第一册,高二,24,True,False
+1239,1*1,found,vt.创建;建立;把…建立在,/faʊnd/,选择性必修第一册,高二,24,True,False
+1240,1*1,infer,vt.推断;推定,/ɪnˈfɜ:(r)/,选择性必修第一册,高二,24,True,False
+1241,1*1,politician,n.从政者;政治家;政客,/ˌpɒləˈtɪʃn/,选择性必修第一册,高二,24,True,False
+1242,1*1,numerous,a.众多的;许多的,/ˈnju:mərəs/,选择性必修第一册,高二,24,True,False
+1243,1*1,theory,n.理论;学说,/ˈθɪəri/,选择性必修第一册,高二,24,True,False
+1244,1*1,relativity,n.相对论;相对性,/ˌreləˈtɪvəti/,选择性必修第一册,高二,24,True,False
+1245,1*1,formula,n.公式;方程式;配方,/ˈfɔ:mjələ/,选择性必修第一册,高二,24,True,False
+1246,1*1,genius,n.天才;天资;天赋,/ˈdʒi:niəs/,选择性必修第一册,高二,24,True,False
+1247,1*1,gentle,a.温柔的;文静的,/ˈdʒentl/,选择性必修第一册,高二,25,True,False
+1248,1*1,patent,n.专利;专利证书 a.有专利的,/ˈpætnt/,选择性必修第一册,高二,25,True,False
+1249,1*1,passion,n.酷爱;激情,/ˈpæʃn/,选择性必修第一册,高二,25,True,False
+1250,1*1,doctorate,n.博士学位,/ˈdɒktərət/,选择性必修第一册,高二,25,True,False
+1251,1*1,extraordinary,a.不一般的;非凡的;想不到的,/ɪkˈstrɔ:dnri/,选择性必修第一册,高二,25,True,False
+1252,1*1,gradually,ad.逐渐地;逐步地,/ˈgrædʒuəli/,选择性必修第一册,高二,25,True,False
+1253,1*1,photoelectric,a.光电的,/ˌfəʊtəʊɪˈlektrɪk/,选择性必修第一册,高二,25,True,False
+1255,1*1,institution,n.社会公共机构;制度;习俗,/ˌɪnstɪˈtju:ʃn/,选择性必修第一册,高二,25,True,False
+1256,1*1,institute,n.(教育等)机构;机构建筑,/ˈɪnstɪtju:t/,选择性必修第一册,高二,25,True,False
+1257,1*1,consequence,n.结果;后果,/ˈkɒnsɪkwəns/,选择性必修第一册,高二,25,True,False
+1259,1*1,moustache,n.上唇的胡子;髭,/məˈstɑ:ʃ/,选择性必修第一册,高二,25,True,False
+1260,1*1,peculiarity,n.个性;特点;怪异的性质,/pɪˌkju:liˈærəti/,选择性必修第一册,高二,25,True,False
+1261,1*1,encounter,vt.偶然碰到;遇到 n.邂逅,/ɪnˈkaʊntə(r)/,选择性必修第一册,高二,25,True,False
+1262,1*1,professor,n.教授,/prəˈfesə(r)/,选择性必修第一册,高二,25,True,False
+1263,1*1,mourn,v.哀悼;忧伤,/mɔ:n/,选择性必修第一册,高二,25,True,False
+1264,1*1,remarkable,a.非凡的;显著的,/rɪˈmɑ:kəbl/,选择性必修第一册,高二,25,True,False
+1265,1*1,device,n.方法;技巧;装置;仪器,/dɪˈvaɪs/,选择性必修第一册,高二,25,True,False
+1266,1*1,sum,vi.总结;概括 n.金额;总数,/sʌm/,选择性必修第一册,高二,25,True,False
+1268,1*1,draft,n.草稿;草案 vt.起草;草拟,/drɑ:ft/,选择性必修第一册,高二,25,True,False
+1272,1*1,Hitler,希特勒,/ˈhɪtlə/,选择性必修第一册,高二,25,True,True
+1275,1*1,SARS,abbr.严重急性呼吸综合征,/sɑ:z/,选择性必修第一册,高二,25,True,False
+1276,1*1,Switzerland,瑞士(国家名),/'swɪtsələnd/,选择性必修第一册,高二,25,True,True
+1277,1*1,Swiss,a.瑞士的 n.瑞士人,/swɪs/,选择性必修第一册,高二,25,True,True
+1279,1*1,Jewish,a.犹太人的;犹太教的,/ˈdʒu:ɪʃ/,选择性必修第一册,高二,25,True,True
+1280,1*1,Princeton,普林斯顿(美国城市),/'prɪnstən/,选择性必修第一册,高二,25,True,True
+1281,1*2,phrase,n.短语;词组,/freɪz/,选择性必修第一册,高二,25,True,False
+1282,1*2,persuade,vi.劝说;说服,/pəˈsweɪd/,选择性必修第一册,高二,25,True,False
+1283,1*2,switch,v.转换;交换 n.开关;转换器,/swɪtʃ/,选择性必修第一册,高二,25,True,False
+1286,1*2,distant,a.遥远的;远处的;疏远的,/ˈdɪstənt/,选择性必修第一册,高二,25,True,False
+1287,1*2,secure,a.安全的;安心的 vt.获得,/sɪˈkjʊə(r)/,选择性必修第一册,高二,25,True,False
+1288,1*2,knob,n.旋钮;球形把手,/nɒb/,选择性必修第一册,高二,25,True,False
+1289,1*2,appliance,n.电器;器具,/əˈplaɪəns/,选择性必修第一册,高二,25,True,False
+1290,1*2,remote,a.远程的;偏远的,/rɪˈməʊt/,选择性必修第一册,高二,25,True,False
+1293,1*2,automatic,a.自动的,/ˌɔ:təˈmætɪk/,选择性必修第一册,高二,25,True,False
+1294,1*2,integrated,a.各部分密切协调的;综合的,/ˈɪntɪgreɪtɪd/,选择性必修第一册,高二,25,True,False
+1295,1*2,integrate,v.(使)合并;成为一体,/ˈɪntɪgreɪt/,选择性必修第一册,高二,25,True,False
+1296,1*2,sensor,n.传感器;敏感元件,/ˈsensə(r)/,选择性必修第一册,高二,25,True,False
+1297,1*2,efficient,a.效率高的;有功效的,/ɪˈfɪʃnt/,选择性必修第一册,高二,25,True,False
+1298,1*2,mode,n.模式;方式;风格,/məʊd/,选择性必修第一册,高二,25,True,False
+1299,1*2,routine,n.常规;正常顺序 a.常规的,/ru:ˈti:n/,选择性必修第一册,高二,26,True,False
+1301,1*2,preference,n.爱好;偏爱,/ˈprefrəns/,选择性必修第一册,高二,26,True,False
+1302,1*2,instant,n.瞬间;片刻 a.立即的,/ˈɪnstənt/,选择性必修第一册,高二,26,True,False
+1303,1*2,command,n.指令;命令;控制 vt.命令,/kəˈmɑ:nd/,选择性必修第一册,高二,26,True,False
+1304,1*2,obey,v.服从;遵守,/əˈbeɪ/,选择性必修第一册,高二,26,True,False
+1305,1*2,warning,n.警告;警示;先兆,/ˈwɔ:nɪŋ/,选择性必修第一册,高二,26,True,False
+1306,1*2,constant,a.不断的;重复的 n.常数,/ˈkɒnstənt/,选择性必修第一册,高二,26,True,False
+1308,1*2,abnormal,a.不正常的;反常的,/æbˈnɔ:ml/,选择性必修第一册,高二,26,True,False
+1309,1*2,critical,a.严重的;关键的;批判性的,/ˈkrɪtɪkl/,选择性必修第一册,高二,26,True,False
+1310,1*2,cancer,n.癌;癌症;毒瘤,/ˈkænsə(r)/,选择性必修第一册,高二,26,True,False
+1311,1*2,potentially,ad.潜在地;可能地,/pə'tenʃəlɪ/,选择性必修第一册,高二,26,True,False
+1312,1*2,potential,a.可能的;潜在的 n.潜力,/pəˈtenʃl/,选择性必修第一册,高二,26,True,False
+1313,1*2,leak,v.漏;渗漏 n.漏洞;裂缝,/li:k/,选择性必修第一册,高二,26,True,False
+1314,1*2,electrical,a.电的;用电的,/ɪˈlektrɪkl/,选择性必修第一册,高二,26,True,False
+1315,1*2,wiring,n.电线线路;线路系统,/ˈwaɪərɪŋ/,选择性必修第一册,高二,26,True,False
+1316,1*2,wire,n.电线;金属丝 vt.接通电源,/ˈwaɪə(r)/,选择性必修第一册,高二,26,True,False
+1317,1*2,detect,vt.发现;查明,/dɪˈtekt/,选择性必修第一册,高二,26,True,False
+1318,1*2,relevant,a.有关的;有意义的,/ˈreləvənt/,选择性必修第一册,高二,26,True,False
+1320,1*2,fantasy,n.幻想;想象,/ˈfæntəsi/,选择性必修第一册,高二,26,True,False
+1321,1*2,innovation,n.创新;创造,/ˌɪnəˈveɪʃn/,选择性必修第一册,高二,26,True,False
+1322,1*2,available,a.可获得的;可购得的,/əˈveɪləbl/,选择性必修第一册,高二,26,True,False
+1324,1*2,nevertheless,ad.尽管如此;不过;然而,/ˌnevəðəˈles/,选择性必修第一册,高二,26,True,False
+1325,1*2,structure,n.结构;体系 vt.系统安排,/ˈstrʌktʃə(r)/,选择性必修第一册,高二,26,True,False
+1326,1*2,security,n.保护措施;安全工作,/sɪˈkjʊərəti/,选择性必修第一册,高二,26,True,False
+1327,1*2,crime,n.犯罪活动;不法行为,/kraɪm/,选择性必修第一册,高二,26,True,False
+1328,1*2,combine,v.(使)结合;混合,/kəmˈbaɪn/,选择性必修第一册,高二,26,True,False
+1329,1*2,nanobot,n.纳米机器人,/næ'nəʊbɒt/,选择性必修第一册,高二,26,True,False
+1330,1*2,artificial,a.人工的;人造的;假的,/ˌɑ:tɪˈfɪʃl/,选择性必修第一册,高二,26,True,False
+1332,1*2,clone,vt.克隆 n.克隆动物/植物,/kləʊn/,选择性必修第一册,高二,26,True,False
+1333,1*2,predict,vt.预测;预言;预料,/prɪˈdɪkt/,选择性必修第一册,高二,26,True,False
+1334,1*2,prediction,n.预测;预言,/prɪˈdɪkʃn/,选择性必修第一册,高二,26,True,False
+1335,1*2,forecast,vt.&n.预测;预报,/ˈfɔ:kɑ:st/,选择性必修第一册,高二,26,True,False
+1336,1*2,occupation,n.职业;占领,/ˌɒkjuˈpeɪʃn/,选择性必修第一册,高二,26,True,False
+1337,1*2,oppose,vt.反对;抵制;阻挠,/əˈpəʊz/,选择性必修第一册,高二,26,True,False
+1338,1*2,hence,ad.因此;由此,/hens/,选择性必修第一册,高二,26,True,False
+1339,1*2,cease,v.(使)停止;终止,/si:s/,选择性必修第一册,高二,26,True,False
+1340,1*2,deceased,a.已死的;亡故的,/dɪˈsi:st/,选择性必修第一册,高二,26,True,False
+1341,1*2,absence,n.不存在;缺乏;缺席,/ˈæbsəns/,选择性必修第一册,高二,26,True,False
+1342,1*2,rural,a.乡村的;农村的,/ˈrʊərəl/,选择性必修第一册,高二,26,True,False
+1343,1*2,advocate,vt.提倡;支持 n.提倡者,/ˈædvəkeɪt/,选择性必修第一册,高二,26,True,False
+1344,1*2,emphasis,n.强调;重视;重要性,/ˈemfəsɪs/,选择性必修第一册,高二,26,True,False
+1345,1*2,luxury,n.奢华,/ˈlʌkʃəri/,选择性必修第一册,高二,26,True,False
+1347,1*2,career,n.职业;事业,/kəˈrɪə(r)/,选择性必修第一册,高二,26,True,False
+1348,1*2,prospect,n.可能性;前景,/ˈprɒspekt/,选择性必修第一册,高二,26,True,False
+1349,1*2,resist,v.抵制;反抗;抵挡,/rɪˈzɪst/,选择性必修第一册,高二,26,True,False
+1350,1*2,resistance,n.抵制;反对;抗拒,/rɪˈzɪstəns/,选择性必修第一册,高二,26,True,False
+1351,1*2,paragraph,n.段;段落,/ˈpærəgrɑ:f/,选择性必修第一册,高二,27,True,False
+1352,1*2,signpost,n.路标,/ˈsaɪnpəʊst/,选择性必修第一册,高二,27,True,False
+1353,1*2,essay,n.文章,/ˈeseɪ/,选择性必修第一册,高二,27,True,False
+1354,1*2,accurate,a.精确的;准确的,/ˈækjərət/,选择性必修第一册,高二,27,True,False
+1355,1*2,librarian,n.图书管理员;图书馆馆长,/laɪˈbreəriən/,选择性必修第一册,高二,27,True,False
+1356,1*2,Melbourne,墨尔本(澳大利亚城市),/'melbən/,选择性必修第一册,高二,27,True,True
+1357,1*2,Christian,n.基督教徒 a.基督教的,/ˈkrɪstʃən/,选择性必修第一册,高二,27,True,True
+1359,1*3,buffet,vt.连续猛击 n.自助餐,/ˈbʊfeɪ/,选择性必修第一册,高二,27,True,False
+1360,1*3,cloth,n.(一块)布;织物;布料,/klɒθ/,选择性必修第一册,高二,27,True,False
+1361,1*3,edge,n.边;边缘 v.给…加边,/edʒ/,选择性必修第一册,高二,27,True,False
+1362,1*3,valley,n.谷;山谷;溪谷,/ˈvæli/,选择性必修第一册,高二,27,True,False
+1363,1*3,vast,a.辽阔的;巨大的;庞大的,/vɑ:st/,选择性必修第一册,高二,27,True,False
+1364,1*3,glacier,n.冰川,/ˈglæsiə(r)/,选择性必修第一册,高二,27,True,False
+1365,1*3,reindeer,n.驯鹿,/ˈreɪndɪə(r)/,选择性必修第一册,高二,27,True,False
+1366,1*3,territory,n.领上;版图;领域;地盘,/ˈterətri/,选择性必修第一册,高二,27,True,False
+1367,1*3,ban,vt.明令禁止;取缔 n.禁令,/bæn/,选择性必修第一册,高二,27,True,False
+1368,1*3,boundary,n.边界;界限;分界线,/ˈbaʊndri/,选择性必修第一册,高二,27,True,False
+1369,1*3,cottage,n.小屋;(尤指)村舍;小别墅,/ˈkɒtɪdʒ/,选择性必修第一册,高二,27,True,False
+1370,1*3,visible,a.看得见的;可见的,/ˈvɪzəbl/,选择性必修第一册,高二,27,True,False
+1372,1*3,accompany,vt.陪同;陪伴;为…伴奏,/əˈkʌmpəni/,选择性必修第一册,高二,27,True,False
+1373,1*3,adopt,vt.采用;采取;采纳 v.领养,/əˈdɒpt/,选择性必修第一册,高二,27,True,False
+1374,1*3,sour,a.酸的;有酸味的,/ˈsaʊə(r)/,选择性必修第一册,高二,27,True,False
+1376,1*3,bless,vt.祝福,/bles/,选择性必修第一册,高二,27,True,False
+1378,1*3,prohibition,n.禁止;阻止;禁令,/ˌprəʊɪˈbɪʃn/,选择性必修第一册,高二,27,True,False
+1379,1*3,prohibit,vt.(尤指以法令)禁止;阻止,/prəˈhɪbɪt/,选择性必修第一册,高二,27,True,False
+1380,1*3,journalist,n.新闻记者;新闻工作者,/ˈdʒɜ:nəlɪst/,选择性必修第一册,高二,27,True,False
+1381,1*3,sneeze,vi.打喷嚏 n.喷嚏;喷嚏声,/sni:z/,选择性必修第一册,高二,27,True,False
+1382,1*3,teapot,n.茶壶,/ˈti:pɒt/,选择性必修第一册,高二,27,True,False
+1383,1*3,label,vt.用标签标明 n.标签;标记,/ˈleɪbl/,选择性必修第一册,高二,27,True,False
+1384,1*3,cream,n.奶油;乳脂 a.奶油色的,/kri:m/,选择性必修第一册,高二,27,True,False
+1385,1*3,leopard,n.豹,/ˈlepəd/,选择性必修第一册,高二,27,True,False
+1386,1*3,stretch,vi.延伸;延续 v.伸展;舒展,/stretʃ/,选择性必修第一册,高二,27,True,False
+1387,1*3,rewarding,a.值得做的;有益的,/rɪˈwɔ:dɪŋ/,选择性必修第一册,高二,27,True,False
+1388,1*3,bush,n.灌木,/bʊʃ/,选择性必修第一册,高二,27,True,False
+1389,1*3,lung,n.肺,/lʌŋ/,选择性必修第一册,高二,27,True,False
+1390,1*3,cycle,n.自行车;循环 vi.骑自行车,/ˈsaɪkl/,选择性必修第一册,高二,27,True,False
+1391,1*3,corridor,n.狭长地带;走廊;过道;通道,/ˈkɒrɪdɔ:(r)/,选择性必修第一册,高二,27,True,False
+1392,1*3,pedal,n.脚镫子;踏板 v.踩踏板,/ˈpedl/,选择性必修第一册,高二,27,True,False
+1393,1*3,fountain,n.喷泉;人工喷泉;喷水池,/ˈfaʊntən/,选择性必修第一册,高二,27,True,False
+1394,1*3,route,n.路线;路途;途径,/ru:t/,选择性必修第一册,高二,27,True,False
+1395,1*3,ahead,ad.向前;在前面;提前,/əˈhed/,选择性必修第一册,高二,27,True,False
+1396,1*3,theme,a.有特定主题的 n.主题,/θi:m/,选择性必修第一册,高二,27,True,False
+1399,1*3,incredible,a.极好的;极大的;难以置信的,/ɪnˈkredəbl/,选择性必修第一册,高二,27,True,False
+1400,1*3,appeal,vi.有吸引力;呼吁 n.吸引力,/əˈpi:l/,选择性必修第一册,高二,27,True,False
+1402,1*3,pirate,n.海盗;盗版者 vt.盗印,/ˈpaɪrət/,选择性必修第一册,高二,27,True,False
+1403,1*3,adorable,a.可爱的;讨人喜爱的,/əˈdɔːrəbl/,选择性必修第一册,高二,28,True,False
+1404,1*3,wander,n.游荡;闲逛;流浪 v.闲逛,/ˈwɒndə(r)/,选择性必修第一册,高二,28,True,False
+1405,1*3,amusement,n.娱乐(活动);愉悦,/əˈmju:zmənt/,选择性必修第一册,高二,28,True,False
+1406,1*3,amuse,vt.(提供)消遣;(使)娱乐,/əˈmju:z/,选择性必修第一册,高二,28,True,False
+1407,1*3,enormous,a.巨大的;极大的,/ɪˈnɔ:məs/,选择性必修第一册,高二,28,True,False
+1408,1*3,swing,v.(使)摆动;摇摆;转弯,/swɪŋ/,选择性必修第一册,高二,28,True,False
+1409,1*3,iron,n.铁;铁器;熨斗 v.熨;烫平,/ˈaɪən/,选择性必修第一册,高二,28,True,False
+1410,1*3,fashion,n.时尚;时兴;流行款式,/ˈfæʃn/,选择性必修第一册,高二,28,True,False
+1411,1*3,rare,a.稀少的;珍贵的;半熟的,/reə(r)/,选择性必修第一册,高二,28,True,False
+1412,1*3,steam,n.蒸汽;水蒸气 vi.蒸发,/sti:m/,选择性必修第一册,高二,28,True,False
+1413,1*3,superb,a.极佳的;卓越的,/su:ˈpɜ:b/,选择性必修第一册,高二,28,True,False
+1414,1*3,aquarium,n.水族馆;水族玻璃槽;鱼缸,/əˈkweəriəm/,选择性必修第一册,高二,28,True,False
+1416,1*3,polar,a.(近)极地的;南极或北极的,/ˈpəʊlə(r)/,选择性必修第一册,高二,28,True,False
+1418,1*3,splendid,a.壮丽的;雄伟的;极佳的,/ˈsplendɪd/,选择性必修第一册,高二,28,True,False
+1419,1*3,display,n.展览;陈列 vt.显示;陈列,/dɪˈspleɪ/,选择性必修第一册,高二,28,True,False
+1420,1*3,appetite,n.食欲;胃口;强烈欲望,/ˈæpɪtaɪt/,选择性必修第一册,高二,28,True,False
+1421,1*3,entertainment,n.娱乐;招待;娱乐活动,/ˌentəˈteɪnmənt/,选择性必修第一册,高二,28,True,False
+1422,1*3,column,n.(书/报纸)栏;专栏;柱形物,/ˈkɒləm/,选择性必修第一册,高二,28,True,False
+1423,1*3,Sami,萨米人(纳维亚北部的拉普人),,选择性必修第一册,高二,28,True,True
+1425,1*3,Sweden,瑞典(国家名),/'swi:dn/,选择性必修第一册,高二,28,True,True
+1428,1*3,Siberian,a.&n.西伯利亚(人)(的),/saiˈbiəriən/,选择性必修第一册,高二,28,True,True
+1429,1*3,Dollywood,多莉山主题公园,,选择性必修第一册,高二,28,True,True
+1430,1*4,interaction,n.交流;相互影响,/ˌɪntər'ækʃn/,选择性必修第一册,高二,28,True,False
+1431,1*4,vary,vi.(根据情况)变化;改变,/ˈveəri/,选择性必修第一册,高二,28,True,False
+1432,1*4,appropriate,a.合适的;恰当的,/əˈprəʊpriət/,选择性必修第一册,高二,28,True,False
+1434,1*4,approve,vi.赞成;同意 vt.批准;通过,/əˈpru:v/,选择性必修第一册,高二,28,True,False
+1435,1*4,demonstrate,vt.表现;表达;说明;证明,/ˈdemənstreɪt/,选择性必修第一册,高二,28,True,False
+1436,1*4,gesture,n.手势;姿势;姿态,/ˈdʒestʃə(r)/,选择性必修第一册,高二,28,True,False
+1437,1*4,witness,vt.当场看到;目击 n.目击者,/ˈwɪtnəs/,选择性必修第一册,高二,28,True,False
+1438,1*4,employ,vt.使用;应用;雇用,/ɪmˈplɔɪ/,选择性必修第一册,高二,28,True,False
+1439,1*4,identical,a.相同的,/aɪˈdentɪkl/,选择性必修第一册,高二,28,True,False
+1440,1*4,interpret,vt.把…理解为 v.口译,/ɪnˈtɜ:prɪt/,选择性必修第一册,高二,28,True,False
+1441,1*4,differ,vi.相异;不同于,/ˈdɪfə(r)/,选择性必修第一册,高二,28,True,False
+1443,1*4,cheek,n.面颊;脸颊,/tʃi:k/,选择性必修第一册,高二,28,True,False
+1444,1*4,favour,vt.较喜欢;选择 n.帮助,/ˈfeɪvə(r)/,选择性必修第一册,高二,28,True,False
+1445,1*4,bow,vi.鞠躬;点头 vt.低(头),/bəʊ/,选择性必修第一册,高二,28,True,False
+1446,1*4,waist,n.腰;腰部,/weɪst/,选择性必修第一册,高二,28,True,False
+1449,1*4,barrier,n.隔阂;障碍,/ˈbæriə(r)/,选择性必修第一册,高二,28,True,False
+1450,1*4,fake,a.假装的;假的;冒充的,/feɪk/,选择性必修第一册,高二,28,True,False
+1451,1*4,anger,n.愤怒;怒气 vt.使生气,/ˈæŋgə(r)/,选择性必修第一册,高二,28,True,False
+1452,1*4,reliable,a.可靠的;可信赖的,/rɪˈlaɪəbl/,选择性必修第一册,高二,28,True,False
+1453,1*4,incident,n.发生的事情;严重事件,/ˈɪnsɪdənt/,选择性必修第一册,高二,28,True,False
+1454,1*4,trial,n.&v.审讯;审判;试验;试用,/ˈtraɪəl/,选择性必修第一册,高二,28,True,False
+1455,1*4,slight,a.轻微的;略微的;细小的,/slaɪt/,选择性必修第一册,高二,29,True,False
+1456,1*4,slightly,ad.略微;稍微,/ˈslaɪtli/,选择性必修第一册,高二,29,True,False
+1457,1*4,twin,a.双胞胎之一的 n.孪生之一,/twɪn/,选择性必修第一册,高二,29,True,False
+1458,1*4,nonverbal,a.不涉及言语的;非言语的,/ˌnɒn'vɜ:bl/,选择性必修第一册,高二,29,True,False
+1459,1*4,assessment,n.评价;评定,/əˈsesmənt/,选择性必修第一册,高二,29,True,False
+1460,1*4,assess,vt.评估;评价,/əˈses/,选择性必修第一册,高二,29,True,False
+1461,1*4,internal,a.内部的;里面的,/ɪnˈtɜ:nl/,选择性必修第一册,高二,29,True,False
+1463,1*4,slump,vi.垂头弯腰地走(或坐等),/slʌmp/,选择性必修第一册,高二,29,True,False
+1464,1*4,pose,n.故作姿态;姿势 vi.摆姿势,/pəʊz/,选择性必修第一册,高二,29,True,False
+1465,1*4,bend,v.(使)弯曲;倾斜;偏向,/bend/,选择性必修第一册,高二,29,True,False
+1466,1*4,reveal,vt.揭示;显示;露出,/rɪˈvi:l/,选择性必修第一册,高二,29,True,False
+1467,1*4,clarify,vt.使更清晰易懂;阐明;澄清,/ˈklærəfaɪ/,选择性必修第一册,高二,29,True,False
+1469,1*4,educator,n.教师;教育工作者;教育家,/ˈedʒukeɪtə(r)/,选择性必修第一册,高二,29,True,False
+1470,1*4,tick,vt.给(试卷等)打钩 n.钩号,/tɪk/,选择性必修第一册,高二,29,True,False
+1471,1*4,tendency,n.趋势;倾向,/ˈtendənsi/,选择性必修第一册,高二,29,True,False
+1472,1*4,lower,"vt,把…放低;降低 a.下面的",/ˈləʊə(r)/,选择性必修第一册,高二,29,True,False
+1473,1*4,imply,vt.意味着;暗示,/ɪmˈplaɪ/,选择性必修第一册,高二,29,True,False
+1474,1*4,barely,ad.几乎不;勉强才能;刚刚,/ˈbeəli/,选择性必修第一册,高二,29,True,False
+1475,1*4,chin,n.下巴,/tʃɪn/,选择性必修第一册,高二,29,True,False
+1476,1*4,occupy,v.占据;占用,/ˈɒkjupaɪ/,选择性必修第一册,高二,29,True,False
+1477,1*4,stare,vi.盯着看;凝视 n.凝视,/steə(r)/,选择性必修第一册,高二,29,True,False
+1478,1*4,ceiling,n.天花板;上限,/ˈsi:lɪŋ/,选择性必修第一册,高二,29,True,False
+1479,1*4,distract,vt.分散(注意力);使分心,/dɪˈstrækt/,选择性必修第一册,高二,29,True,False
+1480,1*4,perceive,vt.察觉;看待;理解,/pəˈsi:v/,选择性必修第一册,高二,29,True,False
+1481,1*4,distinguish,v.区分;辨别,/dɪˈstɪŋgwɪʃ/,选择性必修第一册,高二,29,True,False
+1482,1*4,anxiety,n.焦虑;担心;害怕,/æŋˈzaɪəti/,选择性必修第一册,高二,29,True,False
+1483,1*4,chest,n.胸部;胸膛,/tʃest/,选择性必修第一册,高二,29,True,False
+1484,1*4,embarrassed,a.难堪的;尴尬的,/ɪmˈbærəst/,选择性必修第一册,高二,29,True,False
+1485,1*4,ashamed,a.羞愧;惭愧,/əˈʃeɪmd/,选择性必修第一册,高二,29,True,False
+1486,1*4,merely,ad.只是;仅仅;只不过,/ˈmɪəli/,选择性必修第一册,高二,29,True,False
+1488,1*4,bother,v.费心;麻烦 n.麻烦;不便,/ˈbɒðə(r)/,选择性必修第一册,高二,29,True,False
+1489,1*4,weep,v.哭泣;流泪,/wi:p/,选择性必修第一册,高二,29,True,False
+1491,1*4,conflict,n.矛盾;冲突 vi.冲突;抵触,/ˈkɒnflɪkt/,选择性必修第一册,高二,29,True,False
+1492,1*4,inquire,v.询问;打听,/ɪn'kwaɪə(r)/,选择性必修第一册,高二,29,True,False
+1493,1*4,ultimately,ad.最终;最后,/ˈʌltɪmətli/,选择性必修第一册,高二,29,True,False
+1494,1*4,adjust,vt.调整;调节 v.适应,/əˈdʒʌst/,选择性必修第一册,高二,29,True,False
+1495,1*4,intervene,vi.干预;介入,/ˌɪntəˈvi:n/,选择性必修第一册,高二,29,True,False
+1496,1*4,react,vi.(对…)起反应;回应,/riˈækt/,选择性必修第一册,高二,29,True,False
+1497,1*4,component,n.组成部分;零件,/kəmˈpəʊnənt/,选择性必修第一册,高二,29,True,False
+1498,1*4,tone,n.语气;腔调;口吻,/təʊn/,选择性必修第一册,高二,29,True,False
+1499,1*4,Brazil,巴西(国家名),/brəˈzɪl/,选择性必修第一册,高二,29,True,True
+1500,1*4,Bulgaria,保加利亚(国家名),/bʌlˈgeərɪə/,选择性必修第一册,高二,29,True,True
+1501,1*4,Albania,阿尔巴尼亚(国家名),/ælˈbeɪnɪə/,选择性必修第一册,高二,29,True,True
+1502,1*5,hybrid,n.杂交植(动)物;合成物,/ˈhaɪbrɪd/,选择性必修第一册,高二,29,True,False
+1503,1*5,devote,vt.把…献(给);把…专用于,/dɪˈvəʊt/,选择性必修第一册,高二,29,True,False
+1505,1*5,shortage,n.不足;缺少;短缺,/ˈʃɔ:tɪdʒ/,选择性必修第一册,高二,29,True,False
+1506,1*5,tackle,vt.解决(难题);应付(局面),/ˈtækl/,选择性必修第一册,高二,29,True,False
+1507,1*5,crisis,n.危机;危急关头,/ˈkraɪsɪs/,选择性必修第一册,高二,30,True,False
+1508,1*5,boost,vt.使增长;使兴旺 n.增长,/bu:st/,选择性必修第一册,高二,30,True,False
+1509,1*5,yield,n.产量;产出 vt.出产(作物),/ji:ld/,选择性必修第一册,高二,30,True,False
+1510,1*5,convince,vt.使相信;使确信;说服,/kənˈvɪns/,选择性必修第一册,高二,30,True,False
+1511,1*5,characteristic,n.特征;特点;品质 a.典型的,/ˌkærəktəˈrɪstɪk/,选择性必修第一册,高二,30,True,False
+1512,1*5,attain,vt.(经过努力)获得;得到,/əˈteɪn/,选择性必修第一册,高二,30,True,False
+1513,1*5,conventional,a.传统的;习惯的,/kənˈvenʃənl/,选择性必修第一册,高二,30,True,False
+1514,1*5,pollinate,vt.授粉;传粉,/ˈpɒləneɪt/,选择性必修第一册,高二,30,True,False
+1515,1*5,assumption,n.假定;设定;(责任的)承担,/əˈsʌmpʃn/,选择性必修第一册,高二,30,True,False
+1516,1*5,intense,a.热切的;十分强烈的;激烈的,/ɪnˈtens/,选择性必修第一册,高二,30,True,False
+1517,1*5,overcome,vt.克服;解决;战胜,/ˌəʊvəˈkʌm/,选择性必修第一册,高二,30,True,False
+1518,1*5,expand,v.扩大;增加 vt.扩展;发展,/ɪkˈspænd/,选择性必修第一册,高二,30,True,False
+1519,1*5,output,n.产量;输出 vt.输出,/ˈaʊtpʊt/,选择性必修第一册,高二,30,True,False
+1520,1*5,estimate,vt.估计;估价;估算 n.估计,/ˈestɪmət/,选择性必修第一册,高二,30,True,False
+1521,1*5,domestic,a.本国的;国内的;家用的,/dəˈmestɪk/,选择性必修第一册,高二,30,True,False
+1522,1*5,consumption,n.消耗;消耗量;消费,/kənˈsʌmpʃn/,选择性必修第一册,高二,30,True,False
+1523,1*5,comprise,vt.包括;包含;由…组成,/kəmˈpraɪz/,选择性必修第一册,高二,30,True,False
+1525,1*5,generate,vt.产生;引起,/ˈdʒenəreɪt/,选择性必修第一册,高二,30,True,False
+1526,1*5,strain,n.(动、植物)系;品种;拉伤,/streɪn/,选择性必修第一册,高二,30,True,False
+1527,1*5,leisure,n.闲暇;休闲;空闲,/ˈleʒə(r)/,选择性必修第一册,高二,30,True,False
+1529,1*5,soil,n.泥土;土壤;国土;领土,/sɔɪl/,选择性必修第一册,高二,30,True,False
+1530,1*5,celebrity,n.名望;名誉;名人;名流,/səˈlebrəti/,选择性必修第一册,高二,30,True,False
+1531,1*5,envision,vt.展望;想象,/ɪnˈvɪʒn/,选择性必修第一册,高二,30,True,False
+1532,1*5,sorghum,n.高粱;高粱米,/ˈsɔ:gəm/,选择性必修第一册,高二,30,True,False
+1533,1*5,broom,n.扫把;扫帚;金雀花,/bru:m/,选择性必修第一册,高二,30,True,False
+1534,1*5,grain,n.谷物;谷粒;颗粒,/greɪn/,选择性必修第一册,高二,30,True,False
+1535,1*5,vision,n.想象;视力;视野;影像,/ˈvɪʒn/,选择性必修第一册,高二,30,True,False
+1536,1*5,reality,n.现实;实际情况;事实,/riˈæləti/,选择性必修第一册,高二,30,True,False
+1537,1*5,salty,a.含盐的;咸的,/ˈsɔ:lti/,选择性必修第一册,高二,30,True,False
+1538,1*5,urban,a.城市的;都市的;城镇的,/ˈɜ:bən/,选择性必修第一册,高二,30,True,False
+1539,1*5,bomb,n.炸弹 vt.轰炸;对…投炸弹,/bɒm/,选择性必修第一册,高二,30,True,False
+1540,1*5,tunnel,n.地下通道;地道;隧道,/ˈtʌnl/,选择性必修第一册,高二,30,True,False
+1541,1*5,extension,n.扩建部分;扩大;电话分机,/ɪkˈstenʃn/,选择性必修第一册,高二,30,True,False
+1542,1*5,chemical,a.与化学有关的 n.化学制品,/ˈkemɪkl/,选择性必修第一册,高二,30,True,False
+1543,1*5,wheat,n.小麦;小麦籽,/wi:t/,选择性必修第一册,高二,30,True,False
+1544,1*5,flavour,n.味道;特点;特色,/ˈfleɪvə(r)/,选择性必修第一册,高二,30,True,False
+1545,1*5,fertilizer,n.肥料,/ˈfɜ:təlaɪzə(r)/,选择性必修第一册,高二,30,True,False
+1546,1*5,nutritional,a.营养(物)的,/njʊ'trɪʃənl/,选择性必修第一册,高二,30,True,False
+1547,1*5,nutritious,a.有营养的;营养丰富的,/njuˈtrɪʃəs/,选择性必修第一册,高二,30,True,False
+1548,1*5,nutrition,n.营养;滋养,/njuˈtrɪʃn/,选择性必修第一册,高二,30,True,False
+1549,1*5,alleviate,vt.减轻;缓解,/əˈli:vieɪt/,选择性必修第一册,高二,30,True,False
+1550,1*5,poverty,n.贫穷;贫困,/ˈpɒvəti/,选择性必修第一册,高二,30,True,False
+1551,1*5,organic,a.有机的;不使用化肥的,/ɔ:ˈgænɪk/,选择性必修第一册,高二,30,True,False
+1552,1*5,pesticide,n.杀虫剂;除害药物,/ˈpestɪsaɪd/,选择性必修第一册,高二,30,True,False
+1553,1*5,widespread,a.分布广的;普遍的;广泛的,/ˈwaɪdspred/,选择性必修第一册,高二,30,True,False
+1554,1*5,bacterium,n.细菌,/bæk'tɪərɪəm/,选择性必修第一册,高二,30,True,False
+1556,1*5,digest,v.消化;领会;领悟 n.摘要,/daɪˈdʒest/,选择性必修第一册,高二,30,True,False
+1557,1*5,essential,a.完全必要的;极其重要的,/ɪˈsenʃl/,选择性必修第一册,高二,30,True,False
+1558,1*5,mineral,n.矿物;矿物质,/ˈmɪnərəl/,选择性必修第一册,高二,30,True,False
+1559,1*5,alternative,n.可选的事物 a.可供替代的,/ɔ:lˈtɜ:nətɪv/,选择性必修第一册,高二,31,True,False
+1560,1*5,grocery,n.食品杂货店;食品杂货,/ˈgrəʊsəri/,选择性必修第一册,高二,31,True,False
+1561,1*5,instance,n.例子;实例;事例,/ˈɪnstəns/,选择性必修第一册,高二,31,True,False
+1563,1*5,depth,n.向下(或向里)距离;深(度),/depθ/,选择性必修第一册,高二,31,True,False
+1564,1*5,root,n.根;根茎;根部;根源,/ru:t/,选择性必修第一册,高二,31,True,False
+1565,1*5,entirely,ad.全部地;完整地;完全地,/ɪnˈtaɪəli/,选择性必修第一册,高二,31,True,False
+1566,1*5,aspect,n.方面;层面,/ˈæspekt/,选择性必修第一册,高二,31,True,False
+1567,1*5,Vietnam,越南(国家名),/ˌvjet'næm/,选择性必修第一册,高二,31,True,True
+1568,1*5,LED,abbr.发光二极管,/led/,选择性必修第一册,高二,31,True,False
+1569,1*5,DDT,n.滴滴涕(旧时农业杀虫剂),/ˌdiː diː ˈtiː/,选择性必修第一册,高二,31,True,False
+1570,2*1,cholera,n.霍乱,/ˈkɒlərə/,选择性必修第二册,高二,31,True,False
+1571,2*1,severe,a.极为恶劣的;十分严重的,/sɪˈvɪə(r)/,选择性必修第二册,高二,31,True,False
+1572,2*1,diarrhoea,n.腹泻,/ˌdaɪəˈrɪə/,选择性必修第二册,高二,31,True,False
+1573,2*1,dehydration,n.脱水,/ˌdi:haɪ'dreɪʃn/,选择性必修第二册,高二,31,True,False
+1574,2*1,frustrated,a.懊恼的;沮丧的;失意的,/frʌˈstreɪtɪd/,选择性必修第二册,高二,31,True,False
+1576,2*1,contradictory,a.相互矛盾的;对立的,/ˌkɒntrəˈdɪktəri/,选择性必修第二册,高二,31,True,False
+1577,2*1,infection,n.感染;传染,/ɪnˈfekʃn/,选择性必修第二册,高二,31,True,False
+1578,2*1,infect,vt.使感染;传染,/ɪnˈfekt/,选择性必修第二册,高二,31,True,False
+1579,2*1,germ,n.微生物;细菌;病菌,/dʒɜ:m/,选择性必修第二册,高二,31,True,False
+1580,2*1,subscribe,vi.认购(股份);定期订购,/səbˈskraɪb/,选择性必修第二册,高二,31,True,False
+1582,2*1,proof,n.证据;证明;检验,/pru:f/,选择性必修第二册,高二,31,True,False
+1583,2*1,multiple,a.数量多的;多种多样的,/ˈmʌltɪpl/,选择性必修第二册,高二,31,True,False
+1584,2*1,pump,n.泵;抽水机;打气筒,/pʌmp/,选择性必修第二册,高二,31,True,False
+1586,2*1,household,n.一家人;家庭,/ˈhaʊshəʊld/,选择性必修第二册,高二,31,True,False
+1587,2*1,suspect,v.怀疑;疑有 n.犯罪嫌疑人,/səˈspekt/,选择性必修第二册,高二,31,True,False
+1588,2*1,blame,vt.把…归咎于;责怪 n.责备,/bleɪm/,选择性必修第二册,高二,31,True,False
+1589,2*1,handle,n.把手;拉手 vt.处理;搬动,/ˈhændl/,选择性必修第二册,高二,31,True,False
+1590,2*1,intervention,n.介入;出面;干涉,/ˌɪntə'venʃn/,选择性必修第二册,高二,31,True,False
+1591,2*1,link,n.联系;纽带 vt.把…接起来,/lɪŋk/,选择性必修第二册,高二,31,True,False
+1592,2*1,raw,a.未煮的;生的;未经处理的,/rɔ:/,选择性必修第二册,高二,31,True,False
+1593,2*1,pure,a.干净的;纯的;纯粹的,/pjʊə(r)/,选择性必修第二册,高二,31,True,False
+1594,2*1,substantial,a.大量的;价值巨大的,/səbˈstænʃl/,选择性必修第二册,高二,31,True,False
+1595,2*1,decrease,n.减少;降低;减少量 v.减少,/dɪˈkri:s/,选择性必修第二册,高二,31,True,False
+1597,2*1,statistic,n.[pl.]统计数字;统计资料,/stəˈtɪstɪk/,选择性必修第二册,高二,31,True,False
+1598,2*1,transform,vt.使改观 vi.改变;转变,/trænsˈfɔ:m/,选择性必修第二册,高二,31,True,False
+1599,2*1,epidemiology,n.流行病学,/ˌepɪˌdiːmiˈɒlədʒi/,选择性必修第二册,高二,31,True,False
+1600,2*1,microscope,n.显微镜,/ˈmaɪkrəskəʊp/,选择性必修第二册,高二,31,True,False
+1601,2*1,thinking,n.思想;思维;见解,/ˈθɪŋkɪŋ/,选择性必修第二册,高二,31,True,False
+1602,2*1,protein,n.蛋白质,/ˈprəʊti:n/,选择性必修第二册,高二,31,True,False
+1603,2*1,cell,n.细胞;小房间;单间牢房,/sel/,选择性必修第二册,高二,31,True,False
+1604,2*1,virus,n.病毒,/ˈvaɪrəs/,选择性必修第二册,高二,31,True,False
+1605,2*1,finding,n.发现;调查结果;判决,/ˈfaɪndɪŋ/,选择性必修第二册,高二,31,True,False
+1606,2*1,initial,a.最初的;开始的;第一的,/ɪˈnɪʃl/,选择性必修第二册,高二,31,True,False
+1607,2*1,vaccine,n.疫苗,/ˈvæksi:n/,选择性必修第二册,高二,31,True,False
+1608,2*1,framework,n.框架;结构,/ˈfreɪmwɜ:k/,选择性必修第二册,高二,31,True,False
+1610,2*1,solid,a.可靠的;固体的 n.固体,/ˈsɒlɪd/,选择性必修第二册,高二,31,True,False
+1611,2*1,cast,vt.投射;向…投以(视线等),/kɑ:st/,选择性必修第二册,高二,32,True,False
+1612,2*1,shadow,n.阴影;影子;背光处,/ˈʃædəʊ/,选择性必修第二册,高二,32,True,False
+1613,2*1,rainbow,n.彩虹,/ˈreɪnbəʊ/,选择性必修第二册,高二,32,True,False
+1614,2*1,pour,vi.倒出;倾泻;斟(饮料),/pɔ:(r)/,选择性必修第二册,高二,32,True,False
+1615,2*1,concrete,n.混凝土 a.混凝土制的,/ˈkɒŋkri:t/,选择性必修第二册,高二,32,True,False
+1616,2*1,plasma,n.血浆,/ˈplæzmə/,选择性必修第二册,高二,32,True,False
+1617,2*1,aerospace,n.航空航天工业,/ˈeərəʊspeɪs/,选择性必修第二册,高二,32,True,False
+1618,2*1,patriotic,a.爱国的,/ˌpeɪtriˈɒtɪk/,选择性必修第二册,高二,32,True,False
+1619,2*1,mechanical,a.机械的;发动机的;机器的,/məˈkænɪkl/,选择性必修第二册,高二,32,True,False
+1620,2*1,mechanic,n.机械师;机械修理工,/məˈkænɪk/,选择性必修第二册,高二,32,True,False
+1622,2*1,aviation,n.航空制造业;航空;飞行,/ˌeɪviˈeɪʃn/,选择性必修第二册,高二,32,True,False
+1623,2*1,defend,vt.保卫;防守;辯解,/dɪˈfend/,选择性必修第二册,高二,32,True,False
+1624,2*1,jet,n.喷气式飞机,/dʒet/,选择性必修第二册,高二,32,True,False
+1625,2*1,assistant,n.助理;助手,/əˈsɪstənt/,选择性必修第二册,高二,32,True,False
+1627,2*1,missile,n.导弹,/ˈmɪsaɪl/,选择性必修第二册,高二,32,True,False
+1628,2*1,leadership,n.领导;领导地位;领导才能,/ˈli:dəʃɪp/,选择性必修第二册,高二,32,True,False
+1629,2*1,trace,vt.追溯;追踪 n.痕迹;遗迹,/treɪs/,选择性必修第二册,高二,32,True,False
+1630,2*1,outstanding,a.优秀的;杰出的;明显的,/aʊtˈstændɪŋ/,选择性必修第二册,高二,32,True,False
+1631,2*1,gifted,a.有天赋的;有天才的,/ˈgɪftɪd/,选择性必修第二册,高二,32,True,False
+1633,2*1,abstract,a.抽象的 n.(文献等)摘要,/ˈæbstrækt/,选择性必修第二册,高二,32,True,False
+1634,2*1,steady,a.稳定的;平稳的;稳步的,/ˈstedi/,选择性必修第二册,高二,32,True,False
+1635,2*1,concept,n.概念;观念,/ˈkɒnsept/,选择性必修第二册,高二,32,True,False
+1636,2*1,astronomer,n.天文学家,/əˈstrɒnəmə(r)/,选择性必修第二册,高二,32,True,False
+1637,2*1,astronomy,n.天文学,/əˈstrɒnəmi/,选择性必修第二册,高二,32,True,False
+1638,2*1,telescope,n.望远镜,/ˈtelɪskəʊp/,选择性必修第二册,高二,32,True,False
+1639,2*1,besides,prep.除…外(还) ad.而且,/bɪˈsaɪdz/,选择性必修第二册,高二,32,True,False
+1640,2*1,brilliant,a.聪颖的;绝妙的;明亮的,/ˈbrɪliənt/,选择性必修第二册,高二,32,True,False
+1641,2*1,furthermore,ad.此外;再者,/ˌfɜ:ðəˈmɔ:(r)/,选择性必修第二册,高二,32,True,False
+1643,2*1,fault,n.弱点;过错,/fɔ:lt/,选择性必修第二册,高二,32,True,False
+1644,2*1,shift,n.改变;转换 vi.&vt.转移,/ʃɪft/,选择性必修第二册,高二,32,True,False
+1645,2*1,vivid,a.生动的;鲜明的;丰富的,/ˈvɪvɪd/,选择性必修第二册,高二,32,True,False
+1647,2*1,Cambridge,剑桥(英国城市),/'kæmbrɪdʒ/,选择性必修第二册,高二,32,True,True
+1653,2*2,complex,a.复杂的;难懂的;复合的,/ˈkɒmpleks/,选择性必修第二册,高二,32,True,False
+1654,2*2,recall,vt.&vi.记起;回想起,/rɪˈkɔ:l/,选择性必修第二册,高二,32,True,False
+1655,2*2,qualification,n.(学习课程)资格;学历,/ˌkwɒlɪfɪˈkeɪʃn/,选择性必修第二册,高二,32,True,False
+1656,2*2,qualify,v.(使)具备资格;(使)合格,/ˈkwɒlɪfaɪ/,选择性必修第二册,高二,32,True,False
+1657,2*2,ambition,n.追求的目标;夙愿;野心,/æmˈbɪʃn/,选择性必修第二册,高二,32,True,False
+1658,2*2,ambitious,a.有野心的;有雄心的,/æmˈbɪʃəs/,选择性必修第二册,高二,32,True,False
+1659,2*2,adaptation,n.适应;改编本,/ˌædæpˈteɪʃn/,选择性必修第二册,高二,32,True,False
+1660,2*2,comfort,n.安慰;舒服 vt.安慰;抚慰,/ˈkʌmfət/,选择性必修第二册,高二,32,True,False
+1661,2*2,tutor,n.(英国大学)助教;导师,/ˈtju:tə(r)/,选择性必修第二册,高二,32,True,False
+1662,2*2,cite,vt.引用;引述,/saɪt/,选择性必修第二册,高二,32,True,False
+1663,2*2,participation,n.参加;参与,/pɑ:ˌtɪsɪˈpeɪʃn/,选择性必修第二册,高二,33,True,False
+1664,2*2,participate,vi.参加;参与,/pɑ:ˈtɪsɪpeɪt/,选择性必修第二册,高二,33,True,False
+1666,2*2,presentation,n.报告;陈述;出示;拿出,/ˌpreznˈteɪʃn/,选择性必修第二册,高二,33,True,False
+1669,2*2,engage,v参加;参与 vt.吸引注意力,/ɪnˈgeɪdʒ/,选择性必修第二册,高二,33,True,False
+1671,2*2,involve,vt.包含;需要;涉及;影响,/ɪnˈvɒlv/,选择性必修第二册,高二,33,True,False
+1673,2*2,messenger,n.送信人;信使,/ˈmesɪndʒə(r)/,选择性必修第二册,高二,33,True,False
+1674,2*2,edition,n.(报纸)一份;(广播)一期,/ɪˈdɪʃn/,选择性必修第二册,高二,33,True,False
+1676,2*2,zone,n.(有别于周围)地区;地带,/zəʊn/,选择性必修第二册,高二,33,True,False
+1678,2*2,overwhelming,a.无法抗拒的;巨大的,/ˌəʊvəˈwelmɪŋ/,选择性必修第二册,高二,33,True,False
+1679,2*2,homesickness,n.思乡病;乡愁,/'həʊmsɪknəs/,选择性必修第二册,高二,33,True,False
+1680,2*2,motivated,a.积极的;主动的,/'məʊtɪveɪtɪd/,选择性必修第二册,高二,33,True,False
+1681,2*2,motivation,n.动力;积极性;动机,/ˌməʊtɪ'veɪʃn/,选择性必修第二册,高二,33,True,False
+1683,2*2,advisor,n.顾问,/əd'vaɪzə/,选择性必修第二册,高二,33,True,False
+1684,2*2,reasonable,a.有道理的;合情理的,/ˈri:znəbl/,选择性必修第二册,高二,33,True,False
+1685,2*2,expectation,n.期望;预期;期待,/ˌekspekˈteɪʃn/,选择性必修第二册,高二,33,True,False
+1686,2*2,applicant,n.申请人,/ˈæplɪkənt/,选择性必修第二册,高二,33,True,False
+1687,2*2,firm,n.公司;商行 a.结实的,/fɜ:m/,选择性必修第二册,高二,33,True,False
+1688,2*2,exposure,n.接触;体验;暴露;揭露,/ɪkˈspəʊʒə(r)/,选择性必修第二册,高二,33,True,False
+1689,2*2,expose,vt.使接触;使体验;显露,/ɪk'spəʊz/,选择性必修第二册,高二,33,True,False
+1690,2*2,insight,n.洞察力;眼光,/ˈɪnsaɪt/,选择性必修第二册,高二,33,True,False
+1691,2*2,departure,n.离开;启程;出发,/dɪˈpɑ:tʃə(r)/,选择性必修第二册,高二,33,True,False
+1692,2*2,setting,n.环境;背景;小说情节背景,/ˈsetɪŋ/,选择性必修第二册,高二,33,True,False
+1693,2*2,grasp,vi.理解;领会;抓紧,/grɑ:sp/,选择性必修第二册,高二,33,True,False
+1694,2*2,dramatic,a.巨大的;突然的;急剧的,/drəˈmætɪk/,选择性必修第二册,高二,33,True,False
+1695,2*2,expense,n.费用;花费;开销,/ɪkˈspens/,选择性必修第二册,高二,33,True,False
+1697,2*2,tremendous,a.巨大的;极大的,/trəˈmendəs/,选择性必修第二册,高二,33,True,False
+1698,2*2,behave,vt.表现 vi.&vi.表现得体,/bɪˈheɪv/,选择性必修第二册,高二,33,True,False
+1699,2*2,surroundings,n.[pl.]环境;周围的事物,/səˈraʊndɪŋz/,选择性必修第二册,高二,33,True,False
+1700,2*2,surrounding,a.周围的;附近的,/səˈraʊndɪŋ/,选择性必修第二册,高二,33,True,False
+1701,2*2,mature,a.成熟的,/məˈtʃʊə(r)/,选择性必修第二册,高二,33,True,False
+1702,2*2,depressed,a.沮丧的;意志消沉的,/dɪˈprest/,选择性必修第二册,高二,33,True,False
+1703,2*2,depress,vt.使沮丧;使忧愁,/dɪˈpres/,选择性必修第二册,高二,33,True,False
+1704,2*2,boom,vi.&n.迅速发展;繁荣,/bu:m/,选择性必修第二册,高二,33,True,False
+1705,2*2,strengthen,vi.&vt.加强;增强;巩固,/ˈstreŋθn/,选择性必修第二册,高二,33,True,False
+1706,2*2,deny,vi.否认;否定;拒绝,/dɪˈnaɪ/,选择性必修第二册,高二,33,True,False
+1707,2*2,optimistic,a.乐观的,/ˌɒptɪˈmɪstɪk/,选择性必修第二册,高二,33,True,False
+1708,2*2,gain,vi.获得;赢得 n.好处;增加,/geɪn/,选择性必修第二册,高二,33,True,False
+1709,2*2,perspective,n.(思考问题的)角度;观点,/pəˈspektɪv/,选择性必修第二册,高二,33,True,False
+1710,2*2,competence,n.能力;胜任;本领,/ˈkɒmpɪtəns/,选择性必修第二册,高二,33,True,False
+1711,2*2,competent,a.有能力的;称职的,/ˈkɒmpɪtənt/,选择性必修第二册,高二,33,True,False
+1712,2*2,envoy,n.使者;使节;代表,/ˈenvɔɪ/,选择性必修第二册,高二,33,True,False
+1713,2*2,cooperate,vi.合作;协作;配合,/kəʊ'ɒpəreɪt/,选择性必修第二册,高二,33,True,False
+1714,2*2,angle,n.角;角度;立场,/ˈæŋgl/,选择性必修第二册,高二,33,True,False
+1715,2*2,outlook,n.前景;可能性;观点,/ˈaʊtlʊk/,选择性必修第二册,高二,34,True,False
+1716,2*2,belt,n.腰带;地带,/belt/,选择性必修第二册,高二,34,True,False
+1717,2*2,initiative,n.倡议;新方案,/ɪˈnɪʃətɪv/,选择性必修第二册,高二,34,True,False
+1718,2*2,sincerely,ad.真诚地;诚实地,/sɪnˈsɪəli/,选择性必修第二册,高二,34,True,False
+1719,2*2,budget,n.预算,/ˈbʌdʒɪt/,选择性必修第二册,高二,34,True,False
+1721,2*2,logical,a.合乎逻辑的;合情合理的,/ˈlɒdʒɪkl/,选择性必修第二册,高二,34,True,False
+1726,2*2,outcome,n.结果;效果,/ˈaʊtkʌm/,选择性必修第二册,高二,34,True,False
+1727,2*2,Rome,罗马(意大利首都),/rəʊm/,选择性必修第二册,高二,34,True,True
+1728,2*2,Aisha,艾莎,,选择性必修第二册,高二,34,True,True
+1730,2*3,cuisine,n.菜肴;风味;烹饪,/kwɪˈzi:n/,选择性必修第二册,高二,34,True,False
+1731,2*3,prior,a.先前的;优先的,/ˈpraɪə(r)/,选择性必修第二册,高二,34,True,False
+1733,2*3,consist,vi.组成;构成,/kənˈsɪst/,选择性必修第二册,高二,34,True,False
+1735,2*3,pepper,n.甜椒;灯笼椒;胡椒粉,/ˈpepə(r)/,选择性必修第二册,高二,34,True,False
+1736,2*3,recipe,n.烹饪法;食谱,/ˈresəpi/,选择性必修第二册,高二,34,True,False
+1737,2*3,bold,a.大胆自信的;敢于冒险的,/bəʊld/,选择性必修第二册,高二,34,True,False
+1738,2*3,chef,n.厨师;主厨,/ʃef/,选择性必修第二册,高二,34,True,False
+1739,2*3,peppercorn,n.胡椒粒,/ˈpepəkɔːn/,选择性必修第二册,高二,34,True,False
+1740,2*3,vinegar,n.醋,/ˈvɪnɪgə(r)/,选择性必修第二册,高二,34,True,False
+1741,2*3,stuff,vt.填满;把…塞进 n.东西,/stʌf/,选择性必修第二册,高二,34,True,False
+1742,2*3,slice,n.(食物)薄片 vt.把…切片,/slaɪs/,选择性必修第二册,高二,34,True,False
+1744,2*3,onion,n.洋葱;葱头,/ˈʌnjən/,选择性必修第二册,高二,34,True,False
+1745,2*3,lamb,n.羊羔肉;羔羊,/læm/,选择性必修第二册,高二,34,True,False
+1747,2*3,elegant,a.精美的;讲究的;文雅的,/ˈelɪgənt/,选择性必修第二册,高二,34,True,False
+1749,2*3,exceptional,a.特别的;罕见的,/ɪkˈsepʃənl/,选择性必修第二册,高二,34,True,False
+1750,2*3,minimum,n.最小值;最少量 a.最低的,/ˈmɪnɪməm/,选择性必修第二册,高二,34,True,False
+1751,2*3,consume,v.吃;喝;饮;消耗,/kənˈsju:m/,选择性必修第二册,高二,34,True,False
+1752,2*3,temper,n.脾气;火气,/ˈtempə(r)/,选择性必修第二册,高二,34,True,False
+1753,2*3,vegetarian,n.素食者,/ˌvedʒəˈteəriən/,选择性必修第二册,高二,34,True,False
+1754,2*3,junk,n.无用的东西,/dʒʌŋk/,选择性必修第二册,高二,34,True,False
+1756,2*3,garlic,n.蒜,/ˈgɑ:lɪk/,选择性必修第二册,高二,34,True,False
+1757,2*3,bacon,n.熏猪肉;咸肉,/ˈbeɪkən/,选择性必修第二册,高二,34,True,False
+1758,2*3,ham,n.火腿,/hæm/,选择性必修第二册,高二,34,True,False
+1759,2*3,sausage,n.香肠;腊肠,/ˈsɒsɪdʒ/,选择性必修第二册,高二,34,True,False
+1760,2*3,cabbage,n.甘蓝;卷心菜;洋白菜,/ˈkæbɪdʒ/,选择性必修第二册,高二,34,True,False
+1762,2*3,brand,n.品牌,/brænd/,选择性必修第二册,高二,34,True,False
+1763,2*3,olive,n.油橄榄;橄榄树,/ˈɒlɪv/,选择性必修第二册,高二,34,True,False
+1764,2*3,fig,n.无花果,/fɪg/,选择性必修第二册,高二,34,True,False
+1765,2*3,ingredient,n.(尤指烹饪)材料;成分,/ɪnˈgri:diənt/,选择性必修第二册,高二,34,True,False
+1766,2*3,dessert,n.(饭后)甜点,/dɪˈzɜ:t/,选择性必修第二册,高二,34,True,False
+1767,2*3,dough,n.生面团,/dəʊ/,选择性必修第二册,高二,35,True,False
+1768,2*3,stable,a.稳定的;稳重的,/ˈsteɪbl/,选择性必修第二册,高二,35,True,False
+1769,2*3,haggis,n.(苏格兰)羊杂碎肚,/ˈhæɡɪs/,选择性必修第二册,高二,35,True,False
+1770,2*3,canteen,n.食堂;餐厅,/kænˈti:n/,选择性必修第二册,高二,35,True,False
+1771,2*3,cafeteria,n.自助餐厅;自助食堂,/ˌkæfəˈtɪəriə/,选择性必修第二册,高二,35,True,False
+1772,2*3,bun,n.圆面包;小圆甜饼,/bʌn/,选择性必修第二册,高二,35,True,False
+1773,2*3,chilli,n.辣椒,/'tʃɪlɪ/,选择性必修第二册,高二,35,True,False
+1774,2*3,pork,n.猪肉,/pɔ:k/,选择性必修第二册,高二,35,True,False
+1776,2*3,pearl,n.珍珠,/pɜ:l/,选择性必修第二册,高二,35,True,False
+1777,2*3,somewhat,ad.有点;稍微,/ˈsʌmwɒt/,选择性必修第二册,高二,35,True,False
+1778,2*3,madam,n.夫人;女士,/ˈmædəm/,选择性必修第二册,高二,35,True,False
+1779,2*3,calorie,n.卡路里(热量单位),/ˈkæləri/,选择性必修第二册,高二,35,True,False
+1780,2*3,association,n.协会;关联,/əˌsəʊʃiˈeɪʃn/,选择性必修第二册,高二,35,True,False
+1781,2*3,regardless,ad.不顾;不加理会,/rɪˈgɑ:dləs/,选择性必修第二册,高二,35,True,False
+1783,2*3,category,n.类别;种类,/ˈkætəgəri/,选择性必修第二册,高二,35,True,False
+1784,2*3,vitamin,n.维生素,/ˈvɪtəmɪn/,选择性必修第二册,高二,35,True,False
+1785,2*3,fibre,n.纤维;纤维制品,/ˈfaɪbə(r)/,选择性必修第二册,高二,35,True,False
+1786,2*3,quantity,n.数量;数额,/ˈkwɒntəti/,选择性必修第二册,高二,35,True,False
+1787,2*3,dairy,a.奶制的;乳品的 n.乳制品,/ˈdeəri/,选择性必修第二册,高二,35,True,False
+1788,2*3,moderation,n.适度;合理,/ˌmɒdəˈreɪʃn/,选择性必修第二册,高二,35,True,False
+1789,2*3,ideal,a.完美的;理想的 n.理想,/aɪˈdi:əl/,选择性必修第二册,高二,35,True,False
+1790,2*3,fundamental,a.根本的;基础的n.基本规律,/ˌfʌndəˈmentl/,选择性必修第二册,高二,35,True,False
+1791,2*3,chew,vi.&vt.咀嚼;嚼碎 n.咀嚼.,/tʃu:/,选择性必修第二册,高二,35,True,False
+1792,2*3,consistent,a.一致的;连续的,/kənˈsɪstənt/,选择性必修第二册,高二,35,True,False
+1793,2*3,modest,a.些许的;谦虚的;朴素的,/ˈmɒdɪst/,选择性必修第二册,高二,35,True,False
+1794,2*3,trick,n.诀窍;计谋;把戏,/trɪk/,选择性必修第二册,高二,35,True,False
+1795,2*3,overall,ad.总体上;大致上 a.全面的,/ˌəʊvərˈɔ:l/,选择性必修第二册,高二,35,True,False
+1797,2*3,Kazak,a.哈萨克族的 n.哈萨克族人,,选择性必修第二册,高二,35,True,True
+1799,2*4,airline,n.航空公司,/ˈeəlaɪn/,选择性必修第二册,高二,35,True,False
+1800,2*4,bay,n.(海或湖的)湾,/beɪ/,选择性必修第二册,高二,35,True,False
+1801,2*4,craft,n.手艺;工艺;技艺,/krɑ:ft/,选择性必修第二册,高二,35,True,False
+1802,2*4,antique,n.古物;古董 a.古老的,/ænˈti:k/,选择性必修第二册,高二,35,True,False
+1803,2*4,pleasant,a.令人愉快的;友好的,/ˈpleznt/,选择性必修第二册,高二,35,True,False
+1804,2*4,arise,vi.起身;出现;由…引起,/əˈraɪz/,选择性必修第二册,高二,35,True,False
+1805,2*4,massive,a.巨大的;非常严重的,/ˈmæsɪv/,选择性必修第二册,高二,35,True,False
+1806,2*4,literally,ad.字面上;真正地,/ˈlɪtərəli/,选择性必修第二册,高二,35,True,False
+1807,2*4,breath,n.呼吸的空气,/breθ/,选择性必修第二册,高二,35,True,False
+1809,2*4,bound,a.准备前往(某地);一定会,/baʊnd/,选择性必修第二册,高二,35,True,False
+1810,2*4,scenery,n.风景;景色,/ˈsi:nəri/,选择性必修第二册,高二,35,True,False
+1811,2*4,awesome,a.令人惊叹的;可怕的,/ˈɔ:səm/,选择性必修第二册,高二,35,True,False
+1812,2*4,spectacular,a.壮观的;壮丽的n.壮丽场面,/spekˈtækjələ(r)/,选择性必修第二册,高二,35,True,False
+1813,2*4,peak,n.顶峰;山峰;尖形,/pi:k/,选择性必修第二册,高二,35,True,False
+1814,2*4,highlight,n.最好的部分 vt.突出;强调,/ˈhaɪlaɪt/,选择性必修第二册,高二,35,True,False
+1815,2*4,goat,n.山羊,/gəʊt/,选择性必修第二册,高二,35,True,False
+1817,2*4,drill,vi.&vt.钻孔;打眼 n.钻头,/drɪl/,选择性必修第二册,高二,35,True,False
+1818,2*4,freezing,a.极冷的;冰冻的,/ˈfri:zɪŋ/,选择性必修第二册,高二,35,True,False
+1820,2*4,freeze,vi.&vt.结冰;(使)冻住,/fri:z/,选择性必修第二册,高二,36,True,False
+1821,2*4,mall,n.购物商场;购物广场,/mɔ:l/,选择性必修第二册,高二,36,True,False
+1822,2*4,prairie,n.北美草原,/ˈpreəri/,选择性必修第二册,高二,36,True,False
+1823,2*4,anticipate,vt.预料;预见;期望,/ænˈtɪsɪpeɪt/,选择性必修第二册,高二,36,True,False
+1824,2*4,bunch,n.束;串;捆,/bʌntʃ/,选择性必修第二册,高二,36,True,False
+1826,2*4,thunder,vi.打雷;轰隆隆地响 n.雷声,/ˈθʌndə(r)/,选择性必修第二册,高二,36,True,False
+1827,2*4,frost,n.霜;严寒天气 vt.使蒙上霜,/frɒst/,选择性必修第二册,高二,36,True,False
+1828,2*4,curtain,n.窗帘,/ˈkɜ:tn/,选择性必修第二册,高二,36,True,False
+1829,2*4,border,n.国界;边界(地区),/ˈbɔ:də(r)/,选择性必修第二册,高二,36,True,False
+1830,2*4,duration,n.持续时间;期间,/djuˈreɪʃn/,选择性必修第二册,高二,36,True,False
+1831,2*4,harbour,n.(海)港;港口,/'hɑ:bə(r)/,选择性必修第二册,高二,36,True,False
+1832,2*4,enrol,vi.&vt.(使)加入;注册;登记,/ɪnˈrəʊl/,选择性必修第二册,高二,36,True,False
+1833,2*4,quarry,n.采石场,/ˈkwɒri/,选择性必修第二册,高二,36,True,False
+1834,2*4,idiom,n.习语;成语,/ˈɪdiəm/,选择性必修第二册,高二,36,True,False
+1835,2*4,contrary,a.相反的 n.相反的事实,/ˈkɒntrəri/,选择性必修第二册,高二,36,True,False
+1837,2*4,anyhow,ad.(结束交谈)不过;反正,/ˈenihaʊ/,选择性必修第二册,高二,36,True,False
+1838,2*4,alongside,prep.在…旁边 ad.在旁边,/əˌlɒŋˈsaɪd/,选择性必修第二册,高二,36,True,False
+1839,2*4,proceed,vi.行进;继续做,/prəˈsi:d/,选择性必修第二册,高二,36,True,False
+1841,2*4,shore,n.岸;滨,/ʃɔ:(r)/,选择性必修第二册,高二,36,True,False
+1842,2*4,astonish,vi.使十分惊讶;使吃惊,/əˈstɒnɪʃ/,选择性必修第二册,高二,36,True,False
+1843,2*4,misty,a.多雾的;模糊的,/ˈmɪsti/,选择性必修第二册,高二,36,True,False
+1844,2*4,mist,n.薄雾;水汽,/mɪst/,选择性必修第二册,高二,36,True,False
+1845,2*4,steel,n.钢;钢铁工业,/sti:l/,选择性必修第二册,高二,36,True,False
+1846,2*4,dusk,n.黄昏;傍晚,/dʌsk/,选择性必修第二册,高二,36,True,False
+1847,2*4,advertisement,n.广告;启事,/ədˈvɜ:tɪsmənt/,选择性必修第二册,高二,36,True,False
+1848,2*4,accent,n.口音,/ˈæksent/,选择性必修第二册,高二,36,True,False
+1849,2*4,photographer,n.摄影师;拍照者,/fəˈtɒgrəfə(r)/,选择性必修第二册,高二,36,True,False
+1850,2*4,owe,vt.欠(账、债、情等),/əʊ/,选择性必修第二册,高二,36,True,False
+1852,2*4,toast,n.烤面包片;干杯 vt.干杯,/təʊst/,选择性必修第二册,高二,36,True,False
+1853,2*4,cobblestone,a.铺有鹅卵石的,/ˈkɒblstəʊn/,选择性必修第二册,高二,36,True,False
+1854,2*4,coherent,a.有条理的;清楚易懂的,/kəʊˈhɪərənt/,选择性必修第二册,高二,36,True,False
+1855,2*4,Halifax,哈利法克斯(加拿大城市),,选择性必修第二册,高二,36,True,True
+1856,2*4,Vancouver,温哥华(加拿大城市),/vænˈku:və/,选择性必修第二册,高二,36,True,True
+1858,2*4,Jasper,贾斯珀(加拿大城市),/'dʒæspə/,选择性必修第二册,高二,36,True,True
+1859,2*4,Toronto,多伦多(加拿大城市),/tə'rɒntəʊ/,选择性必修第二册,高二,36,True,True
+1860,2*4,Edmonton,埃德蒙顿(加拿大城市),/'edməntən/,选择性必修第二册,高二,36,True,True
+1861,2*4,Winnipeg,温尼伯(加拿大城市),,选择性必修第二册,高二,36,True,True
+1862,2*4,Ontario,安大略省(加拿大),/ɒn'teərɪəʊ/,选择性必修第二册,高二,36,True,True
+1866,2*4,Montreal,蒙特利尔(加拿大城市),,选择性必修第二册,高二,36,True,True
+1869,2*4,Jean-Philippe,让-菲利普,,选择性必修第二册,高二,36,True,True
+1871,2*5,technique,n.技能;技术;技艺,/tekˈni:k/,选择性必修第二册,高二,37,True,False
+1872,2*5,leaflet,n.散页印刷品;传单;小册子,/ˈli:flət/,选择性必修第二册,高二,37,True,False
+1873,2*5,organ,n.(人或动植物的)器官,/ˈɔ:gən/,选择性必修第二册,高二,37,True,False
+1874,2*5,toxin,n.毒素(细菌产生致病物质),/ˈtɒksɪn/,选择性必修第二册,高二,37,True,False
+1875,2*5,ray,n.光线;光束;(热/电)射线,/reɪ/,选择性必修第二册,高二,37,True,False
+1877,2*5,radiation,n.辐射;放射线,/ˌreɪdiˈeɪʃn/,选择性必修第二册,高二,37,True,False
+1878,2*5,acid,n.酸 a.酸的;酸性的,/ˈæsɪd/,选择性必修第二册,高二,37,True,False
+1879,2*5,millimetre,n.毫米;千分之一米,/ˈmɪlimi:tə(r)/,选择性必修第二册,高二,37,True,False
+1880,2*5,minor,a.较小的;次要的;轻微的,/ˈmaɪnə(r)/,选择性必修第二册,高二,37,True,False
+1881,2*5,layer,n.层;表层;层次,/ˈleɪə(r)/,选择性必修第二册,高二,37,True,False
+1882,2*5,electric,a.电的;用电的;电动的,/ɪˈlektrɪk/,选择性必修第二册,高二,37,True,False
+1884,2*5,victim,n.受害者;患者,/ˈvɪktɪm/,选择性必修第二册,高二,37,True,False
+1885,2*5,swollen,a.(身体部位)肿起的;肿胀的,/ˈswəʊlən/,选择性必修第二册,高二,37,True,False
+1886,2*5,swell,vi.膨胀;肿胀,/swel/,选择性必修第二册,高二,37,True,False
+1887,2*5,blister,n.(皮肤)水疱;(金属)气泡,/ˈblɪstə(r)/,选择性必修第二册,高二,37,True,False
+1888,2*5,underneath,prep.&ad.在…底下,/ˌʌndəˈni:θ/,选择性必修第二册,高二,37,True,False
+1889,2*5,nerve,n.神经,/nɜ:v/,选择性必修第二册,高二,37,True,False
+1890,2*5,fabric,n.织物;布料;(社会等)结构,/ˈfæbrɪk/,选择性必修第二册,高二,37,True,False
+1891,2*5,loose,a.松的;未系紧的;宽松的,/lu:s/,选择性必修第二册,高二,37,True,False
+1892,2*5,urgent,a.紧急的;急迫的;急切的,/ˈɜ:dʒənt/,选择性必修第二册,高二,37,True,False
+1893,2*5,ease,v.(使)宽慰;减轻 n.容易,/i:z/,选择性必修第二册,高二,37,True,False
+1894,2*5,paramedic,n.急救医生;护理人员,/ˌpærəˈmedɪk/,选择性必修第二册,高二,37,True,False
+1895,2*5,swallow,vt.&vi.吞下;咽下,/ˈswɒləʊ/,选择性必修第二册,高二,37,True,False
+1897,2*5,bathtub,n.浴缸;浴盆,/ˈbɑ:θtʌb/,选择性必修第二册,高二,37,True,False
+1898,2*5,bath,n.洗澡 vt.给…洗澡,/bɑ:θ/,选择性必修第二册,高二,37,True,False
+1899,2*5,slip,vi.滑倒;滑落 n.滑倒,/slɪp/,选择性必修第二册,高二,37,True,False
+1900,2*5,mosquito,n.蚊子,/məˈski:təʊ/,选择性必修第二册,高二,37,True,False
+1901,2*5,elderly,a.年纪较大的;上了年纪的,/ˈeldəli/,选择性必修第二册,高二,37,True,False
+1902,2*5,carpet,n.地毯,/ˈkɑ:pɪt/,选择性必修第二册,高二,37,True,False
+1903,2*5,operator,n.电话接线员;操作员,/ˈɒpəreɪtə(r)/,选择性必修第二册,高二,37,True,False
+1904,2*5,ambulance,n.救护车,/ˈæmbjələns/,选择性必修第二册,高二,37,True,False
+1905,2*5,delay,v.推迟;延期;耽误 n.延误,/dɪˈleɪ/,选择性必修第二册,高二,37,True,False
+1906,2*5,needle,n.针;缝衣针;注射针;指针,/ˈni:dl/,选择性必修第二册,高二,37,True,False
+1909,2*5,ward,n.病房,/wɔ:d/,选择性必修第二册,高二,37,True,False
+1910,2*5,drown,vi.&vt.(使)淹死;溺死;浸泡,/draʊn/,选择性必修第二册,高二,37,True,False
+1911,2*5,sprain,vt.扭伤(关节) n.扭伤,/spreɪn/,选择性必修第二册,高二,37,True,False
+1912,2*5,ankle,n.踝;踝关节,/ˈæŋkl/,选择性必修第二册,高二,37,True,False
+1913,2*5,bleeding,n.流血;失血,/ˈbli:dɪŋ/,选择性必修第二册,高二,37,True,False
+1914,2*5,bleed,vi.流血;失血,/bli:d/,选择性必修第二册,高二,37,True,False
+1915,2*5,panic,vi.&vt.(使)惊慌 n.惊恐,/ˈpænɪk/,选择性必修第二册,高二,37,True,False
+1916,2*5,interrupt,vi.&v.打断;打扰 vt.使暂停,/ˌɪntəˈrʌpt/,选择性必修第二册,高二,37,True,False
+1917,2*5,scream,v.(因愤怒等)高声喊 n.尖叫,/skri:m/,选择性必修第二册,高二,37,True,False
+1918,2*5,fellow,a.同类的;同事的 n.男人,/ˈfeləʊ/,选择性必修第二册,高二,37,True,False
+1919,2*5,diner,n.(尤指餐馆的)就餐者,/ˈdaɪnə(r)/,选择性必修第二册,高二,37,True,False
+1920,2*5,choke,vi.&vt.(使)窒息;(使)哽咽,/tʃəʊk/,选择性必修第二册,高二,37,True,False
+1921,2*5,steak,n.牛排;肉排,/steɪk/,选择性必修第二册,高二,37,True,False
+1922,2*5,throat,n.咽喉;喉咙,/θrəʊt/,选择性必修第二册,高二,37,True,False
+1923,2*5,desperate,a.绝望的;孤注一掷的,/ˈdespərət/,选择性必修第二册,高二,38,True,False
+1924,2*5,slap,"v.&n(用手)打、拍,拍击声",/slæp/,选择性必修第二册,高二,38,True,False
+1926,2*5,practical,a.切实可行的;实际的,/ˈpræktɪkl/,选择性必修第二册,高二,38,True,False
+1927,2*5,obstruction,n.阻碍;堵塞;阻塞物,/əbˈstrʌkʃn/,选择性必修第二册,高二,38,True,False
+1928,2*5,fist,n.拳;拳头,/fɪst/,选择性必修第二册,高二,38,True,False
+1929,2*5,grab,vt.抓住;攫取 n.抓取;抢夺,/græb/,选择性必修第二册,高二,38,True,False
+1930,2*5,tightly,ad.紧紧地;牢固地;紧密地,/ˈtaɪtli/,选择性必修第二册,高二,38,True,False
+1931,2*5,tight,a.牢固的;紧身的 ad.紧紧地,/taɪt/,选择性必修第二册,高二,38,True,False
+1932,2*5,motion,n.运动;移动,/ˈməʊʃn/,选择性必修第二册,高二,38,True,False
+1935,2*5,justify,vt.证明…有理;为…辩护,/ˈdʒʌstɪfaɪ/,选择性必修第二册,高二,38,True,False
+1936,2*5,welfare,n.幸福;福祉;安康;福利,/ˈwelfeə(r)/,选择性必修第二册,高二,38,True,False
+1937,2*5,collapse,vi.(突然)倒塌;(因病)昏倒,/kəˈlæps/,选择性必修第二册,高二,38,True,False
+1938,2*5,manual,n.使用手册;说明书a.用手的,/ˈmænjuəl/,选择性必修第二册,高二,38,True,False
+1941,2*5,foggy,a.有雾的,/ˈfɒgi/,选择性必修第二册,高二,38,True,False
+1942,2*5,suburb,n.郊区;城外,/ˈsʌbɜ:b/,选择性必修第二册,高二,38,True,False
+1943,2*5,membership,n.会员身份;全体会员,/ˈmembəʃɪp/,选择性必修第二册,高二,38,True,False
+1944,2*5,Taylor,泰勒,/ˈteilə/,选择性必修第二册,高二,38,True,True
+1945,2*5,CPR,abbr.心肺复苏,,选择性必修第二册,高二,38,True,False
+1948,3*1,precise,a.准确的;精确的,/prɪˈsaɪs/,选择性必修第三册,高三,38,True,False
+1949,3*1,precisely,ad.准确地;精确地;的确如此,/prɪˈsaɪsli/,选择性必修第三册,高三,38,True,False
+1950,3*1,Christianity,n.基督教,/ˌkrɪstiˈænəti/,选择性必修第三册,高三,38,True,True
+1951,3*1,realistic,a.现实的;通真的,/ˌri:əˈlɪstɪk/,选择性必修第三册,高三,38,True,False
+1952,3*1,realism,n.逼真;现实主义;务实作风,/ˈri:əlɪzəm/,选择性必修第三册,高三,38,True,False
+1953,3*1,realist,n.现实主义画家(或作家等),/ˈri:əlɪst/,选择性必修第三册,高三,38,True,False
+1954,3*1,primitive,a.发展水平低的;原始的,/ˈprɪmətɪv/,选择性必修第三册,高三,38,True,False
+1955,3*1,two-dimensional,a.二维的,/tu: dɪ'menʃənəl/,选择性必修第三册,高三,38,True,False
+1956,3*1,dimension,n.维;规模;范围,/daɪˈmenʃn/,选择性必修第三册,高三,38,True,False
+1959,3*1,humanistic,a.人文主义的,/ˌhju:mə'nɪstɪk/,选择性必修第三册,高三,38,True,False
+1960,3*1,humanity,n.人性;人道;(统称)人类,/hju:ˈmænəti/,选择性必修第三册,高三,38,True,False
+1961,3*1,breakthrough,n.重大进展;突破,/ˈbreɪkθru:/,选择性必修第三册,高三,38,True,False
+1962,3*1,influential,a.有很大影响的;有支配力的,/ˌɪnfluˈenʃl/,选择性必修第三册,高三,38,True,False
+1963,3*1,reputation,n.名誉;名声,/ˌrepjuˈteɪʃn/,选择性必修第三册,高三,38,True,False
+1964,3*1,noble,n.贵族成员 a.崇高的;宏伟的,/ˈnəʊbl/,选择性必修第三册,高三,38,True,False
+1965,3*1,rank,n.地位;级别;行列 v.分等级,/ræŋk/,选择性必修第三册,高三,38,True,False
+1966,3*1,purchase,vt.购买;采购 n.购买,/ˈpɜ:tʃəs/,选择性必修第三册,高三,38,True,False
+1967,3*1,mythology,n.神话;虚幻的想法,/mɪˈθɒlədʒi/,选择性必修第三册,高三,38,True,False
+1968,3*1,client,n.委托人;当事人;客户,/ˈklaɪənt/,选择性必修第三册,高三,38,True,False
+1969,3*1,photography,n.照相术;摄影,/fəˈtɒgrəfi/,选择性必修第三册,高三,38,True,False
+1970,3*1,emerge,vi.&vt.出现;浮现;暴露,/iˈmɜ:dʒ/,选择性必修第三册,高三,38,True,False
+1971,3*1,sunrise,n.日出,/ˈsʌnraɪz/,选择性必修第三册,高三,38,True,False
+1972,3*1,convey,vt.表达;传递(思想/感情等),/kənˈveɪ/,选择性必修第三册,高三,38,True,False
+1973,3*1,subjective,a.主观的,/səbˈdʒektɪv/,选择性必修第三册,高三,38,True,False
+1974,3*1,outer,a.外表的;外边的;外围的,/ˈaʊtə(r)/,选择性必修第三册,高三,38,True,False
+1975,3*1,subsequent,a.随后的;后来的;之后的,/ˈsʌbsɪkwənt/,选择性必修第三册,高三,39,True,False
+1976,3*1,fond,a.喜爱,/fɒnd/,选择性必修第三册,高三,39,True,False
+1979,3*1,sculpture,n.雕像;雕刻品;雕刻术,/ˈskʌlptʃə(r)/,选择性必修第三册,高三,39,True,False
+1980,3*1,sculptor,n.雕刻家;雕塑家,/ˈskʌlptə(r)/,选择性必修第三册,高三,39,True,False
+1981,3*1,visual,a.视觉的;视力的,/ˈvɪʒuəl/,选择性必修第三册,高三,39,True,False
+1983,3*1,pond,n.池塘;水池,/pɒnd/,选择性必修第三册,高三,39,True,False
+1984,3*1,arched,a.拱形的;弓形的,,选择性必修第三册,高三,39,True,False
+1985,3*1,arch,v.呈弧形横跨 n.拱;拱门,/ɑ:tʃ/,选择性必修第三册,高三,39,True,False
+1986,3*1,investment,n.投资额;投资;(时间)投入,/ɪnˈvestmənt/,选择性必修第三册,高三,39,True,False
+1987,3*1,bride,n.新娘,/braɪd/,选择性必修第三册,高三,39,True,False
+1988,3*1,permanent,a.永久的;永恒的;长久的,/ˈpɜ:mənənt/,选择性必修第三册,高三,39,True,False
+1989,3*1,memorial,n.纪念碑;纪念物 a.纪念的,/məˈmɔ:riəl/,选择性必修第三册,高三,39,True,False
+1990,3*1,humble,a.谦逊的;虚心的;卑微的,/ˈhʌmbl/,选择性必修第三册,高三,39,True,False
+1991,3*1,criticise,vi.&vt.批评;指责;评价,/'krɪtɪsaɪz/,选择性必修第三册,高三,39,True,False
+1992,3*1,criticism,n.批评;指责;评论,/ˈkrɪtɪsɪzəm/,选择性必修第三册,高三,39,True,False
+1993,3*1,representative,a.典型的;代表性的 n.代表,/ˌreprɪˈzentətɪv/,选择性必修第三册,高三,39,True,False
+1994,3*1,ink,n.墨水;墨汁;油墨,/ɪŋk/,选择性必修第三册,高三,39,True,False
+1995,3*1,animation,n.(电脑)动画制作;动画片,/ˌænɪˈmeɪʃn/,选择性必修第三册,高三,39,True,False
+1996,3*1,frame,n.画面;框架 vt.镶框,/freɪm/,选择性必修第三册,高三,39,True,False
+1997,3*1,symphony,n.交响乐;交响曲,/ˈsɪmfəni/,选择性必修第三册,高三,39,True,False
+1998,3*1,decline,n.(数量)减少;下降 v.减少,/dɪˈklaɪn/,选择性必修第三册,高三,39,True,False
+1999,3*1,exhibition,n.展览;(技能/感情)表演,/ˌeksɪˈbɪʃn/,选择性必修第三册,高三,39,True,False
+2000,3*1,bronze,n.青铜;深红 a.青铜色的,/brɒnz/,选择性必修第三册,高三,39,True,False
+2001,3*1,ceramic,n.陶瓷制品;制陶艺术,/səˈræmɪk/,选择性必修第三册,高三,39,True,False
+2002,3*1,vase,n.花瓶;装饰瓶,/vɑ:z/,选择性必修第三册,高三,39,True,False
+2003,3*1,artistic,a.艺术的;艺术家的,/ɑ:ˈtɪstɪk/,选择性必修第三册,高三,39,True,False
+2004,3*1,entry,n.加入;进入;参与,/ˈentri/,选择性必修第三册,高三,39,True,False
+2005,3*1,civil,a.国民的;民用的;民事的,/ˈsɪvl/,选择性必修第三册,高三,39,True,False
+2006,3*1,recognition,n.承认;认出;赞誉,/ˌrekəgˈnɪʃn/,选择性必修第三册,高三,39,True,False
+2007,3*1,Buddhist,a.佛教的 n.佛教徒,/'bʊdɪst/,选择性必修第三册,高三,39,True,True
+2008,3*1,Buddhism,n.佛教,/ˈbʊdɪzəm/,选择性必修第三册,高三,39,True,True
+2009,3*1,expansion,n.扩张;扩展;扩大,/ɪkˈspænʃn/,选择性必修第三册,高三,39,True,False
+2011,3*1,guarantee,vt.保证;确保 n.保证,/ˌgærənˈti:/,选择性必修第三册,高三,39,True,False
+2012,3*1,contemporary,a.当代的;现代的 n.同代人,/kənˈtemprəri/,选择性必修第三册,高三,39,True,False
+2013,3*1,worthy,a.值得…的;有价值的,/ˈwɜ:ði/,选择性必修第三册,高三,39,True,False
+2018,3*1,Masaccio,马萨乔(意),,选择性必修第三册,高三,39,True,True
+2020,3*1,Michelangelo,米开朗基罗(意),/ˌmi:kel'ɑ:ndʒelɔ:/,选择性必修第三册,高三,39,True,True
+2021,3*1,Raphael,拉斐尔(意),,选择性必修第三册,高三,39,True,True
+2022,3*1,Rembrandt,伦勃朗(荷兰),,选择性必修第三册,高三,39,True,True
+2023,3*1,Impressionism,n.印象主义;印象派,/ɪm'preʃənɪzəm/,选择性必修第三册,高三,39,True,True
+2025,3*1,Renoir,雷诺阿(法国印象派画家),/rə'nwa:/,选择性必修第三册,高三,39,True,True
+2026,3*1,Picasso,毕加索(西班牙),/pɪ'kɑ:səʊ/,选择性必修第三册,高三,39,True,True
+2027,3*1,Cubism,立体主义;立体派,/'kju:bɪzəm/,选择性必修第三册,高三,40,True,True
+2028,3*1,Giverny,吉维尼(法国小镇),,选择性必修第三册,高三,40,True,True
+2033,3*2,tobacco,n.烟草;烟叶,/təˈbækəʊ/,选择性必修第三册,高三,40,True,False
+2034,3*2,alcohol,n.酒;酒精,/ˈælkəhɒl/,选择性必修第三册,高三,40,True,False
+2035,3*2,abuse,n.滥用;虐待 vt.滥用;虐待,/əˈbju:s/,选择性必修第三册,高三,40,True,False
+2036,3*2,physical,a.身体的;客观存在的,/ˈfɪzɪkl/,选择性必修第三册,高三,40,True,False
+2037,3*2,dominate,vt.&vi.支配;控制;占优势,/ˈdɒmɪneɪt/,选择性必修第三册,高三,40,True,False
+2038,3*2,repeatedly,ad.重复地,/rɪ'pi:tɪdlɪ/,选择性必修第三册,高三,40,True,False
+2039,3*2,psychology,n.心理学;心理;心理影响,/saɪˈkɒlədʒi/,选择性必修第三册,高三,40,True,False
+2040,3*2,cue,n.提示;暗示 vt.给…暗示,/kju:/,选择性必修第三册,高三,40,True,False
+2042,3*2,reward,n.回报;奖励 vt.奖励;奖赏,/rɪˈwɔ:d/,选择性必修第三册,高三,40,True,False
+2043,3*2,rely,vi.依赖;依靠;信赖,/rɪˈlaɪ/,选择性必修第三册,高三,40,True,False
+2045,3*2,facilitate,vt.促进;促使;使便利,/fəˈsɪlɪteɪt/,选择性必修第三册,高三,40,True,False
+2046,3*2,examine,vt.(仔细)检查;审查;测验,/ɪgˈzæmɪn/,选择性必修第三册,高三,40,True,False
+2047,3*2,negative,a.消极的;有害的;否定的,/ˈnegətɪv/,选择性必修第三册,高三,40,True,False
+2048,3*2,escalator,n.自动扶梯;滚梯,/ˈeskəleɪtə(r)/,选择性必修第三册,高三,40,True,False
+2050,3*2,pessimistic,a.悲观的;悲观主义的,/ˌpesɪˈmɪstɪk/,选择性必修第三册,高三,40,True,False
+2051,3*2,discipline,n.自制力;纪律 vt.自我控制,/ˈdɪsəplɪn/,选择性必修第三册,高三,40,True,False
+2052,3*2,pill,n.药丸;药片,/pɪl/,选择性必修第三册,高三,40,True,False
+2053,3*2,delete,v.删去;删除,/dɪˈli:t/,选择性必修第三册,高三,40,True,False
+2056,3*2,compose,vt.&vi.组成;作曲;撰写,/kəmˈpəʊz/,选择性必修第三册,高三,40,True,False
+2058,3*2,surgeon,n.外科医生,/ˈsɜ:dʒən/,选择性必修第三册,高三,40,True,False
+2059,3*2,surgery,n.外科手术;外科学,/ˈsɜ:dʒəri/,选择性必修第三册,高三,40,True,False
+2060,3*2,liberation,n.解放;摆脱,/ˌlɪbə'reɪʃn/,选择性必修第三册,高三,40,True,False
+2061,3*2,shave,"vi,vt.&n.剃(须发);刮脸",/ʃeɪv/,选择性必修第三册,高三,40,True,False
+2063,3*2,beard,n.胡须;络腮胡子,/bɪəd/,选择性必修第三册,高三,40,True,False
+2064,3*2,disturb,vt.打扰;搅乱;使烦恼,/dɪˈstɜ:b/,选择性必修第三册,高三,40,True,False
+2065,3*2,cigarette,n.香烟;卷烟,/ˌsɪgəˈret/,选择性必修第三册,高三,40,True,False
+2066,3*2,specialist,n.专科医生;专家,/ˈspeʃəlɪst/,选择性必修第三册,高三,40,True,False
+2067,3*2,consultant,n.顾问;高级顾问医师,/kənˈsʌltənt/,选择性必修第三册,高三,40,True,False
+2068,3*2,drug,n.毒品;药物,/drʌg/,选择性必修第三册,高三,40,True,False
+2069,3*2,skip,v.跳过;不参加 vi.跳绳,/skɪp/,选择性必修第三册,高三,40,True,False
+2070,3*2,dizzy,a.头晕目眩的,/ˈdɪzi/,选择性必修第三册,高三,40,True,False
+2071,3*2,flu,n.流感,/flu:/,选择性必修第三册,高三,40,True,False
+2072,3*2,stimulate,vt.激发;促进;刺激,/ˈstɪmjuleɪt/,选择性必修第三册,高三,40,True,False
+2073,3*2,dentist,n.牙科医生,/ˈdentɪst/,选择性必修第三册,高三,40,True,False
+2074,3*2,sugary,a.含糖的;甜的,/ˈʃʊgəri/,选择性必修第三册,高三,40,True,False
+2075,3*2,nut,n.坚果,/nʌt/,选择性必修第三册,高三,40,True,False
+2076,3*2,skateboard,n.滑板 vi.滑滑板,/ˈskeɪtbɔ:d/,选择性必修第三册,高三,40,True,False
+2077,3*2,dynamic,a.充满活力的;精力充沛的,/daɪˈnæmɪk/,选择性必修第三册,高三,40,True,False
+2080,3*2,bowling,n.保龄球运动,/ˈbəʊlɪŋ/,选择性必修第三册,高三,41,True,False
+2081,3*2,comedy,n.喜剧;喜剧片;滑稽节目,/ˈkɒmədi/,选择性必修第三册,高三,41,True,False
+2082,3*2,monthly,ad.每月;每月一次的 n.月刊,/ˈmʌnθli/,选择性必修第三册,高三,41,True,False
+2083,3*2,enhance,vt.提高;增强;增进,/ɪnˈhɑ:ns/,选择性必修第三册,高三,41,True,False
+2084,3*2,refresh,v.使恢复精力;使凉爽;刷新,/rɪˈfreʃ/,选择性必修第三册,高三,41,True,False
+2085,3*2,absorb,vt.吸引全部注意力;吸收,/əbˈsɔ:b/,选择性必修第三册,高三,41,True,False
+2086,3*2,Aristotle,亚里土多德(古希腊哲学家),,选择性必修第三册,高三,41,True,True
+2089,3*3,graph,n.图;图表;曲线图,/græf/,选择性必修第三册,高三,41,True,False
+2090,3*3,emission,n.排放物;散发物;排放,/iˈmɪʃn/,选择性必修第三册,高三,41,True,False
+2091,3*3,melt,vi.&vt.(使)融化;熔化;软化,/melt/,选择性必修第三册,高三,41,True,False
+2092,3*3,starve,vi.&vt.(使)挨饿;饿死,/stɑ:v/,选择性必修第三册,高三,41,True,False
+2093,3*3,seal,n.海豹,/si:l/,选择性必修第三册,高三,41,True,False
+2094,3*3,ecology,n.生态;生态学,/iˈkɒlədʒi/,选择性必修第三册,高三,41,True,False
+2095,3*3,release,vt.&n.排放;释放;发布,/rɪˈli:s/,选择性必修第三册,高三,41,True,False
+2096,3*3,methane,n.甲烷;沼气,/ˈmi:θeɪn/,选择性必修第三册,高三,41,True,False
+2097,3*3,carbon,n.碳,/ˈkɑ:bən/,选择性必修第三册,高三,41,True,False
+2098,3*3,dioxide,n.二氧化物,/daɪˈɒksaɪd/,选择性必修第三册,高三,41,True,False
+2100,3*3,habitable,a.适合居住的,,选择性必修第三册,高三,41,True,False
+2101,3*3,sustain,vt.维持;遺受;承受住,/səˈsteɪn/,选择性必修第三册,高三,41,True,False
+2102,3*3,sustainable,a.可持续的;合理利用的,/səˈsteɪnəbl/,选择性必修第三册,高三,41,True,False
+2103,3*3,fossil,n.化石,/ˈfɒsl/,选择性必修第三册,高三,41,True,False
+2104,3*3,fuel,n.燃料;刺激性言行,/ˈfju:əl/,选择性必修第三册,高三,41,True,False
+2106,3*3,comprehensive,a.全部的;所有的;详尽的,/ˌkɒmprɪˈhensɪv/,选择性必修第三册,高三,41,True,False
+2107,3*3,worldwide,ad.遍全球地 a.世界各地的,/ˈwɜ:ldwaɪd/,选择性必修第三册,高三,41,True,False
+2108,3*3,trend,n.趋势;趋向;动向,/trend/,选择性必修第三册,高三,41,True,False
+2109,3*3,frequently,ad.频繁地;经常,/ˈfri:kwəntli/,选择性必修第三册,高三,41,True,False
+2110,3*3,broadcast,v.播送;广播 n.广播节目,/ˈbrɔ:dkɑ:st/,选择性必修第三册,高三,41,True,False
+2111,3*3,policy,n.政策;方针;原则,/ˈpɒləsi/,选择性必修第三册,高三,41,True,False
+2112,3*3,footprint,n.足迹;(某物所占)空间量,/ˈfʊtprɪnt/,选择性必修第三册,高三,41,True,False
+2113,3*3,restrict,vt.限制;限定;束缚,/rɪˈstrɪkt/,选择性必修第三册,高三,41,True,False
+2114,3*3,restriction,n.限制规定;限制法规;约束,/rɪˈstrɪkʃn/,选择性必修第三册,高三,41,True,False
+2115,3*3,seize,vt.抓住;夺取;控制,/si:z/,选择性必修第三册,高三,41,True,False
+2116,3*3,basin,n.流域;盆地;盆,/ˈbeɪsn/,选择性必修第三册,高三,41,True,False
+2117,3*3,penguin,n.企鹅,/ˈpeŋgwɪn/,选择性必修第三册,高三,41,True,False
+2118,3*3,reform,v.改革;改正 n.改革;变革,/rɪˈfɔ:m/,选择性必修第三册,高三,41,True,False
+2119,3*3,undergo,v.经历;经受(变化/不快等),/ˌʌndəˈgəʊ/,选择性必修第三册,高三,41,True,False
+2120,3*3,implement,vt.使生效;贯彻;执行,/ˈɪmplɪment/,选择性必修第三册,高三,41,True,False
+2121,3*3,harmonious,a.和谐的,/hɑ:ˈməʊniəs/,选择性必修第三册,高三,41,True,False
+2122,3*3,moderate,a.适度的;中等的 v.缓和,/ˈmɒdərət/,选择性必修第三册,高三,41,True,False
+2123,3*3,submit,vt.&vi.提交;呈递;屈服,/səbˈmɪt/,选择性必修第三册,高三,41,True,False
+2124,3*3,annual,a.每年的;一年的 n.年刊,/ˈænjuəl/,选择性必修第三册,高三,41,True,False
+2125,3*3,tropical,a.热带的;来自热带的,/ˈtrɒpɪkl/,选择性必修第三册,高三,41,True,False
+2126,3*3,chaos,n.混乱;杂乱;紊乱,/ˈkeɪɒs/,选择性必修第三册,高三,41,True,False
+2128,3*3,nuclear,a.原子能的;核能的,/ˈnju:kliə(r)/,选择性必修第三册,高三,41,True,False
+2129,3*3,sensitive,a.敏感的;善解人意的,/ˈsensətɪv/,选择性必修第三册,高三,41,True,False
+2130,3*3,jungle,n.(热带)丛林;密林,/ˈdʒʌŋgl/,选择性必修第三册,高三,41,True,False
+2131,3*3,smog,n.烟雾(烟与雾混合污染物),/smɒg/,选择性必修第三册,高三,42,True,False
+2132,3*3,originate,vi.&vt.起源;发源;创立,/əˈrɪdʒɪneɪt/,选择性必修第三册,高三,42,True,False
+2133,3*3,volume,n.量;体积;(成套书中)一卷,/ˈvɒlju:m/,选择性必修第三册,高三,42,True,False
+2134,3*3,garbage,n.垃圾;废物,/ˈgɑ:bɪdʒ/,选择性必修第三册,高三,42,True,False
+2135,3*3,enterprise,n.公司;企业;事业,/ˈentəpraɪz/,选择性必修第三册,高三,42,True,False
+2136,3*3,restore,vt.恢复;使复原;修复,/rɪˈstɔ:(r)/,选择性必修第三册,高三,42,True,False
+2137,3*3,conservation,n.对(环境/文物)保护;保持,/ˌkɒnsəˈveɪʃn/,选择性必修第三册,高三,42,True,False
+2138,3*3,dozen,n.(一)打;十二个,/ˈdʌzn/,选择性必修第三册,高三,42,True,False
+2140,3*3,regulation,n.章程;规章制度,/ˌregjuˈleɪʃn/,选择性必修第三册,高三,42,True,False
+2141,3*3,disposal,n.去掉;清除;处理,/dɪˈspəʊzl/,选择性必修第三册,高三,42,True,False
+2142,3*3,inspection,n.检查;查看;视察,/ɪnˈspekʃn/,选择性必修第三册,高三,42,True,False
+2143,3*3,fine,vt.对…处以罚款,/faɪn/,选择性必修第三册,高三,42,True,False
+2144,3*3,campaign,n.运动;战役 v.参加运动,/kæmˈpeɪn/,选择性必修第三册,高三,42,True,False
+2145,3*3,waterway,n.水道;航道,/ˈwɔ:təweɪ/,选择性必修第三册,高三,42,True,False
+2146,3*3,tolerate,vt.忍受;包容;容许,/ˈtɒləreɪt/,选择性必修第三册,高三,42,True,False
+2147,3*3,agenda,n.议程表;议事日程,/əˈdʒendə/,选择性必修第三册,高三,42,True,False
+2148,3*3,Norway,挪威(北欧国家),/'nɔ:weɪ/,选择性必修第三册,高三,42,True,True
+2149,3*3,Svalbard,斯瓦尔巴群岛(挪威),,选择性必修第三册,高三,42,True,True
+2151,3*4,adversity,n.困境;逆境,/ədˈvɜ:səti/,选择性必修第三册,高三,42,True,False
+2152,3*4,wage,n.工资,/weɪdʒ/,选择性必修第三册,高三,42,True,False
+2153,3*4,bitter,a.严寒的;激烈而不愉快的,/ˈbɪtə(r)/,选择性必修第三册,高三,42,True,False
+2154,3*4,expedition,n.探险;远征;探险队,/ˌekspəˈdɪʃn/,选择性必修第三册,高三,42,True,False
+2155,3*4,endurance,n.忍耐力;耐久力,/ɪnˈdjʊərəns/,选择性必修第三册,高三,42,True,False
+2156,3*4,vigour,n.精力;力量;活动,/ˈvɪgə(r)/,选择性必修第三册,高三,42,True,False
+2158,3*4,qualified,a.符合资格;具…知识/技能,/ˈkwɒlɪfaɪd/,选择性必修第三册,高三,42,True,False
+2159,3*4,enthusiastic,a.热情的;热心的,/ɪnˌθju:ziˈæstɪk/,选择性必修第三册,高三,42,True,False
+2160,3*4,aboard,ad.&prep.上(船/飞机等),/əˈbɔ:d/,选择性必修第三册,高三,42,True,False
+2161,3*4,cupboard,n.橱柜;壁橱;衣柜,/ˈkʌbəd/,选择性必修第三册,高三,42,True,False
+2162,3*4,assign,vt.分派;布置;分配,/əˈsaɪn/,选择性必修第三册,高三,42,True,False
+2163,3*4,steward,n.(轮船/飞机/火车)乘务员,/ˈstju:əd/,选择性必修第三册,高三,42,True,False
+2164,3*4,envy,n.&vt.羡慕;妒忌,/ˈenvi/,选择性必修第三册,高三,42,True,False
+2165,3*4,crush,vt.毁坏;压坏 n.拥挤的人群,/krʌʃ/,选择性必修第三册,高三,42,True,False
+2166,3*4,sink,vi.沉没;下沉 vt.使下沉,/sɪŋk/,选择性必修第三册,高三,42,True,False
+2167,3*4,abandon,vt.舍弃;抛弃;放弃,/əˈbændən/,选择性必修第三册,高三,42,True,False
+2168,3*4,stove,n.炉具;厨房灶具,/stəʊv/,选择性必修第三册,高三,42,True,False
+2169,3*4,blanket,n.毯子,/ˈblæŋkɪt/,选择性必修第三册,高三,42,True,False
+2170,3*4,belongings,n.[pl.]财物;动产,/bɪˈlɒŋɪŋz/,选择性必修第三册,高三,42,True,False
+2171,3*4,banjo,n.班卓琴(乐器),/ˈbændʒəʊ/,选择性必修第三册,高三,42,True,False
+2172,3*4,miserable,a.痛苦的;令人难受的,/ˈmɪzrəbl/,选择性必修第三册,高三,42,True,False
+2173,3*4,voyage,n.&vi.航海;航行,/ˈvɔɪɪdʒ/,选择性必修第三册,高三,42,True,False
+2174,3*4,navy,n.海军;海军部队,/ˈneɪvi/,选择性必修第三册,高三,42,True,False
+2175,3*4,decent,a.相当不错的;正派的,/ˈdi:snt/,选择性必修第三册,高三,42,True,False
+2176,3*4,cosy,a.温馨的;舒适的,/'kəʊzɪ/,选择性必修第三册,高三,42,True,False
+2177,3*4,selfish,a.自私的,/ˈselfɪʃ/,选择性必修第三册,高三,42,True,False
+2178,3*4,good-tempered,a.脾气好的,/gʊd 'tempəd/,选择性必修第三册,高三,42,True,False
+2179,3*4,bad-tempered,a.脾气坏的,/bæd 'tempəd/,选择性必修第三册,高三,42,True,False
+2180,3*4,genuine,a.真正的;真诚的;可信赖的,/ˈdʒenjuɪn/,选择性必修第三册,高三,42,True,False
+2181,3*4,perseverance,n.毅力;韧性;不屈不挠精神,/ˌpɜ:sɪˈvɪərəns/,选择性必修第三册,高三,42,True,False
+2182,3*4,persevere,vi.坚持;孜孜以求,/ˌpɜ:sɪˈvɪə(r)/,选择性必修第三册,高三,42,True,False
+2183,3*4,resolve,v.决定;决心 n.决心,/rɪˈzɒlv/,选择性必修第三册,高三,43,True,False
+2184,3*4,resolution,n.决议;解决;坚定,/ˌrezəˈlu:ʃn/,选择性必修第三册,高三,43,True,False
+2185,3*4,crew,n.(轮船/飞机)全体工作人员,/kru:/,选择性必修第三册,高三,43,True,False
+2186,3*4,cruel,a.残酷的;残忍的;冷酷的,/kru:əl/,选择性必修第三册,高三,43,True,False
+2187,3*4,thorough,a.深入的;彻底的;细致的,/ˈθʌrə/,选择性必修第三册,高三,43,True,False
+2188,3*4,furniture,n.家具,/ˈfɜ:nɪtʃə(r)/,选择性必修第三册,高三,43,True,False
+2189,3*4,unfortunately,ad.不幸地;遗憾地,/ʌnˈfɔ:tʃənətli/,选择性必修第三册,高三,43,True,False
+2190,3*4,fortunately,ad.幸运地,/ˈfɔ:tʃənətli/,选择性必修第三册,高三,43,True,False
+2191,3*4,bark,vi.&n.(狗)吠叫;吠叫声,/bɑ:k/,选择性必修第三册,高三,43,True,False
+2192,3*4,rugby,n.橄榄球运动,/ˈrʌgbi/,选择性必修第三册,高三,43,True,False
+2193,3*4,bat,n.球拍;蝙蝠 v.用球板击球,/bæt/,选择性必修第三册,高三,43,True,False
+2194,3*4,damp,a.潮湿的;湿气重的,/dæmp/,选择性必修第三册,高三,43,True,False
+2195,3*4,recreation,n.娱乐;消遣;游戏,/ˌrekriˈeɪʃn/,选择性必修第三册,高三,43,True,False
+2196,3*4,guidance,n.指导;引导;导航,/ˈgaɪdns/,选择性必修第三册,高三,43,True,False
+2197,3*4,nephew,n.侄子;外甥,/ˈnefju:/,选择性必修第三册,高三,43,True,False
+2198,3*4,advertising,n.广告活动;广告业,/ˈædvətaɪzɪŋ/,选择性必修第三册,高三,43,True,False
+2199,3*4,advertise,vt.&vi.公布;宣传;做广告,/ˈædvətaɪz/,选择性必修第三册,高三,43,True,False
+2200,3*4,corporate,a.公司的;法人的;社团的,/ˈkɔ:pərət/,选择性必修第三册,高三,43,True,False
+2201,3*4,rough,a.汹涌的;粗糙的;粗略的,/rʌf/,选择性必修第三册,高三,43,True,False
+2202,3*4,navigator,n.领航员;(飞机/船)航行者,/ˈnævɪgeɪtə(r)/,选择性必修第三册,高三,43,True,False
+2203,3*4,loyal,a.忠诚的;忠实的,/ˈlɔɪəl/,选择性必修第三册,高三,43,True,False
+2204,3*4,motor,n.发动机;马达 a.有引擎的,/ˈməʊtə(r)/,选择性必修第三册,高三,43,True,False
+2205,3*4,candidate,n.候选人;应试者,/ˈkændɪdət/,选择性必修第三册,高三,43,True,False
+2208,3*4,episode,n.(人生)一段经历;小说片段,/ˈepɪsəʊd/,选择性必修第三册,高三,43,True,False
+2209,3*4,commitment,n.承诺;保证;奉献,/kəˈmɪtmənt/,选择性必修第三册,高三,43,True,False
+2210,3*4,motive,n.动机;原因;目的,/ˈməʊtɪv/,选择性必修第三册,高三,43,True,False
+2211,3*4,Confucianism,n.孔子学说;儒家(学说),/kənˈfju:ʃənizm/,选择性必修第三册,高三,43,True,True
+2214,3*4,Antarctica,南极洲,/æn'tɑ:ktɪkə/,选择性必修第三册,高三,43,True,True
+2224,3*5,drama,n.戏;剧;戏剧艺术,/ˈdrɑ:mə/,选择性必修第三册,高三,43,True,False
+2225,3*5,sorrow,n.悲伤;悲痛 vi.感到悲伤,/ˈsɒrəʊ/,选择性必修第三册,高三,43,True,False
+2226,3*5,imagery,n.形象的描述;意象;像,/ˈɪmɪdʒəri/,选择性必修第三册,高三,43,True,False
+2227,3*5,literary,a.文学的;爱好文学的,/ˈlɪtərəri/,选择性必修第三册,高三,43,True,False
+2228,3*5,rhyme,n.押韵词;押韵诗 v.使押韵,/raɪm/,选择性必修第三册,高三,43,True,False
+2229,3*5,rhythm,n.节奏;韵律;规律,/ˈrɪðəm/,选择性必修第三册,高三,43,True,False
+2230,3*5,nursery,a.幼儿教育的 n.托儿所,/ˈnɜ:səri/,选择性必修第三册,高三,43,True,False
+2232,3*5,folk,a.民间的;民俗的,/fəʊk/,选择性必修第三册,高三,43,True,False
+2233,3*5,mockingbird,n.嘲鸫(美洲鸣禽),/ˈmɒkɪŋbɜ:d/,选择性必修第三册,高三,43,True,False
+2234,3*5,diamond,n.钻石;金刚石;菱形,/ˈdaɪəmənd/,选择性必修第三册,高三,43,True,False
+2235,3*5,brass,n.黄铜;黄铜制品;铜管乐器,/brɑ:s/,选择性必修第三册,高三,44,True,False
+2237,3*5,bull,n.公牛,/bʊl/,选择性必修第三册,高三,44,True,False
+2238,3*5,recite,vt.背诵;吟诵;列举,/rɪˈsaɪt/,选择性必修第三册,高三,44,True,False
+2239,3*5,bee,n.蜜蜂,/bi:/,选择性必修第三册,高三,44,True,False
+2240,3*5,dewdrop,n.露珠;水珠,,选择性必修第三册,高三,44,True,False
+2241,3*5,dawn,n.黎明;开端;萌芽,/dɔ:n/,选择性必修第三册,高三,44,True,False
+2242,3*5,clover,n.三叶草,/ˈkləʊvə(r)/,选择性必修第三册,高三,44,True,False
+2243,3*5,butterfly,n.蝴蝶,/ˈbʌtəflaɪ/,选择性必修第三册,高三,44,True,False
+2244,3*5,lawn,"n.草坪,草地",/lɔ:n/,选择性必修第三册,高三,44,True,False
+2245,3*5,amateur,n.业余爱好者 a.业余的,/ˈæmətə(r)/,选择性必修第三册,高三,44,True,False
+2246,3*5,cinquain,n.五行诗,/sɪŋ'keɪn/,选择性必修第三册,高三,44,True,False
+2248,3*5,mood,n.情绪;心情;语气,/mu:d/,选择性必修第三册,高三,44,True,False
+2249,3*5,tease,v.取笑(某人);揶揄;逗弄,/ti:z/,选择性必修第三册,高三,44,True,False
+2250,3*5,haiku,n.俳句,/ˈhaɪku:/,选择性必修第三册,高三,44,True,False
+2251,3*5,syllable,n.音节,/ˈsɪləbl/,选择性必修第三册,高三,44,True,False
+2252,3*5,format,n.格式;总体安排 vt.格式化,/ˈfɔ:mæt/,选择性必修第三册,高三,44,True,False
+2253,3*5,respectively,ad.分别;各自;依次为,/rɪˈspektɪvli/,选择性必修第三册,高三,44,True,False
+2254,3*5,respective,a.分别的;各自的,/rɪˈspektɪv/,选择性必修第三册,高三,44,True,False
+2255,3*5,blossom,n.花朵;花簇,/ˈblɒsəm/,选择性必修第三册,高三,44,True,False
+2256,3*5,delicate,a.精美的;精致的;脆弱的,/ˈdelɪkət/,选择性必修第三册,高三,44,True,False
+2257,3*5,await,vt.等候;期待;将发生在,/əˈweɪt/,选择性必修第三册,高三,44,True,False
+2258,3*5,revolve,vi.旋转;环绕;转动,/rɪˈvɒlv/,选择性必修第三册,高三,44,True,False
+2259,3*5,utter,vt.出声;说;讲 a.完全的,/ˈʌtə(r)/,选择性必修第三册,高三,44,True,False
+2260,3*5,comprehension,n.理解力;领悟力;理解练习,/ˌkɒmprɪˈhenʃn/,选择性必修第三册,高三,44,True,False
+2261,3*5,shelf,n.架子;搁板,/ʃelf/,选择性必修第三册,高三,44,True,False
+2262,3*5,core,n.核心;精髓;(水果的)核儿,/kɔ:(r)/,选择性必修第三册,高三,44,True,False
+2263,3*5,cherry,n.樱桃;樱桃树 a.樱桃色的,/ˈtʃeri/,选择性必修第三册,高三,44,True,False
+2265,3*5,blank,a.空白的;无图画 n.空白,/blæŋk/,选择性必修第三册,高三,44,True,False
+2266,3*5,verse,n.诗;韵文;诗节,/vɜ:s/,选择性必修第三册,高三,44,True,False
+2267,3*5,civilian,n.平民;老百姓,/səˈvɪliən/,选择性必修第三册,高三,44,True,False
+2268,3*5,prose,n.散文,/prəʊz/,选择性必修第三册,高三,44,True,False
+2269,3*5,sympathetic,a.同情的;有同情心的,/ˌsɪmpəˈθetɪk/,选择性必修第三册,高三,44,True,False
+2270,3*5,sympathy,n.同情;赞同,/ˈsɪmpəθi/,选择性必修第三册,高三,44,True,False
+2271,3*5,version,n.版本;(不同角度的)说法,/ˈvɜ:ʃn/,选择性必修第三册,高三,44,True,False
+2272,3*5,innocence,n.天真;单纯;无罪,/ˈɪnəsns/,选择性必修第三册,高三,44,True,False
+2273,3*5,innocent,a.天真无邪的;无辜的,/ˈɪnəsnt/,选择性必修第三册,高三,44,True,False
+2274,3*5,era,n.时代;年代;纪元,/ˈɪərə/,选择性必修第三册,高三,44,True,False
+2275,3*5,correspondence,n.来往信件;通信联系,/ˌkɒrəˈspɒndəns/,选择性必修第三册,高三,44,True,False
+2276,3*5,correspond,vi.相一致;符合;相当于,/ˌkɒrəˈspɒnd/,选择性必修第三册,高三,44,True,False
+2277,3*5,Sow,vt.&vi.播种;种,/səʊ/,选择性必修第三册,高三,44,True,True
+2278,3*5,seed,n.种子;起源;萌芽,/si:d/,选择性必修第三册,高三,44,True,False
+2279,3*5,dominant,a.首要的;占支配地位的,/ˈdɒmɪnənt/,选择性必修第三册,高三,44,True,False
+2280,3*5,sonnet,n.十四行诗,/ˈsɒnɪt/,选择性必修第三册,高三,44,True,False
+2281,3*5,deadline,n.最后期限;截止日期,/ˈdedlaɪn/,选择性必修第三册,高三,44,True,False
+2282,3*5,contest,n.比赛;竞赛 vt.争取赢得,/ˈkɒntest/,选择性必修第三册,高三,44,True,False
+2283,3*5,polish,vt.修改;润色 n.上光剂,/ˈpɒlɪʃ/,选择性必修第三册,高三,44,True,False
+2284,3*5,string,n.细绳;线 vt.悬挂;系,/strɪŋ/,选择性必修第三册,高三,44,True,False
+2285,3*5,wherever,conj.在任何地方 ad.在哪里,/weərˈevə(r)/,选择性必修第三册,高三,44,True,False
+2286,3*5,barren,a.贫瘠的;不结果实的,/ˈbærən/,选择性必修第三册,高三,44,True,False
+2287,3*5,grief,n.悲伤;悲痛;伤心事,/gri:f/,选择性必修第三册,高三,45,True,False
+2288,3*5,complicated,a.复杂的;难懂的,/ˈkɒmplɪkeɪtɪd/,选择性必修第三册,高三,45,True,False
+2289,3*5,variation,n.变化;变体;变奏曲,/ˌveəriˈeɪʃn/,选择性必修第三册,高三,45,True,False
+2290,3*5,racial,a.种族的;人种的,/ˈreɪʃl/,选择性必修第三册,高三,45,True,False
+2291,3*5,prejudice,n.偏见;成见 vt.使怀有偏见,/ˈpredʒudɪs/,选择性必修第三册,高三,45,True,False
+2292,3*5,Shakespeare,莎士比亚(英),/ˈʃeɪkspɪə/,选择性必修第三册,高三,45,True,True
+2294,3*5,Tagore,泰戈尔(印度),,选择性必修第三册,高三,45,True,True
+2300,4*1,fiction,n.小说;虚构的事,/ˈfɪkʃn/,选择性必修第四册,高三,45,True,False
+2303,4*1,bonus,n.意外收获;奖金;红利,/ˈbəʊnəs/,选择性必修第四册,高三,45,True,False
+2305,4*1,ridiculous,a.愚蠢的;荒谬的;荒唐的,/rɪˈdɪkjələs/,选择性必修第四册,高三,45,True,False
+2306,4*1,integrity,n.诚实正直;完整;完好,/ɪnˈtegrəti/,选择性必修第四册,高三,45,True,False
+2307,4*1,dignity,n.庄重;庄严;尊严,/ˈdɪgnəti/,选择性必修第四册,高三,45,True,False
+2308,4*1,salary,n.薪水;薪金,/ˈsæləri/,选择性必修第四册,高三,45,True,False
+2309,4*1,absurd,a.荒谬的;荒唐的,/əbˈsɜ:d/,选择性必修第四册,高三,45,True,False
+2310,4*1,appointment,n.预约;约会;委任,/əˈpɔɪntmənt/,选择性必修第四册,高三,45,True,False
+2311,4*1,nail,n.指甲;趾甲 vt.(用钉)钉牢,/neɪl/,选择性必修第四册,高三,45,True,False
+2312,4*1,saleswoman,n.女售货员;女推销员,/ˈseɪlzmən/,选择性必修第四册,高三,45,True,False
+2313,4*1,guilty,a.内疚的;有罪的;有过失的,/ˈgɪlti/,选择性必修第四册,高三,45,True,False
+2314,4*1,suspend,vt.悬;挂;暂停;暂缓,/səˈspend/,选择性必修第四册,高三,45,True,False
+2315,4*1,ladder,n.梯子;阶梯,/ˈlædə(r)/,选择性必修第四册,高三,45,True,False
+2316,4*1,dismiss,vt.让(某人)离开;解散;解雇,/dɪsˈmɪs/,选择性必修第四册,高三,45,True,False
+2317,4*1,declare,vt.表明;宣称;公布,/dɪˈkleə(r)/,选择性必修第四册,高三,45,True,False
+2318,4*1,whereas,conj.然而;但是;尽管,/ˌweərˈæz/,选择性必修第四册,高三,45,True,False
+2319,4*1,rumour,n.谣言;传闻,/ˈru:mə(r)/,选择性必修第四册,高三,45,True,False
+2320,4*1,presume,vt.&vi.假设;假定,/prɪˈzju:m/,选择性必修第四册,高三,45,True,False
+2321,4*1,fare,n.车费;船费;飞机票价,/feə(r)/,选择性必修第四册,高三,45,True,False
+2322,4*1,weekly,a.每周的 n.周刊,/ˈwi:kli/,选择性必修第四册,高三,45,True,False
+2324,4*1,calculate,vt.计算;核算;预测,/ˈkælkjuleɪt/,选择性必修第四册,高三,45,True,False
+2325,4*1,chairwoman,n.女主席;女董事长;女委员长,/ˈtʃeəwʊmən/,选择性必修第四册,高三,45,True,False
+2326,4*1,gramme,n.克(重量单位),/ɡræm/,选择性必修第四册,高三,45,True,False
+2327,4*1,flour,n.面粉;(谷物磨成的)粉,/ˈflaʊə(r)/,选择性必修第四册,高三,45,True,False
+2328,4*1,venue,n.活动场地(音乐厅/会场等),/ˈvenju:/,选择性必修第四册,高三,45,True,False
+2329,4*1,salesman,n.售货员;推销员,/ˈseɪlzmən/,选择性必修第四册,高三,45,True,False
+2330,4*1,alien,n.外星人;外国人 a. 陌生的,/ˈeɪliən/,选择性必修第四册,高三,45,True,False
+2332,4*1,blurred,a.模糊不清的;难以区分的,/blɜːd/,选择性必修第四册,高三,45,True,False
+2333,4*1,superior,a.更好的;占优势的;更高的,/su:ˈpɪəriə(r)/,选择性必修第四册,高三,45,True,False
+2336,4*1,inaction,n.无行动;不采取措施,/ɪnˈækʃn/,选择性必修第四册,高三,45,True,False
+2338,4*1,labour,n.劳动者;体力劳动 vi.奋斗,/'leɪbə(r)/,选择性必修第四册,高三,45,True,False
+2339,4*1,leather,n.皮革;[pl.]皮衣;皮外套,/ˈleðə(r)/,选择性必修第四册,高三,46,True,False
+2340,4*1,lever,n.操纵杆;杠杆,/ˈli:və(r)/,选择性必修第四册,高三,46,True,False
+2341,4*1,panel,n.控制板;仪表盘;专家咨询组,/ˈpænl/,选择性必修第四册,高三,46,True,False
+2342,4*1,inch,n.英寸(等于2.54厘米),/ɪntʃ/,选择性必修第四册,高三,46,True,False
+2343,4*1,backwards,ad.向后;倒着;往回,/ˈbækwədz/,选择性必修第四册,高三,46,True,False
+2344,4*1,grip,vt.&vi.紧握;抓紧,/grɪp/,选择性必修第四册,高三,46,True,False
+2345,4*1,hazy,a.模糊的;朦胧的;困惑的,/ˈheɪzi/,选择性必修第四册,高三,46,True,False
+2346,4*1,niece,n.侄女;外甥女,/ni:s/,选择性必修第四册,高三,46,True,False
+2347,4*1,fetch,vt.(去)拿来;(去)请来,/fetʃ/,选择性必修第四册,高三,46,True,False
+2348,4*1,handkerchief,n.手帕;纸巾,/ˈhæŋkətʃɪf/,选择性必修第四册,高三,46,True,False
+2349,4*1,lamp,n.灯;台灯,/læmp/,选择性必修第四册,高三,46,True,False
+2351,4*1,pace,n.速度;步伐 v.确定速度,/peɪs/,选择性必修第四册,高三,46,True,False
+2353,4*1,division,n.分开;分隔;差异;除(法),/dɪˈvɪʒn/,选择性必修第四册,高三,46,True,False
+2354,4*1,puff,n.(烟/气等)一缕;少量;喘息,/pʌf/,选择性必修第四册,高三,46,True,False
+2355,4*1,urge,n.强烈的欲望;冲动 vt.催促,/ɜ:dʒ/,选择性必修第四册,高三,46,True,False
+2357,4*1,random,a.随机的;不可思议的,/ˈrændəm/,选择性必修第四册,高三,46,True,False
+2358,4*1,maximum,a.最大极限的 n.最大量,/ˈmæksɪməm/,选择性必修第四册,高三,46,True,False
+2359,4*1,explode,vi.&vt.爆炸;爆破,/ɪkˈspləʊd/,选择性必修第四册,高三,46,True,False
+2360,4*1,jolt,n.震动;摇晃;颠簸 v.使震动,/dʒəʊlt/,选择性必修第四册,高三,46,True,False
+2361,4*1,flip,v.(使)快速翻转;(手指)轻抛,/flɪp/,选择性必修第四册,高三,46,True,False
+2362,4*1,stun,vt.使震惊，使昏迷,/stʌn/,选择性必修第四册,高三,46,True,False
+2363,4*1,mud,n.泥;泥浆,/mʌd/,选择性必修第四册,高三,46,True,False
+2365,4*2,iconic,a.符号的;图标的,/aɪˈkɒnɪk/,选择性必修第四册,高三,46,True,False
+2366,4*2,foundation,n.创建;基础;地基,/faʊnˈdeɪʃn/,选择性必修第四册,高三,46,True,False
+2367,4*2,political,a.政治的,/pəˈlɪtɪkl/,选择性必修第四册,高三,46,True,False
+2368,4*2,didgeridoo,n.迪吉里杜管,/ˌdɪdʒəri'duː/,选择性必修第四册,高三,46,True,False
+2369,4*2,located,a.位于,/ləʊˈkeɪtɪd/,选择性必修第四册,高三,46,True,False
+2370,4*2,equator,n.赤道,/ɪˈkweɪtə(r)/,选择性必修第四册,高三,46,True,False
+2371,4*2,koala,n.考拉;树袋熊,/kəʊˈɑ:lə/,选择性必修第四册,高三,46,True,False
+2372,4*2,barbecue,n.(abbr.BBQ)户外烧烤;烤架,/ˈbɑ:bɪkju:/,选择性必修第四册,高三,46,True,False
+2373,4*2,bakery,n.面包(糕饼)店;面包厂,/ˈbeɪkəri/,选择性必修第四册,高三,46,True,False
+2374,4*2,joint,n.公共场所;关节 a.联合的,/dʒɔɪnt/,选择性必修第四册,高三,46,True,False
+2375,4*2,butcher,n.肉贩;屠夫;刽子手,/ˈbʊtʃə(r)/,选择性必修第四册,高三,46,True,False
+2376,4*2,premier,a.最著名的;第一的 n.总理,/ˈpremiə(r)/,选择性必修第四册,高三,46,True,False
+2377,4*2,herb,n.药草;香草;草本,/hɜ:b/,选择性必修第四册,高三,46,True,False
+2379,4*2,hollow,a.中空的;空心的,/ˈhɒləʊ/,选择性必修第四册,高三,46,True,False
+2380,4*2,vibrate,vt.&vi.(使)振动,/vaɪˈbreɪt/,选择性必修第四册,高三,46,True,False
+2381,4*2,horn,n.(乐器)号,/hɔ:n/,选择性必修第四册,高三,46,True,False
+2382,4*2,pitch,n.音高,/pɪtʃ/,选择性必修第四册,高三,46,True,False
+2383,4*2,straightforward,a.坦率的;简单的,/ˌstreɪtˈfɔ:wəd/,选择性必修第四册,高三,46,True,False
+2384,4*2,slogan,n.标语;口号,/ˈsləʊgən/,选择性必修第四册,高三,46,True,False
+2385,4*2,minister,n.部长;大臣;外交使节,/ˈmɪnɪstə(r)/,选择性必修第四册,高三,46,True,False
+2387,4*2,frog,n.蛙;青蛙,/frɒg/,选择性必修第四册,高三,46,True,False
+2388,4*2,arrow,n.箭;箭头,/ˈærəʊ/,选择性必修第四册,高三,46,True,False
+2389,4*2,entitle,vt.给…命名;使享有权利,/ɪnˈtaɪtl/,选择性必修第四册,高三,46,True,False
+2390,4*2,getaway,n.适合度假的地方,/ˈɡetəweɪ/,选择性必修第四册,高三,46,True,False
+2391,4*2,dive,vi.&n.潜水;跳水;俯冲,/daɪv/,选择性必修第四册,高三,47,True,False
+2392,4*2,kayaking,n.划皮艇,/ˈkaɪækɪŋ/,选择性必修第四册,高三,47,True,False
+2394,4*2,freedom,n.自由;不受…影响的状态,/ˈfri:dəm/,选择性必修第四册,高三,47,True,False
+2395,4*2,domain,n.领域;领土;范围,/dəˈmeɪn/,选择性必修第四册,高三,47,True,False
+2396,4*2,sponsor,vt.倡议;赞助 n.法案倡议者,/ˈspɒnsə(r)/,选择性必修第四册,高三,47,True,False
+2397,4*2,liberty,n.自由,/ˈlɪbəti/,选择性必修第四册,高三,47,True,False
+2398,4*2,golf,n.高尔夫球运动,/gɒlf/,选择性必修第四册,高三,47,True,False
+2399,4*2,strait,n.海峡,/streɪt/,选择性必修第四册,高三,47,True,False
+2400,4*2,sample,n.样本;样品,/ˈsɑ:mpl/,选择性必修第四册,高三,47,True,False
+2401,4*2,monument,n.纪念碑/馆/堂等;历史遗迹,/ˈmɒnjumənt/,选择性必修第四册,高三,47,True,False
+2402,4*2,kiwi,n.几维(新西兰鸟),/ˈki:wi:/,选择性必修第四册,高三,47,True,False
+2403,4*2,geyser,n.间歇泉,/ˈgi:zə(r)/,选择性必修第四册,高三,47,True,False
+2409,4*2,distribution,n.分布;分配;分发,/ˌdɪstrɪˈbju:ʃn/,选择性必修第四册,高三,47,True,False
+2410,4*2,pouch,n.育儿袋;小袋子;荷包,/paʊtʃ/,选择性必修第四册,高三,47,True,False
+2411,4*2,temporary,a.暂时的;短暂的,/ˈtemprəri/,选择性必修第四册,高三,47,True,False
+2412,4*2,phase,n.阶段;时期,/feɪz/,选择性必修第四册,高三,47,True,False
+2413,4*2,trunk,n.树干,/trʌŋk/,选择性必修第四册,高三,47,True,False
+2414,4*2,licensed,a.得到正式许可的,/ˈlaɪsnst/,选择性必修第四册,高三,47,True,False
+2415,4*2,license,vt.批准;许可 n.许可证,/ˈlaɪsns/,选择性必修第四册,高三,47,True,False
+2416,4*2,session,n.—场;一段时间;会议,/ˈseʃn/,选择性必修第四册,高三,47,True,False
+2417,4*2,frequency,n.发生率;重复率;频率,/ˈfri:kwənsi/,选择性必修第四册,高三,47,True,False
+2418,4*2,violent,a.暴力的;猛烈的,/ˈvaɪələnt/,选择性必修第四册,高三,47,True,False
+2419,4*2,violence,n.暴力;暴行,/ˈvaɪələns/,选择性必修第四册,高三,47,True,False
+2420,4*2,nest,n.巢穴;鸟窝;秘密窝点,/nest/,选择性必修第四册,高三,47,True,False
+2421,4*2,mammal,n.哺乳动物,/ˈmæml/,选择性必修第四册,高三,47,True,False
+2422,4*2,biology,n.生理;生物学,/baɪˈɒlədʒi/,选择性必修第四册,高三,47,True,False
+2423,4*2,hatch,vi.孵出 vt.使孵出;策划,/hætʃ/,选择性必修第四册,高三,47,True,False
+2424,4*2,capacity,n.能力;容量,/kəˈpæsəti/,选择性必修第四册,高三,47,True,False
+2426,4*2,fence,n.栅栏;围栏,/fens/,选择性必修第四册,高三,47,True,False
+2427,4*2,prison,n.监狱;监禁,/ˈprɪzn/,选择性必修第四册,高三,47,True,False
+2428,4*2,grand,a.大;宏大的,/grænd/,选择性必修第四册,高三,47,True,False
+2429,4*3,tale,n.故事;叙述,/teɪl/,选择性必修第四册,高三,47,True,False
+2430,4*3,merchant,n.商人;批发商 a.海上货运的,/ˈmɜ:tʃənt/,选择性必修第四册,高三,47,True,False
+2432,4*3,extend,vt.扩展;使伸长;延长,/ɪkˈstend/,选择性必修第四册,高三,47,True,False
+2433,4*3,negotiate,vt.商定;达成协议 vi.谈判,/nɪˈgəʊʃieɪt/,选择性必修第四册,高三,47,True,False
+2434,4*3,fleet,n.舰队;机群;车队,/fli:t/,选择性必修第四册,高三,47,True,False
+2435,4*3,behold,vt.看;看见,/bɪˈhəʊld/,选择性必修第四册,高三,47,True,False
+2436,4*3,league,n.等级;水平;联合会;联赛,/li:g/,选择性必修第四册,高三,47,True,False
+2438,4*3,royal,a.皇家的;王室的;高贵的,/ˈrɔɪəl/,选择性必修第四册,高三,47,True,False
+2439,4*3,spice,n.(调味)香料,/spaɪs/,选择性必修第四册,高三,47,True,False
+2440,4*3,withdraw,vi.＆vt.(使)撤回;撤离,/wɪðˈdrɔ:/,选择性必修第四册,高三,47,True,False
+2442,4*3,channel,n.航道;海峡;频道,/ˈtʃænl/,选择性必修第四册,高三,47,True,False
+2443,4*3,maritime,a.海的;海运的;海事的,/ˈmærɪtaɪm/,选择性必修第四册,高三,48,True,False
+2444,4*3,bond,n.纽带;关系 v.增强信任关系,/bɒnd/,选择性必修第四册,高三,48,True,False
+2446,4*3,politics,n.政治;政治观点,/ˈpɒlətɪks/,选择性必修第四册,高三,48,True,False
+2447,4*3,profession,n.职业;行业,/prəˈfeʃn/,选择性必修第四册,高三,48,True,False
+2448,4*3,tournament,n.锦标赛;联赛,/ˈtʊənəmənt/,选择性必修第四册,高三,48,True,False
+2449,4*3,mixture,n.混合;结合体;混合物,/ˈmɪkstʃə(r)/,选择性必修第四册,高三,48,True,False
+2450,4*3,laptop,n.笔记本电脑;便携式电脑,/ˈlæptɒp/,选择性必修第四册,高三,48,True,False
+2451,4*3,coverage,n.新闻报道;覆盖范围,/ˈkʌvərɪdʒ/,选择性必修第四册,高三,48,True,False
+2453,4*3,applaud,vt.＆vi.鼓掌 vt.称赞;赞赏,/əˈplɔ:d/,选择性必修第四册,高三,48,True,False
+2454,4*3,tax,vt.对…征税 n.税;税款,/tæks/,选择性必修第四册,高三,48,True,False
+2455,4*3,manned,a.有人控制的;需人操纵的,/mænd/,选择性必修第四册,高三,48,True,False
+2456,4*3,submersible,n.潜水器;可潜船,/səbˈmɜːsəbl/,选择性必修第四册,高三,48,True,False
+2457,4*3,underwater,ad.在水下 a.水下的,/ˌʌndəˈwɔ:tə(r)/,选择性必修第四册,高三,48,True,False
+2458,4*3,coral,n.珊瑚,/ˈkɒrəl/,选择性必修第四册,高三,48,True,False
+2459,4*3,migration,n.迁移;迁徙;移居,/maɪˈgreɪʃn/,选择性必修第四册,高三,48,True,False
+2460,4*3,directory,n.名录;电话号码簿,/dəˈrektəri/,选择性必修第四册,高三,48,True,False
+2461,4*3,meanwhile,ad.与此同时;两方面对比之下,/ˈmi:nwaɪl/,选择性必修第四册,高三,48,True,False
+2462,4*3,exploit,vt.开发;利用;剥削,/ɪkˈsplɔɪt/,选择性必修第四册,高三,48,True,False
+2463,4*3,gallon,n.加仑(容积单位),/ˈgælən/,选择性必修第四册,高三,48,True,False
+2464,4*3,murder,vt.谋杀;凶杀 n.谋杀;凶杀,/ˈmɜ:də(r)/,选择性必修第四册,高三,48,True,False
+2465,4*3,mercy,n.仁慈;宽恕;恩惠,/ˈmɜ:si/,选择性必修第四册,高三,48,True,False
+2466,4*3,possession,n.[pl.]个人财产;拥有;控制,/pəˈzeʃn/,选择性必修第四册,高三,48,True,False
+2467,4*3,opponent,n.反对者;对手;竞争者,/əˈpəʊnənt/,选择性必修第四册,高三,48,True,False
+2468,4*3,log,vt.把…载入记录 n.正式记录,/lɒg/,选择性必修第四册,高三,48,True,False
+2469,4*3,marine,a.海的;海产的;海生的,/məˈri:n/,选择性必修第四册,高三,48,True,False
+2470,4*3,arrest,n.逮捕;拘留 vt.逮捕;拘留,/əˈrest/,选择性必修第四册,高三,48,True,False
+2471,4*4,parcel,n.包裹 vt.裹好;打包,/ˈpɑ:sl/,选择性必修第四册,高三,48,True,False
+2472,4*4,jam,n.果酱;堵塞,/dʒæm/,选择性必修第四册,高三,48,True,False
+2473,4*4,mail,n.邮件;信件;邮政 vt.邮寄,/meɪl/,选择性必修第四册,高三,48,True,False
+2474,4*4,secondary,a.中学的;次要的,/ˈsekəndri/,选择性必修第四册,高三,48,True,False
+2475,4*4,clay,n.黏土;陶土,/kleɪ/,选择性必修第四册,高三,48,True,False
+2476,4*4,dust,n.沙土;灰尘 vi.&vt.擦灰,/dʌst/,选择性必修第四册,高三,48,True,False
+2477,4*4,dusty,a.布满灰尘的,/ˈdʌsti/,选择性必修第四册,高三,48,True,False
+2478,4*4,weed,n.杂草;野草 vt.&vi.除杂草,/wi:d/,选择性必修第四册,高三,48,True,False
+2479,4*4,chorus,n.合唱曲;合唱团 vt.合唱,/ˈkɔ:rəs/,选择性必修第四册,高三,48,True,False
+2481,4*4,cotton,n.棉布;棉花,/ˈkɒtn/,选择性必修第四册,高三,48,True,False
+2482,4*4,uniform,n.校服;制服 a.—致的,/ˈju:nɪfɔ:m/,选择性必修第四册,高三,48,True,False
+2484,4*4,tablet,n.平板电脑;便笺本;药片,/ˈtæblət/,选择性必修第四册,高三,48,True,False
+2485,4*4,rubber,n.橡皮;黑板擦;橡胶,/ˈrʌbə(r)/,选择性必修第四册,高三,48,True,False
+2486,4*4,washroom,n.洗手间;厕所,/ˈwɒʃru:m/,选择性必修第四册,高三,48,True,False
+2487,4*4,rigid,a.死板的;固执的,/ˈrɪdʒɪd/,选择性必修第四册,高三,48,True,False
+2488,4*4,bubble,vi.起泡;沸腾,/ˈbʌbl/,选择性必修第四册,高三,48,True,False
+2489,4*4,tube,n.管子;管状物,/tju:b/,选择性必修第四册,高三,48,True,False
+2490,4*4,circus,n.马戏团,/ˈsɜ:kəs/,选择性必修第四册,高三,48,True,False
+2491,4*4,chemist,n.化学家;药剂师;药房,/ˈkemɪst/,选择性必修第四册,高三,48,True,False
+2492,4*4,shade,vt.给…遮挡光线 n.阴凉处,/ʃeɪd/,选择性必修第四册,高三,48,True,False
+2493,4*4,jaw,n.额;下巴,/dʒɔ:/,选择性必修第四册,高三,48,True,False
+2494,4*4,wrinkle,v.(使脸上)起皱纹 n.皱纹,/ˈrɪŋkl/,选择性必修第四册,高三,48,True,False
+2495,4*4,forehead,n.额;前额,/ˈfɔ:hed/,选择性必修第四册,高三,49,True,False
+2496,4*4,hut,n.简陋的小房子(棚/舍),/hʌt/,选择性必修第四册,高三,49,True,False
+2497,4*4,housing,n.住房;住宅,/ˈhaʊzɪŋ/,选择性必修第四册,高三,49,True,False
+2498,4*4,platform,n.平台;站台;舞台,/ˈplætfɔ:m/,选择性必修第四册,高三,49,True,False
+2499,4*4,fireplace,n.壁炉,/ˈfaɪəpleɪs/,选择性必修第四册,高三,49,True,False
+2500,4*4,saucer,n.茶碟;杯托,/ˈsɔ:sə(r)/,选择性必修第四册,高三,49,True,False
+2501,4*4,kettle,n.(烧水用的)壶;水壶,/ˈketl/,选择性必修第四册,高三,49,True,False
+2502,4*4,pan,n.平底锅;烤盘,/pæn/,选择性必修第四册,高三,49,True,False
+2503,4*4,jar,n.罐子;坛子,/dʒɑ:(r)/,选择性必修第四册,高三,49,True,False
+2504,4*4,ripe,a.成熟的;时机成熟的,/raɪp/,选择性必修第四册,高三,49,True,False
+2505,4*4,grill,n.烤架;烤肉餐馆,/grɪl/,选择性必修第四册,高三,49,True,False
+2506,4*4,doorway,n.门口;出入口;门道,/ˈdɔ:weɪ/,选择性必修第四册,高三,49,True,False
+2507,4*4,leftover,a.吃剩的;残留的 n.吃剩食物,/ˈleftəʊvə(r)/,选择性必修第四册,高三,49,True,False
+2508,4*4,handshake,n.握手,/'hændʃeɪk/,选择性必修第四册,高三,49,True,False
+2509,4*4,drag,vt.拖;拽 vt.缓慢费力地移动,/dræg/,选择性必修第四册,高三,49,True,False
+2510,4*4,privilege,n.优惠待遇;特权,/ˈprɪvəlɪdʒ/,选择性必修第四册,高三,49,True,False
+2511,4*4,plug,vt.封堵;补足 n.堵塞物;插头,/plʌg/,选择性必修第四册,高三,49,True,False
+2512,4*4,disabled,a.有残疾的;丧失能力的,/dɪsˈeɪbld/,选择性必修第四册,高三,49,True,False
+2513,4*4,resign,vi.&vt.辞职;辞去,/rɪˈzaɪn/,选择性必修第四册,高三,49,True,False
+2514,4*4,deserve,vt.值得;应得;应受,/dɪˈzɜ:v/,选择性必修第四册,高三,49,True,False
+2515,4*4,lately,ad.最近;不久前;近来,/ˈleɪtli/,选择性必修第四册,高三,49,True,False
+2516,4*4,input,n.情况;信息;投入 vt.输入,/ˈɪnpʊt/,选择性必修第四册,高三,49,True,False
+2517,4*4,tune,n.曲调;曲子vt.调音;调节,/tju:n/,选择性必修第四册,高三,49,True,False
+2518,4*4,contract,vt.感染(疾病);与…订立合同,/ˈkɒntrækt/,选择性必修第四册,高三,49,True,False
+2519,4*4,grant,vt.同意;准许 n.拨款,/grɑ:nt/,选择性必修第四册,高三,49,True,False
+2521,4*4,cardiac,a.心脏病的;心脏的,/ˈkɑ:diæk/,选择性必修第四册,高三,49,True,False
+2522,4*4,circuit,n.巡回;环形线路,/ˈsɜ:kɪt/,选择性必修第四册,高三,49,True,False
+2523,4*4,disability,n.缺陷;障碍,/ˌdɪsəˈbɪləti/,选择性必修第四册,高三,49,True,False
+2524,4*4,consultation,n.咨询;咨询会,/ˌkɒnslˈteɪʃn/,选择性必修第四册,高三,49,True,False
+2525,4*4,capsule,n.胶囊;太空舱,/ˈkæpsju:l/,选择性必修第四册,高三,49,True,False
+2526,4*4,relay,vt.转发;转播 n.接力赛,/ˈri:leɪ/,选择性必修第四册,高三,49,True,False
+2528,4*4,criterion,n.标准;准则;原则,/kraɪˈtɪəriən/,选择性必修第四册,高三,49,True,False
+2529,4*4,stability,n.稳定(性);稳固(性),/stəˈbɪləti/,选择性必修第四册,高三,49,True,False
+2530,4*4,pray,vi.&vt.企盼;祈祷,/preɪ/,选择性必修第四册,高三,49,True,False
+2532,4*4,hypothetical,a.假设的;假定的,/ˌhaɪpəˈθetɪkl/,选择性必修第四册,高三,49,True,False
+2533,4*5,bounce,v.(使)弹起;上下晃动 n.弹性,/baʊns/,选择性必修第四册,高三,49,True,False
+2535,4*5,aptitude,n.天资;天赋,/ˈæptɪtju:d/,选择性必修第四册,高三,49,True,False
+2537,4*5,scenario,n.设想;方案;预测,/səˈnɑ:riəʊ/,选择性必修第四册,高三,49,True,False
+2538,4*5,lawyer,n.律师,/ˈlɔ:jə(r)/,选择性必修第四册,高三,49,True,False
+2539,4*5,assemble,vt.组装;装配 v.收集;聚集,/əˈsembl/,选择性必修第四册,高三,49,True,False
+2540,4*5,drawer,n.抽屉,/drɔ:(r)/,选择性必修第四册,高三,49,True,False
+2542,4*5,breast,n.乳房;胸部,/brest/,选择性必修第四册,高三,49,True,False
+2543,4*5,hydrogen,n.氢;氢气,/ˈhaɪdrədʒən/,选择性必修第四册,高三,49,True,False
+2544,4*5,radium,n.镭,/ˈreɪdiəm/,选择性必修第四册,高三,49,True,False
+2545,4*5,wrist,n.手腕;腕关节,/rɪst/,选择性必修第四册,高三,49,True,False
+2546,4*5,bridegroom,n.新郎,/ˈbraɪdgru:m/,选择性必修第四册,高三,49,True,False
+2547,4*5,geometry,n.几何学;几何图形,/dʒiˈɒmətri/,选择性必修第四册,高三,50,True,False
+2548,4*5,debt,n.债务;欠款,/det/,选择性必修第四册,高三,50,True,False
+2549,4*5,categorise,vt.把…分类(加以归类),,选择性必修第四册,高三,50,True,False
+2550,4*5,profile,n.简介;概述 vt.扼要介绍,/ˈprəʊfaɪl/,选择性必修第四册,高三,50,True,False
+2551,4*5,participant,n.参与者;参加者,/pɑ:ˈtɪsɪpənt/,选择性必修第四册,高三,50,True,False
+2552,4*5,code,n.代码;密码 vt.编码,/kəʊd/,选择性必修第四册,高三,50,True,False
+2553,4*5,orient,vt.使适应;使面对;确定方向,/ˈɔ:rient/,选择性必修第四册,高三,50,True,False
+2554,4*5,detective,n.侦探;警探,/dɪˈtektɪv/,选择性必修第四册,高三,50,True,False
+2555,4*5,graphic,n.图表;图形;图画 a.绘画的,/ˈgræfɪk/,选择性必修第四册,高三,50,True,False
+2556,4*5,estate,n.庄园;住宅区;工业区,/ɪˈsteɪt/,选择性必修第四册,高三,50,True,False
+2558,4*5,accountant,n.会计;会计师,/əˈkaʊntənt/,选择性必修第四册,高三,50,True,False
+2559,4*5,spy,n.密探;间谍 v.从事间谍活动,/spaɪ/,选择性必修第四册,高三,50,True,False
+2560,4*5,justice,n.公平;公正;合理,/ˈdʒʌstɪs/,选择性必修第四册,高三,50,True,False
+2561,4*5,accuse,vt.控告;控诉;谴责,/əˈkju:z/,选择性必修第四册,高三,50,True,False
+2563,4*5,greedy,a.贪婪的;贪心的,/ˈgri:di/,选择性必修第四册,高三,50,True,False
+2564,4*5,entrepreneur,n.创业者;企业家,/ˌɒntrəprəˈnɜ:(r)/,选择性必修第四册,高三,50,True,False
+2565,4*5,receptionist,n.接待员,/rɪˈsepʃənɪst/,选择性必修第四册,高三,50,True,False
+2566,4*5,resume,n.(求职用的)履历;简历,/rɪ'zju:m/,选择性必修第四册,高三,50,True,False
+2567,4*5,socialist,a.社会主义的 n.社会主乂者,/ˈsəʊʃəlɪst/,选择性必修第四册,高三,50,True,False
+2568,4*5,communist,a.共产主义的 n.共产主义者,/ˈkɒmjənɪst/,选择性必修第四册,高三,50,True,False
+2569,4*5,dedicate,vt.把…奉献给,/ˈdedɪkeɪt/,选择性必修第四册,高三,50,True,False
+2570,4*5,fox,n.狐狸;狡猾的人,/fɒks/,选择性必修第四册,高三,50,True,False
+2571,4*5,council,n.委员会;市政服务机构,/ˈkaʊnsl/,选择性必修第四册,高三,50,True,False
+2572,4*5,canal,n.运河;灌溉渠,/kəˈnæl/,选择性必修第四册,高三,50,True,False
+2574,4*5,supervise,vt.&vi.主管;指导;监督,/ˈsu:pəvaɪz/,选择性必修第四册,高三,50,True,False
+2575,4*5,handwriting,n.书法;书写;笔迹,/ˈhændraɪtɪŋ/,选择性必修第四册,高三,50,True,False
+2576,4*5,disk,n.磁盘;盘,/dɪsk/,选择性必修第四册,高三,50,True,False
+2577,4*5,parking,n.停车位;停车,/ˈpɑ:kɪŋ/,选择性必修第四册,高三,50,True,False
+2578,4*5,camel,n.骆驼,/ˈkæml/,选择性必修第四册,高三,50,True,False
+2579,4*5,fry,n.油煎的食物 v.油炸;油炒,/fraɪ/,选择性必修第四册,高三,50,True,False
+2580,4*5,purse,n.钱包;皮夹子(尤指女用),/pɜ:s/,选择性必修第四册,高三,50,True,False
+2581,4*5,sew,vi.&vt.缝制;缝;做针线活,/səʊ/,选择性必修第四册,高三,50,True,False
+2582,4*5,knit,v.编织;针织 n编织的衣服,/nɪt/,选择性必修第四册,高三,50,True,False
+2583,4*5,wool,n.毛;毛线;毛料,/wʊl/,选择性必修第四册,高三,50,True,False
+2584,4*5,intermediate,a.中级的;中等的;中间的,/ˌɪntəˈmi:diət/,选择性必修第四册,高三,50,True,False
+2585,4*5,priority,n.优先事项;首要的事;优先,/praɪˈɒrəti/,选择性必修第四册,高三,50,True,False
+2586,4*5,proficiency,n.熟练;娴熟;精通,/prə'fɪʃnsɪ/,选择性必修第四册,高三,50,True,False
+2587,4*5,cage,n.笼子 vt.关在笼子里,/keɪdʒ/,选择性必修第四册,高三,50,True,False
+2588,4*5,collar,n.(动物)颈圈;衣领,/ˈkɒlə(r)/,选择性必修第四册,高三,50,True,False
+2590,4*5,finance,n.资金;财政 vt.提供资金,/ˈfaɪnæns/,选择性必修第四册,高三,50,True,False
+2591,4*5,receipt,n.收据;接收,/rɪˈsi:t/,选择性必修第四册,高三,50,True,False
+2592,4*5,certificate,n.合格证书;证明,/səˈtɪfɪkət/,选择性必修第四册,高三,50,True,False
+2593,4*5,employer,n.雇主;老板,/ɪmˈplɔɪə(r)/,选择性必修第四册,高三,50,True,False
+2594,4*5,desert,n.沙漠;荒漠,/ˈdezət/,选择性必修第四册,高三,50,True,False
+2595,4*5,acquire,vt.获得;购得,/əˈkwaɪə(r)/,选择性必修第四册,高三,50,True,False

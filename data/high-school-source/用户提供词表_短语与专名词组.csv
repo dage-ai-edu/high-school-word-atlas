@@ -1,0 +1,450 @@
+﻿number,code,word,gloss,ipa,book,stage,page,is_single_word,is_likely_proper_name
+21,1*1,senior high school ,美国)高中,/ˈsi:niə(r) haɪ sku:l/,必修第一册,高一上,1,False,False
+22,1*1,at last,终于;最终,/ət lɑ:st/,必修第一册,高一上,1,False,False
+26,1*1,make an impression,留下好印象,/meɪk ən ɪmˈpreʃn/,必修第一册,高一上,1,False,False
+27,1*1,what if,要是……会怎么样呢？,/wɒt ɪf/,必修第一册,高一上,1,False,False
+30,1*1,concentrate on,集中精力于,/ˈkɒnsntreɪt ɒn/,必修第一册,高一上,1,False,False
+32,1*1,leave ... alone,不打扰;不惊动,/li:v əˈləʊn/,必修第一册,高一上,1,False,False
+35,1*1,junior high school ,美国)初级中学,/ˈdʒu:niə(r) haɪ sku:l/,必修第一册,高一上,1,False,False
+40,1*1,look forward to,盼望;期待,/lʊk ˈfɔ:wəd tə/,必修第一册,高一上,1,False,False
+41,1*1,take notes,记笔记,/teɪk nəuts/,必修第一册,高一上,1,False,False
+43,1*1,flash card,教学卡片;识字卡,/flæʃ kɑ:d/,必修第一册,高一上,1,False,False
+61,1*2,prefer ... to ...,喜欢……多于……,/prɪˈfɜ:(r) tə/,必修第一册,高一上,2,False,False
+65,1*2,clean up,打扫(或清除)干净,/kli:n ʌp/,必修第一册,高一上,2,False,False
+67,1*2,suitable for,对……适合的,/ˈsu:təbl fə(r)/,必修第一册,高一上,2,False,False
+79,1*2,sign up for sth.,报名参加课程,/saɪn ʌp fə(r) ˈsʌmθɪŋ/,必修第一册,高一上,2,False,False
+89,1*2,be responsible for,对……负责,/bi rɪˈspɒnsəbl fə(r)/,必修第一册,高一上,2,False,False
+100,1*2,be attracted to,喜爱,/bi əˈtræktid tə/,必修第一册,高一上,2,False,False
+102,1*2,focus on,集中;特别关注,/ˈfəʊkəs ɒn/,必修第一册,高一上,2,False,False
+105,1*2,addicted to,对……很入迷,/əˈdɪktɪd tə/,必修第一册,高一上,3,False,False
+111,1*3,apply for,申请,/əˈplaɪ fə(r)/,必修第一册,高一上,3,False,False
+126,1*3,take control of,控制;接管,/teɪk kənˈtrəʊl əv/,必修第一册,高一上,3,False,False
+135,1*3,other than,除……以外,/ˈʌðə(r) ðən/,必修第一册,高一上,3,False,False
+141,1*3,package tour,包价旅游,/ˈpækɪdʒ tʊə(r)/,必修第一册,高一上,3,False,False
+144,1*3,make up,构成;形成,/meɪk ʌp/,必修第一册,高一上,3,False,False
+151,1*3,credit card,信用卡,/ˈkredɪt kɑ:d/,必修第一册,高一上,3,False,False
+153,1*3,check in ,在旅馆、机场等)登记,/tʃek ɪn/,必修第一册,高一上,3,False,False
+154,1*3,check out,结账离开(旅馆等),/tʃek aʊt/,必修第一册,高一上,3,False,False
+163,1*3,the Eiffel Tower,埃菲尔铁塔,/ðə ˈaɪfəl ˈtaʊə(r)/,必修第一册,高一上,4,False,False
+164,1*3,Neuschwanstein Castle,新天鹅堡,,必修第一册,高一上,4,False,True
+168,1*3,the Andes Mountains,安第斯山脉,/ðə ˈændiːz 'maʊntɪns/,必修第一册,高一上,4,False,False
+169,1*3,the Amazon rainforest,亚马孙雨林,/ðə 'æməzən ˈreɪnfɒrɪst/,必修第一册,高一上,4,False,False
+170,1*3,the Inca Empire,印加帝国,/ðə ˈiŋkə ˈempaɪə(r)/,必修第一册,高一上,4,False,False
+171,1*3,Machu Picchu,马丘比丘,,必修第一册,高一上,4,False,True
+175,1*3,Lake Titicaca,的的嘻喀湖,/leɪk ˌtiti'kaka/,必修第一册,高一上,4,False,True
+176,1*3,the Uros,乌鲁斯人,,必修第一册,高一上,4,False,False
+177,1*3,the Terracotta Army,兵马俑,/ðə ˌterəˈkɒtə ˈɑ:mi/,必修第一册,高一上,4,False,False
+185,1*4,come along,跟随;到达;进步;赶快,/kʌm əˈlɒŋ/,必修第一册,高一上,4,False,False
+189,1*4,track and field,田径,/træk ənd fi:ld/,必修第一册,高一上,4,False,False
+192,1*4,work out,锻炼;计算出;解决,/wɜ:k aʊt/,必修第一册,高一上,4,False,False
+194,1*4,make it,获得成功;准时到达,/meɪk ɪt/,必修第一册,高一上,4,False,False
+198,1*4,set an example,树立榜样,/set ən ɪgˈzɑ:mpl/,必修第一册,高一上,4,False,False
+206,1*4,fall apart,破裂;破碎;崩溃,/fɔ:l əˈpɑ:t/,必修第一册,高一上,4,False,False
+211,1*4,lose heart,丧失信心;泄气,/lu:z hɑ:t/,必修第一册,高一上,5,False,False
+215,1*4,give up,放弃;投降,/gɪv ʌp/,必修第一册,高一上,5,False,False
+217,1*4,make sense,有道理;合乎情理;表述清楚,/meɪk sens/,必修第一册,高一上,5,False,False
+219,1*4,pretend to do sth.,假装做某事,/prɪˈtend tə du ˈsʌmθɪŋ/,必修第一册,高一上,5,False,False
+220,1*4,even if,即使;虽然,/ˈi:vn ɪf/,必修第一册,高一上,5,False,False
+227,1*4,make a difference,有作用或影响,/meɪk ə ˈdɪfrəns/,必修第一册,高一上,5,False,False
+229,1*4,rather than,而不是,/ˈrɑ:ðə(r) ðən/,必修第一册,高一上,5,False,False
+231,1*4,cut ... out,停止做(或使用、食用);剪下,/kʌt aʊt/,必修第一册,高一上,5,False,False
+232,1*4,now and then,有时;偶尔,/naʊ ənd ðen/,必修第一册,高一上,5,False,False
+233,1*4,compare ... with ...,与……比较,/kəmˈpeə(r) wɪð/,必修第一册,高一上,5,False,False
+244,1*5,volcanic eruption,火山喷发,/vɒlˈkænɪk ɪ'rʌpʃn/,必修第一册,高一上,5,False,False
+255,1*5,as if,似乎;好像;仿佛,/əz ɪf/,必修第一册,高一上,5,False,False
+257,1*5,in ruins,严重受损;破败不堪,/ɪn 'ru:ɪnz/,必修第一册,高一上,5,False,False
+262,1*5,in shock,震惊;吃惊,/ɪn ʃɒk/,必修第一册,高一上,6,False,False
+278,1*5,in the open air,露天;在户外,/ɪn ðə ˈəʊpən eə(r)/,必修第一册,高一上,6,False,False
+289,1*5,first aid kit,急救箱,/fɜ:st eɪd kɪt/,必修第一册,高一上,6,False,False
+290,1*5,on hand,现有(尤指帮助),/ɒn hænd/,必修第一册,高一上,6,False,False
+293,1*5,sweep away,消灭;彻底消除,/swi:p əˈweɪ/,必修第一册,高一上,6,False,False
+304,1*5,Sri Lanka,斯里兰卡(国家名),/sri: ˈlɑːŋkə/,必修第一册,高一上,6,False,True
+308,1*5,Sumatra Island,苏门答腊岛,/sʊˈmɑːtrə ˈaɪlənd/,必修第一册,高一上,6,False,True
+309,1*5,Chandra Theeravit,钱德拉·特拉维,,必修第一册,高一上,6,False,True
+315,1*6,refer to,指的是;描述;提到;查阅,/rɪˈfɜ:(r) tə/,必修第一册,高一上,7,False,False
+318,1*6,ups and downs,浮沉;兴衰;荣辱,/ʌps ənd daʊnz/,必修第一册,高一上,7,False,False
+322,1*6,date back to ...,追溯到,/deɪt bæk tə/,必修第一册,高一上,7,False,False
+330,1*6,no matter ...,不论……;不管……,/nəʊ ˈmætə(r)/,必修第一册,高一上,7,False,False
+344,1*6,point of view,观点;看法,/pɔɪnt əv vju:/,必修第一册,高一上,7,False,False
+358,1*6,relate to,与……相关;涉及;谈到,/rɪˈleɪt tə/,必修第一册,高一上,7,False,False
+377,2*1,take part in,参与(某事);参加(某活动),/teɪk pɑ:t ɪn/,必修第二册,高一下,8,False,False
+378,2*1,give way to,让步;屈服,/gɪv weɪ tə/,必修第二册,高一下,8,False,False
+380,2*1,keep balance,保持平衡,/ki:p ˈbæləns/,必修第二册,高一下,8,False,False
+381,2*1,lead to,导致,/li:d tə/,必修第二册,高一下,8,False,False
+384,2*1,make a proposal,提出建议,/meɪk ə prəˈpəʊzl/,必修第二册,高一下,8,False,False
+387,2*1,turn to,向……求助,/tɜ:n tə/,必修第二册,高一下,8,False,False
+392,2*1,prevent ... from ...,阻止;不准,/prɪˈvent frəm/,必修第二册,高一下,8,False,False
+404,2*1,donate ... to ...,向……捐赠……,/dəʊˈneɪt tə/,必修第二册,高一下,8,False,False
+407,2*1,make sure,确保;设法保证,/meɪk ʃʊə(r)/,必修第二册,高一下,8,False,False
+430,2*1,all over the world,在世界各地,/ɔ:l ˈəʊvə(r) ðə wɜ:ld/,必修第二册,高一下,9,False,False
+441,2*1,Aswan Dam,阿斯旺大坝,/ɑːs'wɑːn dæm/,必修第二册,高一下,9,False,True
+442,2*1,the Nile,尼罗河,/ðə naɪl/,必修第二册,高一下,9,False,False
+448,2*1,the Kremlin,克里姆林(宫),/ðə ˈkrɛmlɪn/,必修第二册,高一下,9,False,False
+450,2*1,Saint Basil's Cathedral,圣瓦希里大教堂,/seɪnt ˈbæzlz kəˈθi:drəl/,必修第二册,高一下,9,False,True
+451,2*1,the Forbidden City,紫禁城,/ðə fəˈbɪdn ˈsɪti/,必修第二册,高一下,9,False,False
+452,2*1,Los Angeles,洛杉矶(美国城市),/lɔːs ˈeɪndʒəlz/,必修第二册,高一下,9,False,True
+462,2*2,on earth ,疑问词后表强调)究竟;到底,/ɒn ɜ:θ/,必修第二册,高一下,9,False,False
+463,2*2,die out,灭亡;逐渐消失,/daɪ aʊt/,必修第二册,高一下,9,False,False
+473,2*2,aware of,意识到;知道,/əˈweə(r) əv/,必修第二册,高一下,10,False,False
+476,2*2,on average,平均,/ɒn ˈævərɪdʒ/,必修第二册,高一下,10,False,False
+478,2*2,make progress,取得进步,/meɪk ˈprəʊgres/,必修第二册,高一下,10,False,False
+481,2*2,concerned about,对……关切的;为……担忧的,/kənˈsɜ:nd əˈbaʊt/,必修第二册,高一下,10,False,False
+484,2*2,adapt to,适应,/əˈdæpt tə/,必修第二册,高一下,10,False,False
+488,2*2,under pressure,在压力下;承受压力,/ˈʌndə(r) ˈpreʃə(r)/,必修第二册,高一下,10,False,False
+491,2*2,Tibetan antelope,藏羚羊,/tɪ'betn ˈæntɪləʊp/,必修第二册,高一下,10,False,True
+494,2*2,make out,看清;听清;分清,/meɪk aʊt/,必修第二册,高一下,10,False,False
+499,2*2,remind sb. of ...,使某人想起(类似的人或物),/rɪˈmaɪnd ˈsʌmbədi əv/,必修第二册,高一下,10,False,False
+502,2*2,shoot vr.&vi.,射杀;射伤;发射,/ʃu:t/,必修第二册,高一下,10,False,False
+504,2*2,watch over,保护;照管;监督,/wɒtʃ ˈəʊvə(r)/,必修第二册,高一下,10,False,False
+505,2*2,day and night,日日夜夜;夜以继日,/deɪ ənd naɪt/,必修第二册,高一下,10,False,False
+521,2*2,due to,由于;因为,/dju: tə/,必修第二册,高一下,11,False,False
+526,2*2,bird field guide,鸟类图鉴,/bɜ:d fi:ld gaɪd/,必修第二册,高一下,11,False,False
+527,2*2,search for,搜索;查找,/sɜ:tʃ fə(r)/,必修第二册,高一下,11,False,False
+529,2*2,Yangtze River dolphin,白鳍豚,/'jæŋzɪ ˈrɪvə(r) ˈdɒlfɪn/,必修第二册,高一下,11,False,True
+532,2*2,stir up,激起,/stɜ:(r) ʌp/,必修第二册,高一下,11,False,False
+539,2*3,blog post,博文;博客帖子,/blɒg pəʊst/,必修第二册,高一下,11,False,False
+542,2*3,search engine ,互联网上的)搜索引擎,/sɜ:tʃ ˈendʒɪn/,必修第二册,高一下,11,False,False
+546,2*3,identity card,身份证,/aɪˈdentəti kɑ:d/,必修第二册,高一下,11,False,False
+554,2*3,keep sb. company,陪伴某人,/ki:p ˈsʌmbədi ˈkʌmpəni/,必修第二册,高一下,11,False,False
+559,2*3,now that,既然;由于,/naʊ ðæt/,必修第二册,高一下,11,False,False
+562,2*3,go through,经历;度过;通读,/gəʊ θru:/,必修第二册,高一下,11,False,False
+575,2*3,in shape,状况良好,/ɪn ʃeɪp/,必修第二册,高一下,12,False,False
+576,2*3,keep track of,掌握……的最新消息,/ki:p træk əv/,必修第二册,高一下,12,False,False
+589,2*3,make fun of,取笑;戏弄,/meɪk fʌn əv/,必修第二册,高一下,12,False,False
+595,2*3,keep ... in mind,牢记,/ki:p ɪn maɪnd/,必修第二册,高一下,12,False,False
+598,2*3,the World Wide Web,abbr.万维网;环球信息网,/ðə wɜ:ld waɪd web/,必修第二册,高一下,12,False,False
+599,2*3,Jan Tchamani,简・夏曼尼,,必修第二册,高一下,12,False,True
+608,2*4,Achilles' heel ,"喻)阿喀琉斯脚跟,致命弱点",/əˈkiliːz hi:l/,必修第二册,高一下,12,False,True
+613,2*4,join ... to ...,把…和…连接或联结起来,/dʒɔɪn tə/,必修第二册,高一下,12,False,False
+614,2*4,break away from ...,脱离;背叛;逃脱,/breɪk əˈweɪ frəm/,必修第二册,高一下,12,False,False
+616,2*4,belong to,属于,/bɪˈlɒŋ tə/,必修第二册,高一下,12,False,False
+617,2*4,as well as,同(一样也);和;还,/əz wel əz/,必修第二册,高一下,12,False,False
+630,2*4,keep your eyes open for,留心;留意,/ki:p jɔ:(r) 'aɪz ˈəʊpən fə(r)/,必修第二册,高一下,13,False,False
+667,2*4,Northern Ireland,北爱尔兰(英国),/ˈnɔ:ðən 'aɪələnd/,必修第二册,高一下,13,False,True
+671,2*4,the Normans,诺曼人,/ðə ˈnɔːmənz/,必修第二册,高一下,13,False,False
+672,2*4,Battle of Hastings,黑斯廷斯战役,/ˈbætl əv ˈheɪstɪŋz/,必修第二册,高一下,13,False,True
+674,2*4,Van Gogh,梵高(荷兰画家),/væn gəʊ/,必修第二册,高一下,13,False,True
+675,2*4,the Emerald Isle,绿宝石岛(爱尔兰的别称),/ðə ˈemərəld aɪl/,必修第二册,高一下,14,False,False
+684,2*5,stringed instrument,弦乐器,/strɪŋd ˈɪnstrəmənt/,必修第二册,高一下,14,False,False
+686,2*5,virtual choir,虚拟合唱团,/ˈvɜ:tʃuəl ˈkwaɪə(r)/,必修第二册,高一下,14,False,False
+700,2*5,fall in love with,爱上,/fɔ:l ɪn lʌv wɪð/,必修第二册,高一下,14,False,False
+713,2*5,absorbed in ...,被……吸引住;专心致志,/əbˈsɔ:bd ɪn/,必修第二册,高一下,14,False,False
+720,2*5,set sth. up,安装好(设备或机器),/set ˈsʌmθɪŋ ʌp/,必修第二册,高一下,14,False,False
+722,2*5,try out,参加……选拔(或试演),/traɪ aʊt/,必修第二册,高一下,14,False,False
+727,2*5,in addition to ...,除……以外(还),/ɪn əˈdɪʃn tə/,必修第二册,高一下,15,False,False
+731,2*5,from then on,从那时起,/frəm ðen ɒn/,必修第二册,高一下,15,False,False
+733,2*5,get through ,设法)处理;完成,/get θru:/,必修第二册,高一下,15,False,False
+746,2*5,Eric Whitacre,埃里克•惠塔克,,必修第二册,高一下,15,False,True
+749,2*5,Lux Aurumque 《,金色光芒》(歌曲名),,必修第二册,高一下,15,False,True
+751,2*5,Las Vegas,拉斯维加斯(美国城市),/lɑːz veigəs/,必修第二册,高一下,15,False,True
+756,3*1,dress ... up,穿上盛装;装扮,/dres ʌp/,必修第三册,高一下,15,False,False
+764,3*1,after all,毕竟;别忘了,/ˈɑ:ftə(r) ɔ:l/,必修第三册,高一下,15,False,False
+766,3*1,range from ... to ...,包括从…到…之间,/reɪndʒ frəm tə/,必修第三册,高一下,15,False,False
+786,3*1,fade away,逐渐消失;(身体)变得虚弱,/feɪd əˈweɪ/,必修第三册,高一下,16,False,False
+790,3*1,in spite of,不管;尽管,/ɪn spaɪt əv/,必修第三册,高一下,16,False,False
+794,3*1,take advantage of,利用;欺骗; 占…的便宜,/teɪk ədˈvɑ:ntɪdʒ əv/,必修第三册,高一下,16,False,False
+796,3*1,the media,大众传播媒介,/ðə ˈmi:diə/,必修第三册,高一下,16,False,False
+801,3*1,have sth. in common ,兴趣、想法等方面)相同,/həv ˈsʌmθɪŋ ɪn ˈkɒmən/,必修第三册,高一下,16,False,False
+806,3*1,Christmas carol,圣诞颂歌,/ˈkrɪsməs ˈkærəl/,必修第三册,高一下,16,False,True
+808,3*1,Merry Christmas!,圣诞快乐!,/ˈmeri ˈkrɪsməs/,必修第三册,高一下,16,False,True
+811,3*1,mashed potatoes,土豆泥,/mæʃt pə'teɪtəʊz/,必修第三册,高一下,16,False,False
+814,3*1,roast turkey,烤火鸡肉,/rəʊst ˈtɜ:ki/,必修第三册,高一下,16,False,False
+818,3*1,to be frank,坦白说;坦率地说,/tə bi fræŋk/,必修第三册,高一下,16,False,False
+819,3*1,go off,爆炸;走火;离开,/gəʊ ɒf/,必修第三册,高一下,16,False,False
+820,3*1,except for,除…之外,/ɪkˈsept fə(r)/,必修第三册,高一下,16,False,False
+829,3*1,set off,出发;动身;启程,/set ɒf/,必修第三册,高一下,16,False,False
+844,3*1,Coming of Age Day,成人节,/ˈkʌmɪŋ əv eɪdʒ deɪ/,必修第三册,高一下,17,False,True
+848,3*1,Thanksgiving Day,感恩节,/ˌθæŋksˈgɪvɪŋ deɪ/,必修第三册,高一下,17,False,True
+849,3*1,La Tomatina,番茄大战,,必修第三册,高一下,17,False,True
+851,3*1,the Naadam Festival “,那达慕”大会,,必修第三册,高一下,17,False,False
+852,3*1,Inner Mongolia Autonomous Region,内蒙古自治区,/ˈɪnə(r) mɒŋ'ɡəʊlɪə ɔ:ˈtɒnəməs ˈri:dʒən/,必修第三册,高一下,17,False,True
+857,3*2,moral dilemma,道德困境,/ˈmɒrəl dɪˈlemə/,必修第三册,高一下,17,False,False
+862,3*2,carry sb. through sth.,帮助某人渡过难关,/ˈkæri ˈsʌmbədi θru: ˈsʌmθɪŋ/,必修第三册,高一下,17,False,False
+868,3*2,tuition fees,学费,/tjuˈɪʃn fiːz/,必修第三册,高一下,17,False,False
+875,3*2,resident physician,住院医师,/ˈrezɪdənt fɪˈzɪʃn/,必修第三册,高一下,17,False,False
+887,3*2,tend to do sth.,易于做某事;往往发生某事,/tend tə du ˈsʌmθɪŋ/,必修第三册,高一下,18,False,False
+912,3*2,first aid,急救,/fɜ:st eɪd/,必修第三册,高一下,18,False,False
+913,3*2,pass away,去世,/pɑ:s əˈweɪ/,必修第三册,高一下,18,False,False
+916,3*2,in memory of,作为对…的纪念,/ɪn ˈmeməri əv/,必修第三册,高一下,18,False,False
+925,3*2,trip over,被…绊倒,/trɪp ˈəʊvə(r)/,必修第三册,高一下,18,False,False
+928,3*2,in tears,流着泪;含着泪,/ɪn tɪəs/,必修第三册,高一下,18,False,False
+931,3*2,in despair,处于绝望中,/ɪn dɪˈspeə(r)/,必修第三册,高一下,18,False,False
+933,3*2,a great deal of,大量,/ə greɪt di:l əv/,必修第三册,高一下,18,False,False
+941,3*2,Peking Union Medical College,北京协和医学院,/pi:ˈkiŋ ˈju:niən ˈmedɪkl ˈkɒlɪdʒ/,必修第三册,高一下,19,False,True
+942,3*2,the Wenhai Scholarship “,文海”奖学金,,必修第三册,高一下,19,False,False
+943,3*2,the 0B-GYN department,妇产科,,必修第三册,高一下,19,False,False
+944,3*2,the People's Republic of China,中华人民共和国,/ðə ˈpiːplz rɪˈpʌblɪk əv 'tʃaɪnə/,必修第三册,高一下,19,False,False
+945,3*2,the National People's Congress,全国人民代表大会,/ðə ˈnæʃnəl ˈpiːplz ˈkɒŋgres/,必修第三册,高一下,19,False,False
+946,3*2,the North South Pole,北极/南极,/ðə nɔ:θ saʊθ pəʊl/,必修第三册,高一下,19,False,False
+947,3*2,Henry Norman Bethune,亨利·诺曼·白求恩,/ˈhenri ˈnɔ:mən bəˈθjun/,必修第三册,高一下,19,False,True
+951,3*3,fortune cookie,幸运曲奇,/ˈfɔ:tʃu:n ˈkʊki/,必修第三册,高一下,19,False,False
+967,3*3,head to ,朝…)前进;(向…)去,/hed tə/,必修第三册,高一下,19,False,False
+970,3*3,seek one's fortune,寻找成功致富之路;闯世界,/si:k wʌnz ˈfɔ:tʃu:n/,必修第三册,高一下,19,False,False
+972,3*3,earn a living,谋生,/ɜ:n ə ˈlɪvɪŋ/,必修第三册,高一下,19,False,False
+982,3*3,series of,一系列或一连串(事件),/ˈsɪəri:z əv/,必修第三册,高一下,19,False,False
+983,3*3,apart from,除了…外(还);此外,/əˈpɑ:t frəm/,必修第三册,高一下,19,False,False
+986,3*3,bring about,导致;引起,/brɪŋ əˈbaʊt/,必修第三册,高一下,19,False,False
+1006,3*3,to name but a few,仅举几例,/tə neɪm bət ə fju:/,必修第三册,高一下,20,False,False
+1007,3*3,tai chi,n.太极拳,/tai kaɪ/,必修第三册,高一下,20,False,False
+1011,3*3,at first hand,第一手;亲自,/ət fɜ:st hænd/,必修第三册,高一下,20,False,False
+1015,3*3,San Francisco,圣弗朗西斯科(旧金山),/sæn fræn'sɪskəʊ/,必修第三册,高一下,20,False,True
+1016,3*3,Napa Valley,纳帕谷(美国),,必修第三册,高一下,20,False,True
+1017,3*3,the Golden Gate Bridge,金门桥,/ðə ˈgəʊldən geɪt brɪdʒ/,必修第三册,高一下,20,False,False
+1018,3*3,the Mission District,教会区(旧金山),/ðə ˈmɪʃn ˈdɪstrɪkt/,必修第三册,高一下,20,False,False
+1022,3*3,the Richmond District,里士满区(旧金山),/ðə ˈrɪtʃmənd ˈdɪstrɪkt/,必修第三册,高一下,20,False,False
+1023,3*3,Huangguoshu Waterfall,黄果树瀑布,,必修第三册,高一下,20,False,True
+1024,3*3,Journey to the West 《,西游记》,/ˈdʒɜ:ni tə ðə west/,必修第三册,高一下,20,False,True
+1025,3*3,Tin How Temple,天后古庙,/tɪn haʊ ˈtempl/,必修第三册,高一下,20,False,True
+1026,3*3,Bank of Canton,广东银行,/bæŋk əv ˈkæntɒn/,必修第三册,高一下,20,False,True
+1027,3*3,Portsmouth Square,花园角广场(旧金山),/ˈpɔːtsməθ skweə(r)/,必修第三册,高一下,20,False,True
+1028,3*3,Robert Louis Stevenson,罗伯特·路易斯·斯蒂文森,/'rɒbət ˈlu(:)i ˈstiːvənsən/,必修第三册,高一下,20,False,True
+1052,3*4,carry on,"继续做,坚持干",/ˈkæri ɒn/,必修第三册,高一下,21,False,False
+1054,3*4,on board,在宇宙飞船上;在船上,/ɒn bɔ:d/,必修第三册,高一下,21,False,False
+1062,3*4,in the hope of doing sth.,抱着…的希望,/ɪn ðə həʊp əv ˈdu:ɪŋ ˈsʌmθɪŋ/,必修第三册,高一下,21,False,False
+1063,3*4,so as to do sth.,为了;以便,/səʊ əz tə du ˈsʌmθɪŋ/,必修第三册,高一下,21,False,False
+1071,3*4,solar system,太阳系;类太阳系,/ˈsəʊlə(r) ˈsɪstəm/,必修第三册,高一下,21,False,False
+1073,3*4,figure out,弄懂;弄清楚;弄明白,/ˈfɪgə(r) aʊt/,必修第三册,高一下,21,False,False
+1086,3*4,result in,导致;造成,/rɪˈzʌlt ɪn/,必修第三册,高一下,21,False,False
+1089,3*4,as a result,所以;结果(是),/əz ə rɪˈzʌlt/,必修第三册,高一下,21,False,False
+1099,3*4,provide for sb.,提供生活所需,/prəˈvaɪd fə(r) ˈsʌmbədi/,必修第三册,高一下,22,False,False
+1101,3*4,in closing,最后,/ɪn ˈkləʊzɪŋ/,必修第三册,高一下,22,False,False
+1103,3*4,run out,用完;耗尽,/rʌn aʊt/,必修第三册,高一下,22,False,False
+1107,3*4,the USSR,abbr.苏联,/ðə ˌju: es es ˈɑ:(r)/,必修第三册,高一下,22,False,False
+1108,3*4,Yuri Gagarin,尤里·加加林(苏),,必修第三册,高一下,22,False,True
+1109,3*4,Neil Armstrong,尼尔·阿姆斯特朗(美),/ni:l ˈɑ:mstrɔŋ/,必修第三册,高一下,22,False,True
+1111,3*4,Voyager 1,旅行者一号,/ˈvɔɪɪdʒə(r) wʌn/,必修第三册,高一下,22,False,True
+1112,3*4,Soyuz 11,联盟11号,,必修第三册,高一下,22,False,True
+1113,3*4,Challenger “,挑战者”号航天飞机,/ˈtʃælɪndʒə(r)/,必修第三册,高一下,22,False,True
+1114,3*4,the International Space Station,国际空间站,/ðə ˌɪntəˈnæʃnəl speɪs ˈsteɪʃn/,必修第三册,高一下,22,False,False
+1115,3*4,Jade Rabbit “,玉兔”月球车,/dʒeɪd ˈræbɪt/,必修第三册,高一下,22,False,True
+1118,3*4,Typhoon Goni,台风天鹅,,必修第三册,高一下,22,False,True
+1121,3*5,on the basis of,在某事的基础上;根据某事,/ɒn ðə ˈbeɪsɪs əv/,必修第三册,高一下,22,False,False
+1123,3*5,take out a loan,取得贷款,/teɪk aʊt ə ləʊn/,必修第三册,高一下,22,False,False
+1127,3*5,in return,作为回报;作为回应,/ɪn rɪˈtɜ:n/,必修第三册,高一下,22,False,False
+1133,3*5,make a bet,打个赌,/meɪk ə bet/,必修第三册,高一下,22,False,False
+1135,3*5,as a matter of fact,事实上;其实;说真的,/əz ə ˈmætə(r) əv fækt/,必修第三册,高一下,22,False,False
+1136,3*5,by accident,偶然地;意外地,/baɪ ˈæksɪdənt/,必修第三册,高一下,22,False,False
+1144,3*5,to be honest,说实话;坦率地说,/tə bi ˈɒnɪst/,必修第三册,高一下,23,False,False
+1145,3*5,ought to,应该;应当,/ɔ:t tə/,必修第三册,高一下,23,False,False
+1146,3*5,be about to do sth.,即将或正要(做某事),/bi əˈbaʊt tə du ˈsʌmθɪŋ/,必修第三册,高一下,23,False,False
+1154,3*5,in case,以防;以防万一,/ɪn keɪs/,必修第三册,高一下,23,False,False
+1156,3*5,to ... extent,到…程度;在…程度上,/tə ɪkˈstent/,必修第三册,高一下,23,False,False
+1163,3*5,on duty,值班;值勤,/ɒn ˈdju:ti/,必修第三册,高一下,23,False,False
+1170,3*5,in a ... manner,以一种…的方式,/ɪn ə ˈmænə(r)/,必修第三册,高一下,23,False,False
+1175,3*5,in that case,既然那样;假使那样的话,/ɪn ðæt keɪs/,必修第三册,高一下,23,False,False
+1181,3*5,be willing to do sth.,愿意或乐意做某事,/bi ˈwɪlɪŋ tə du ˈsʌmθɪŋ/,必修第三册,高一下,23,False,False
+1185,3*5,upper class,adj.上流社会的;上等阶层的,/ˈʌpə(r) klɑ:s/,必修第三册,高一下,23,False,False
+1187,3*5,the upper class,上流社会;上等阶层,/ðə ˈʌpə(r) klɑ:s/,必修第三册,高一下,23,False,False
+1195,3*5,Henry Adams,亨利·亚当斯,/ˈhenri ˈædəmz/,必修第三册,高一下,24,False,True
+1196,3*5,The Phantom of the Opera 《,歌剧魅影》(音乐剧),/ðə ˈfæntəm əv ðə ˈɒprə/,必修第三册,高一下,24,False,True
+1199,3*5,Portia Langham,波希亚·兰厄姆,,必修第三册,高一下,24,False,True
+1207,1*1,commit oneself to do,承诺;保证(做某事等),/kəˈmɪt wʌnˈself tə du/,选择性必修第一册,高二,24,False,False
+1226,1*1,insist on,坚决要求,/ɪnˈsɪst ɒn/,选择性必修第一册,高二,24,False,False
+1229,1*1,wear and tear ,正常使用造成的)磨损;损耗,/weə(r) ənd teə(r)/,选择性必修第一册,高二,24,False,False
+1238,1*1,flow chart,流程图,/fləʊ tʃɑ:t/,选择性必修第一册,高二,24,False,False
+1254,1*1,come to power ,开始)掌权;上台,/kʌm tə ˈpaʊə(r)/,选择性必修第一册,高二,25,False,False
+1258,1*1,take up a position,担任;任职,/teɪk ʌp ə pəˈzɪʃn/,选择性必修第一册,高二,25,False,False
+1267,1*1,sum up,总结;概括,/sʌm ʌp/,选择性必修第一册,高二,25,False,False
+1269,1*1,Nobel Prize,诺贝尔奖,/nəʊˈbel praɪz/,选择性必修第一册,高二,25,False,True
+1270,1*1,Alexander Fleming,亚历山大·弗莱明,/ˌælɪgˈzændə ˈflɛmɪŋ/,选择性必修第一册,高二,25,False,True
+1271,1*1,Albert Einstein,阿尔伯特·爱因斯坦,/ˈælbət 'aɪnˌstaɪn/,选择性必修第一册,高二,25,False,True
+1273,1*1,Elon Musk,埃隆·马斯克,,选择性必修第一册,高二,25,False,True
+1274,1*1,Florence Nightingale,弗洛伦斯·南丁格尔,/'flɔ:rəns ˈnaɪtɪŋgeɪl/,选择性必修第一册,高二,25,False,True
+1278,1*1,Isaac Newton,艾萨克·牛顿,/ˈaizək ˈnju:tən/,选择性必修第一册,高二,25,False,True
+1284,1*2,switch on,开(电灯、机器等),/swɪtʃ ɒn/,选择性必修第一册,高二,25,False,False
+1285,1*2,switch off,关(电灯、机器等),/swɪtʃ ɒf/,选择性必修第一册,高二,25,False,False
+1291,1*2,remote control,遥控器;遥控,/rɪˈməʊt kənˈtrəʊl/,选择性必修第一册,高二,25,False,False
+1292,1*2,air conditioner,空调机;空调设备,/eə(r) kənˈdɪʃənə(r)/,选择性必修第一册,高二,25,False,False
+1300,1*2,daily routine,日常生活,/ˈdeɪli ru:ˈti:n/,选择性必修第一册,高二,26,False,False
+1307,1*2,early on,在初期;早先,/ˈɜ:li ɒn/,选择性必修第一册,高二,26,False,False
+1319,1*2,catch fire,着火,/kætʃ ˈfaɪə(r)/,选择性必修第一册,高二,26,False,False
+1323,1*2,in this sense,从这种(某种}意义上来讲,/ɪn ðɪs sens/,选择性必修第一册,高二,26,False,False
+1331,1*2,artificial intelligence,人工智能,/ˌɑ:tɪˈfɪʃl ɪnˈtelɪdʒəns/,选择性必修第一册,高二,26,False,False
+1346,1*2,keep in touch with ...,与…保持联系;了解(…情况),/ki:p ɪn tʌtʃ wɪð/,选择性必修第一册,高二,26,False,False
+1358,1*2,the Amish,n.阿曼门诺派,/ðə ˈɑːmɪʃ/,选择性必修第一册,高二,27,False,False
+1371,1*3,on the move,在行进中;在移动中,/ɒn ðə mu:v/,选择性必修第一册,高二,27,False,False
+1375,1*3,set out,出发;启程;开始工作,/set aʊt/,选择性必修第一册,高二,27,False,False
+1377,1*3,live off ...,依靠…生活;以吃…为生,/lɪv ɒf/,选择性必修第一册,高二,27,False,False
+1397,1*3,theme park,主题公园;主题乐园,/θi:m pɑ:k/,选择性必修第一册,高二,27,False,False
+1398,1*3,roller coaster,n.过山车,/ˈrəʊlə(r) ˈkəʊstə(r)/,选择性必修第一册,高二,27,False,False
+1401,1*3,appeal to,有吸引力;有感染力;呼吁,/əˈpi:l tə/,选择性必修第一册,高二,27,False,False
+1415,1*3,up to,达到(某数量、程度等);直到,/ʌp tə/,选择性必修第一册,高二,28,False,False
+1417,1*3,upside down,颠倒;倒转;翻转,/ˈʌpsaɪd daʊn/,选择性必修第一册,高二,28,False,False
+1424,1*3,Sarek National Park,萨勒克国家公园,,选择性必修第一册,高二,28,False,True
+1426,1*3,the Arctic Circle,北极圈,/ðə 'ɑ:ktɪk/,选择性必修第一册,高二,28,False,False
+1427,1*3,Rapa River,拉帕河,,选择性必修第一册,高二,28,False,True
+1433,1*4,by contrast,相比之下,/baɪ ˈkɒntrɑ:st/,选择性必修第一册,高二,28,False,False
+1442,1*4,by comparison ,与…)相比较,/baɪ kəmˈpærɪsn/,选择性必修第一册,高二,28,False,False
+1447,1*4,make inferences,推理;推断,/meɪk ˈɪnfərənsɪz/,选择性必修第一册,高二,28,False,False
+1448,1*4,break down,消除;分解;打破,/breɪk daʊn/,选择性必修第一册,高二,28,False,False
+1462,1*4,straighten up,直起来;整理;收拾整齐,/ˈstreɪtn ʌp/,选择性必修第一册,高二,29,False,False
+1468,1*4,in other words,换句话说;也就是说,/ɪn ˈʌðə(r) wɜ:dz/,选择性必修第一册,高二,29,False,False
+1487,1*4,call on ,短暂地)访问;要求某人讲话,/kɔ:l ɒn/,选择性必修第一册,高二,29,False,False
+1490,1*4,at work,有某种影响;在工作,/ət wɜ:k/,选择性必修第一册,高二,29,False,False
+1504,1*5,devote ... to,把…用于;献身;致力;专心,/dɪˈvəʊt tə/,选择性必修第一册,高二,29,False,False
+1524,1*5,be comprised of,包括;包含;由…组成(或构成),/bi kəmˈpraɪzd əv/,选择性必修第一册,高二,30,False,False
+1528,1*5,deep down,在内心深处;本质上;实际上,/di:p daʊn/,选择性必修第一册,高二,30,False,False
+1555,1*5,in turn,相应地;转而;依次;轮流,/ɪn tɜ:n/,选择性必修第一册,高二,30,False,False
+1562,1*5,for instance,例如;比如,/fə(r) ˈɪnstəns/,选择性必修第一册,高二,31,False,False
+1575,2*1,once and for all,最终地;彻底地,/wʌns ənd fə(r) ɔ:l/,选择性必修第二册,高二,31,False,False
+1581,2*1,subscribe to,同意;赞同,/səbˈskraɪb tə/,选择性必修第二册,高二,31,False,False
+1585,2*1,water pump,水泵,/ˈwɔ:tə(r) pʌmp/,选择性必修第二册,高二,31,False,False
+1596,2*1,thanks to,幸亏;由于,/θæŋks tə/,选择性必修第二册,高二,31,False,False
+1609,2*1,theoretical framework,理论框架,/ˌθɪəˈretɪkl ˈfreɪmwɜ:k/,选择性必修第二册,高二,31,False,False
+1621,2*1,break out ,战争等)突然开始;爆发,/breɪk aʊt/,选择性必修第二册,高二,32,False,False
+1626,2*1,in charge of,主管;掌管,/ɪn tʃɑ:dʒ əv/,选择性必修第二册,高二,32,False,False
+1632,2*1,come down,患(病);染上(小病),/kʌm daʊn/,选择性必修第二册,高二,32,False,False
+1642,2*1,above all,最重要的是;尤其是,/əˈbʌv ɔ:l/,选择性必修第二册,高二,32,False,False
+1646,2*1,Queen Victoria,维多利亚女王(英国女王),/kwi:n vikˈtɔ:riə/,选择性必修第二册,高二,32,False,True
+1648,2*1,non-Newtonian fluid,非牛顿流体,,选择性必修第二册,高二,32,False,False
+1649,2*1,the Jet Propulsion Laboratory,喷气推进实验室(美国),/ðə dʒet prəˈpʌlʃn ləˈbɒrətri/,选择性必修第二册,高二,32,False,False
+1650,2*1,Stephen Hawking,史蒂芬·霍金(英国),/'sti:vən 'hɔ:kɪŋ/,选择性必修第二册,高二,32,False,True
+1651,2*1,the big bang theory,大爆炸宇宙论,/ðə bɪg bæŋ ˈθɪəri/,选择性必修第二册,高二,32,False,False
+1652,2*1,Fred Hoyle,弗雷德·霍伊尔(英国),,选择性必修第二册,高二,32,False,True
+1665,2*2,participate in,参加;参与,/pɑ:ˈtɪsɪpeɪt ɪn/,选择性必修第二册,高二,33,False,False
+1667,2*2,speak up,大声点说;明确表态,/spi:k ʌp/,选择性必修第二册,高二,33,False,False
+1668,2*2,feel at home,舒服自在;不拘束,/fi:l ət həʊm/,选择性必修第二册,高二,33,False,False
+1670,2*2,engage in ,使)从事;参与,/ɪnˈgeɪdʒ ɪn/,选择性必修第二册,高二,33,False,False
+1672,2*2,get involved in,参与;卷入;与…有关联,/get ɪnˈvɒlvd ɪn/,选择性必修第二册,高二,33,False,False
+1675,2*2,culture shock,文化冲击,/ˈkʌltʃə(r) ʃɒk/,选择性必修第二册,高二,33,False,False
+1677,2*2,comfort zone,舒适区;舒适范围,/ˈkʌmfət zəʊn/,选择性必修第二册,高二,33,False,False
+1682,2*2,motivate vr.,成为…的动机;激发,/ˈməʊtɪveɪt/,选择性必修第二册,高二,33,False,False
+1696,2*2,cost an arm and a leg ,使)花一大笔钱,/kɒst ən ɑ:m ənd ə leg/,选择性必修第二册,高二,33,False,False
+1720,2*2,side with,支持;站…的一边,/saɪd wɪð/,选择性必修第二册,高二,34,False,False
+1722,2*2,as far as I know,据我所知,/əz fɑ:(r) əz aɪ nəʊ/,选择性必修第二册,高二,34,False,False
+1723,2*2,as far as I am concerned,就我而言;依我看来,/əz fɑ:(r) əz aɪ əm kənˈsɜ:nd/,选择性必修第二册,高二,34,False,False
+1724,2*2,in summary,总的来说;总之,/ɪn ˈsʌməri/,选择性必修第二册,高二,34,False,False
+1725,2*2,generally speaking,一般来说,/ˈdʒenrəli 'spi:kɪŋ/,选择性必修第二册,高二,34,False,False
+1729,2*2,the Belt and Road Initiative “,一带一路”倡议,/ðə belt ənd rəʊd ɪˈnɪʃətɪv/,选择性必修第二册,高二,34,False,False
+1732,2*3,prior to,在…之前的,/ˈpraɪə(r) tə/,选择性必修第二册,高二,34,False,False
+1734,2*3,consist of,由…组成(或构成),/kənˈsɪst əv/,选择性必修第二册,高二,34,False,False
+1743,2*3,slice ... off,切下,/slaɪs ɒf/,选择性必修第二册,高二,34,False,False
+1746,2*3,lamb kebab,烤羊肉串,/læm kɪˈbæb/,选择性必修第二册,高二,34,False,False
+1748,2*3,dim sum,n.点心(中国食品),/dɪm sʌm/,选择性必修第二册,高二,34,False,False
+1755,2*3,junk food,垃圾食品,/dʒʌŋk fu:d/,选择性必修第二册,高二,34,False,False
+1761,2*3,bean curd,n.豆腐,/bi:n kɜːd/,选择性必修第二册,高二,34,False,False
+1775,2*3,red braised pork,红烧肉,/red breɪzd pɔ:k/,选择性必修第二册,高二,35,False,False
+1782,2*3,regardless of,不管;不顾,/rɪˈgɑ:dləs əv/,选择性必修第二册,高二,35,False,False
+1796,2*3,Jean Anthelme Brillat-Savarin,让.安泰尔姆.布里亚-萨瓦兰,,选择性必修第二册,高二,35,False,True
+1798,2*3,St Andrews,圣安德鲁斯(英国城市),,选择性必修第二册,高二,35,False,True
+1808,2*4,take sb's breath away,令人惊叹,/teɪk ˈsʌmbədiz breθ əˈweɪ/,选择性必修第二册,高二,35,False,False
+1816,2*4,grizzly bear,n.灰熊,/'grɪzlɪ beə(r)/,选择性必修第二册,高二,35,False,False
+1819,2*4,freezing cold,极冷的;冻僵的,/ˈfri:zɪŋ kəʊld/,选择性必修第二册,高二,36,False,False
+1825,2*4,a bunch of,一束;一串;一群;大量,/ə bʌntʃ əv/,选择性必修第二册,高二,36,False,False
+1836,2*4,contrary to,相反的;相对立的,/ˈkɒntrəri tə/,选择性必修第二册,高二,36,False,False
+1840,2*4,proceed to sth.,进而做(参加),/prəˈsi:d tə ˈsʌmθɪŋ/,选择性必修第二册,高二,36,False,False
+1851,2*4,owe sth. to sb.,欠(某人情);把…归功某人,/əʊ ˈsʌmθɪŋ tə ˈsʌmbədi/,选择性必修第二册,高二,36,False,False
+1857,2*4,Lake Louise,路易斯湖,,选择性必修第二册,高二,36,False,True
+1863,2*4,Butchart Gardens,布查特花园,,选择性必修第二册,高二,36,False,True
+1864,2*4,Lake Huron,休伦湖,,选择性必修第二册,高二,36,False,True
+1865,2*4,Quebec City,魁北克市(加拿大城市),,选择性必修第二册,高二,36,False,True
+1867,2*4,Niagara Falls,尼亚加拉瀑布,/naɪ'æɡərə fo:s/,选择性必修第二册,高二,36,False,True
+1868,2*4,St Lawrence River,圣劳伦斯河,,选择性必修第二册,高二,36,False,True
+1870,2*4,Nova Scotia,新斯科舍省(加拿大),,选择性必修第二册,高二,36,False,True
+1876,2*5,sense of touch,触觉,/sens əv tʌtʃ/,选择性必修第二册,高二,37,False,False
+1883,2*5,electric shock,触电;电击,/ɪˈlektrɪk ʃɒk/,选择性必修第二册,高二,37,False,False
+1896,2*5,wrap v1.,包、裹;(用手臂等)围住,/ræp/,选择性必修第二册,高二,37,False,False
+1907,2*5,IV needle,静脉注射针,,选择性必修第二册,高二,37,False,True
+1908,2*5,vital sign,生命体征,/ˈvaɪtl saɪn/,选择性必修第二册,高二,37,False,False
+1925,2*5,help sb. to one's feet,帮助某人站起身来,/help ˈsʌmbədi tə wʌnz fi:t/,选择性必修第二册,高二,38,False,False
+1933,2*5,face up,面朝上,/feɪs ʌp/,选择性必修第二册,高二,38,False,False
+1934,2*5,face down,面朝下,/feɪs daʊn/,选择性必修第二册,高二,38,False,False
+1939,2*5,sleep in,迟起;睡过头;睡懒觉,/sli:p ɪn/,选择性必修第二册,高二,38,False,False
+1940,2*5,out of shape,健康状况不好,/aʊt əv ʃeɪp/,选择性必修第二册,高二,38,False,False
+1946,2*5,mouth-to-mouth rescue breathing,口对口人工呼吸,/maʊθ tə maʊθ ˈreskju: ˈbri:ðɪŋ/,选择性必修第二册,高二,38,False,False
+1947,2*5,Heimlich manoeuvre,海姆利克式操作法,,选择性必修第二册,高二,38,False,True
+1957,3*1,in particular,尤其;特别,/ɪn pəˈtɪkjələ(r)/,选择性必修第三册,高三,38,False,False
+1958,3*1,set apart from,使与众不同;使突出,/set əˈpɑ:t frəm/,选择性必修第三册,高三,38,False,False
+1977,3*1,be fond of,喜爱;喜欢,/bi fɒnd əv/,选择性必修第三册,高三,39,False,False
+1978,3*1,fine art,美术(尤其绘画和雕塑),/faɪn ɑ:t/,选择性必修第三册,高三,39,False,False
+1982,3*1,water lily,n.睡莲,/ˈwɔ:tə(r) ˈlɪli/,选择性必修第三册,高三,39,False,False
+2010,3*1,bring ... to life,赋…生命;使…鲜活起来,/brɪŋ tə laɪf/,选择性必修第三册,高三,39,False,False
+2014,3*1,be worthy of,值得,/bi ˈwɜ:ði əv/,选择性必修第三册,高三,39,False,False
+2015,3*1,The Middle Ages,中世纪,/ðə ˈmɪdl eidʒz/,选择性必修第三册,高三,39,False,True
+2016,3*1,Giotto di Bondone,乔托・迪・邦多纳(意),,选择性必修第三册,高三,39,False,True
+2017,3*1,the Renaissance,文艺复兴(时期),/ðə rɪˈneɪsns/,选择性必修第三册,高三,39,False,False
+2019,3*1,Leonardo da Vinci,莱昂纳多・达・芬奇(意),,选择性必修第三册,高三,39,False,True
+2024,3*1,Claude Monet,克劳德・莫奈(法),,选择性必修第三册,高三,39,False,True
+2029,3*1,Tadpoles Searching for Mother 《,小蝌蚪找妈妈》,,选择性必修第三册,高三,40,False,True
+2030,3*1,The Cowboy's Flute 《,牧笛》,,选择性必修第三册,高三,40,False,True
+2031,3*1,Feeling from Mountain and Water 《,山水情》,/ˈfi:lɪŋ frəm ˈmaʊntən ənd ˈwɔ:tə(r)/,选择性必修第三册,高三,40,False,True
+2032,3*1,Clearing After Snow on a Mountain Pass 《,函关雪霁图》(明),/ˈklɪərɪŋ ˈɑ:ftə(r) snəʊ ɒn ə ˈmaʊntən pɑ:s/,选择性必修第三册,高三,40,False,True
+2041,3*2,in response to,回答;答复,/ɪn rɪˈspɒns tə/,选择性必修第三册,高三,40,False,False
+2044,3*2,rely on,依赖;依靠;信赖,/rɪˈlaɪ ɒn/,选择性必修第三册,高三,40,False,False
+2049,3*2,straight away,立即;马上,/streɪt əˈweɪ/,选择性必修第三册,高三,40,False,False
+2054,3*2,decide on,决定;选定,/dɪˈsaɪd ɒn/,选择性必修第三册,高三,40,False,False
+2055,3*2,make up one's mind,下定决心,/meɪk ʌp wʌnz maɪnd/,选择性必修第三册,高三,40,False,False
+2057,3*2,be composed of,由…组成(或构成)的,/bi kəmˈpəʊzd əv/,选择性必修第三册,高三,40,False,False
+2062,3*2,shave off,剃掉;刮去,/ʃeɪv ɒf/,选择性必修第三册,高三,40,False,False
+2078,3*2,stressed out,焦虑不安;疲惫不堪,/strest aʊt/,选择性必修第三册,高三,40,False,False
+2079,3*2,worn out,筋疲力尽的;疲惫的,/wɔ:n aʊt/,选择性必修第三册,高三,41,False,False
+2087,3*2,People's Liberation Army,中国人民解放军,/ˈpiːplz ˌlɪbə'reɪʃn ˈɑ:mi/,选择性必修第三册,高三,41,False,True
+2088,3*2,Lao Zi,老子(中国古代哲学家),,选择性必修第三册,高三,41,False,True
+2099,3*3,carbon dioxide,二氧化碳,/ˈkɑ:bən daɪˈɒksaɪd/,选择性必修第三册,高三,41,False,False
+2105,3*3,fossil fuel,化石燃料(如煤或石油),/ˈfɒsl ˈfju:əl/,选择性必修第三册,高三,41,False,False
+2127,3*3,on behalf of,代表(代替)某人,/ɒn bɪˈhɑ:f əv/,选择性必修第三册,高三,41,False,False
+2139,3*3,dozens of,许多;很多,/'dʌznz əv/,选择性必修第三册,高三,42,False,False
+2150,3*3,Hurricane Katrina,飓风卡特里娜,,选择性必修第三册,高三,42,False,True
+2157,3*4,turn sb. down,拒绝(某人),/tɜ:n ˈsʌmbədi daʊn/,选择性必修第三册,高三,42,False,False
+2206,3*4,make fire,生火,/meɪk ˈfaɪə(r)/,选择性必修第三册,高三,43,False,False
+2207,3*4,give off,放出(热/光/气味/气体),/gɪv ɒf/,选择性必修第三册,高三,43,False,False
+2212,3*4,Ernest Shacklton,欧内斯特・沙克尔顿(英),,选择性必修第三册,高三,43,False,True
+2213,3*4,Perce Blackborow,珀西・布莱克博罗(服务员),,选择性必修第三册,高三,43,False,True
+2215,3*4,the Antarctic,南极地区,/ðə ænˈtɑ:ktɪk/,选择性必修第三册,高三,43,False,False
+2216,3*4,the South Pole,南极,/ðə saʊθ pəʊl/,选择性必修第三册,高三,43,False,False
+2217,3*4,South Georgia Island,南乔治亚岛(南极洲),/saʊθ ˈdʒɔ:dʒə ˈaɪlənd/,选择性必修第三册,高三,43,False,True
+2218,3*4,Frank Wild,弗兰克・怀尔德,/fræŋk waɪld/,选择性必修第三册,高三,43,False,True
+2219,3*4,Thomas Orde-Lees,托马斯・奧德利斯,,选择性必修第三册,高三,43,False,True
+2220,3*4,Frank Worsley,弗兰克・沃斯利,,选择性必修第三册,高三,43,False,True
+2221,3*4,Tom Crean,汤姆・克林,,选择性必修第三册,高三,43,False,True
+2222,3*4,Hubert Hudson,休伯特・赫德森,,选择性必修第三册,高三,43,False,True
+2223,3*4,Lionel Greenstreet,莱昂内尔・格林斯特里特,,选择性必修第三册,高三,43,False,True
+2231,3*5,nursery rhyme,童谣;儿歌,/ˈnɜ:səri raɪm/,选择性必修第三册,高三,43,False,False
+2236,3*5,billy goat,n.公山羊,/ˈbɪli gəʊt/,选择性必修第三册,高三,44,False,False
+2247,3*5,be made up of ...,组成(构成),/bi meɪd ʌp əv/,选择性必修第三册,高三,44,False,False
+2264,3*5,cherry blossom,樱花,/ˈtʃeri ˈblɒsəm/,选择性必修第三册,高三,44,False,False
+2293,3*5,The Crescent Moon 《,新月集》,/ðə ˈkresnt mu:n/,选择性必修第三册,高三,45,False,True
+2295,3*5,Elizabeth Barrett Browning,伊丽莎白・巴雷特・布朗宁,,选择性必修第三册,高三,45,False,True
+2296,3*5,Robert Browning,罗伯特・布朗宁(英),,选择性必修第三册,高三,45,False,True
+2297,3*5,the Victorian era,维多利亚时代,/ðə vɪkˈtɔ:riən ˈɪərə/,选择性必修第三册,高三,45,False,False
+2298,3*5,Sonnets from the Portuguese 《,葡萄牙人的十四行诗集》,,选择性必修第三册,高三,45,False,True
+2299,3*5,Langston Hughes,兰斯顿・休斯,,选择性必修第三册,高三,45,False,True
+2301,4*1,science fiction [abbr.SF],科幻小说/影片等,/ˈsaɪəns ˈfɪkʃn/,选择性必修第四册,高三,45,False,False
+2302,4*1,test out,检验;测试,/test aʊt/,选择性必修第四册,高三,45,False,False
+2304,4*1,more like,更像是;更接近,/mɔ:(r) laɪk/,选择性必修第四册,高三,45,False,False
+2323,4*1,on a ... basis,根据;以…的方式(基准),/ɒn ə ˈbeɪsɪs/,选择性必修第四册,高三,45,False,False
+2331,4*1,pros and cons,事物的利与弊;支持与反对,/prəʊz ənd kɔnz/,选择性必修第四册,高三,45,False,False
+2334,4*1,superior to,比…更好;更胜一筹,/su:ˈpɪəriə(r) tə/,选择性必修第四册,高三,45,False,False
+2335,4*1,take over,占上风;取而代之;接管;接手,/teɪk ˈəʊvə(r)/,选择性必修第四册,高三,45,False,False
+2337,4*1,conflict with,与…冲突或抵触,/ˈkɒnflɪkt wɪð/,选择性必修第四册,高三,45,False,False
+2350,4*1,turn out,关掉;熄灭;在场;使朝外,/tɜ:n aʊt/,选择性必修第四册,高三,46,False,False
+2352,4*1,fall away ,逐渐)减少;消失,/fɔ:l əˈweɪ/,选择性必修第四册,高三,46,False,False
+2356,4*1,have an urge to,有强烈的欲望做某事,/həv ən ɜ:dʒ tə/,选择性必修第四册,高三,46,False,False
+2364,4*1,over statement,n.夸大;夸张,/ˈəʊvə(r) ˈsteɪtmənt/,选择性必修第四册,高三,46,False,False
+2378,4*2,dim sim ,特指澳大利亚的)点心,,选择性必修第四册,高三,46,False,False
+2386,4*2,prime minister,首相;总理,/praɪm ˈmɪnɪstə(r)/,选择性必修第四册,高三,46,False,False
+2393,4*2,peak season,高峰季节,/pi:k ˈsi:zn/,选择性必修第四册,高三,47,False,False
+2404,4*2,sulphuric pool,硫黄池,,选择性必修第四册,高三,47,False,False
+2405,4*2,manuka honey,麦卢卡蜂蜜,,选择性必修第四册,高三,47,False,False
+2406,4*2,bungee jumping,蹦极跳,/ˈbʌndʒi 'dʒʌmpɪŋ/,选择性必修第四册,高三,47,False,False
+2407,4*2,a flock of —,群(羊或鸟),/ə flɒk əv/,选择性必修第四册,高三,47,False,False
+2408,4*2,geothermal park,地热公园,/ˌdʒi:əʊˈθɜ:ml pɑ:k/,选择性必修第四册,高三,47,False,False
+2425,4*2,a handful of,少数人(或物);一把(的量),/ə ˈhændfʊl əv/,选择性必修第四册,高三,47,False,False
+2431,4*3,set sail,起航;开航,/set seɪl/,选择性必修第四册,高三,47,False,False
+2437,4*3,in a league of one's own,独领风骚,/ɪn ə li:g əv wʌnz əʊn/,选择性必修第四册,高三,47,False,False
+2441,4*3,withdraw from,退出;撤回,/wɪðˈdrɔ: frəm/,选择性必修第四册,高三,47,False,False
+2445,4*3,in hand,在手头;可供使用,/ɪn hænd/,选择性必修第四册,高三,48,False,False
+2452,4*3,press conference,记者招待会;新闻发布会,/pres ˈkɒnfərəns/,选择性必修第四册,高三,48,False,False
+2480,4*4,a chorus of,齐声;异口同声,/ə ˈkɔ:rəs əv/,选择性必修第四册,高三,48,False,False
+2483,4*4,not to mention,更不用说;且不说,/nɒt tə ˈmenʃn/,选择性必修第四册,高三,48,False,False
+2520,4*4,take for granted,认为…是理所当然,/teɪk fə(r) ˈgrɑːntɪd/,选择性必修第四册,高三,49,False,False
+2527,4*4,relay to,转达给…;转发给…,/ˈri:leɪ tə/,选择性必修第四册,高三,49,False,False
+2531,4*4,pray that,但愿,/preɪ ðæt/,选择性必修第四册,高三,49,False,False
+2534,4*5,bounce around,蹦来蹦去;弹来弹去,/baʊns əˈraʊnd/,选择性必修第四册,高三,49,False,False
+2536,4*5,head start,起步前的优势,/hed stɑ:t/,选择性必修第四册,高三,49,False,False
+2541,4*5,a chest of drawers,抽屉柜,/ə tʃest əv drɔ:z/,选择性必修第四册,高三,49,False,False
+2557,4*5,real estate agent,房地产经纪人,/ˈri:əl ɪˈsteɪt ˈeɪdʒənt/,选择性必修第四册,高三,50,False,False
+2562,4*5,come to a conclusion,得出结论,/kʌm tə ə kənˈklu:ʒn/,选择性必修第四册,高三,50,False,False
+2573,4*5,attend to,关怀;照料;处理,/əˈtend tə/,选择性必修第四册,高三,50,False,False
+2589,4*5,flea collar,灭蚤颈圈,/fli: ˈkɒlə(r)/,选择性必修第四册,高三,50,False,False
+2596,4*5,Marie Curie,玛丽・居里(居里夫人),,选择性必修第四册,高三,50,False,True

@@ -1,0 +1,14 @@
+{
+  "total": 3698,
+  "official_word_atlas_entries": 3159,
+  "reused_junior_custom_entries": 88,
+  "new_textbook_supplement_entries": 451,
+  "stage_counts": {
+    "初中基础": 1996,
+    "高一上": 173,
+    "高一下": 492,
+    "高二": 540,
+    "高三": 497
+  },
+  "proper_nouns_excluded": 0
+}

@@ -1,0 +1,20 @@
+{
+  "pdf_total_entries": 2596,
+  "pdf_single_word_entries": 2147,
+  "pdf_unique_single_words": 2146,
+  "pdf_phrase_or_multiword_entries": 449,
+  "baseline_high_school_main_words": 1761,
+  "pdf_overlap_with_baseline": 1745,
+  "pdf_new_vs_baseline": 401,
+  "baseline_not_in_pdf": 16,
+  "junior_cumulative_words": 1996,
+  "new_single_words_from_pdf": 330,
+  "cumulative_unique_words": 3698,
+  "stage_counts_by_first_appearance": {
+    "初中基础": 1996,
+    "高一上": 173,
+    "高一下": 492,
+    "高二": 540,
+    "高三": 497
+  }
+}

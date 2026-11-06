@@ -1,0 +1,28 @@
+{
+  "textbook_records_by_book": {
+    "必修第一册": 254,
+    "必修第二册": 276,
+    "必修第三册": 294,
+    "选择性必修第一册": 276,
+    "选择性必修第二册": 267,
+    "选择性必修第三册": 260,
+    "选择性必修第四册": 235
+  },
+  "textbook_unique_words": 1862,
+  "word_atlas_official_words": 7298,
+  "overlap_words": 1472,
+  "missing_words": 390,
+  "overlap_rate": 0.7905,
+  "regular_words_excluding_proper_nouns": 1761,
+  "regular_overlap_words": 1451,
+  "regular_missing_words": 310,
+  "regular_overlap_rate": 0.824,
+  "regular_words_by_first_stage": {
+    "高一上": 242,
+    "高一下": 533,
+    "高二": 522,
+    "高三": 464
+  },
+  "unresolved_source_records": 71,
+  "phrase_candidates": 170
+}

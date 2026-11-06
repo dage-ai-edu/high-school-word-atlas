@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="768" viewBox="0 0 768 768">
+<rect width="768" height="768" rx="64" fill="#E8EFF3"/>
+<circle cx="590" cy="168" r="116" fill="#D9A85F" opacity=".72"/>
+<path d="M86 586 C210 464 354 672 682 486" fill="none" stroke="#5E88A3" stroke-width="20" stroke-linecap="round" opacity=".75"/>
+<path d="M118 622 C272 528 438 716 676 574" fill="none" stroke="#223044" stroke-width="5" stroke-linecap="round" opacity=".18"/>
+<text x="78" y="276" font-size="230" font-family="Georgia,serif" font-weight="700" fill="#223044">P</text>
+<text x="80" y="386" font-size="64" font-family="Georgia,serif" font-weight="700" fill="#223044">potential</text>
+<text x="82" y="452" font-size="34" font-family="Arial,sans-serif" fill="#223044" opacity=".72">可能的；潜在的；潜力；可能性(；编；潜在地；可能地</text>
+<rect x="80" y="518" width="150" height="54" rx="27" fill="#5E88A3"/>
+<text x="155" y="556" text-anchor="middle" font-size="28" font-family="Arial,sans-serif" font-weight="700" fill="#fff">高二</text>
+<text x="80" y="690" font-size="22" font-family="Arial,sans-serif" letter-spacing="4" fill="#223044" opacity=".45">HIGH SCHOOL WORD ATLAS</text>
+</svg>

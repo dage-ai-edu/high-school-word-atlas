@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4E8D2"/><stop offset="1" stop-color="#FFF9EE"/></linearGradient>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#223044" flood-opacity=".16"/></filter>
+</defs>
+<rect width="1024" height="1024" rx="96" fill="url(#bg)"/>
+<circle cx="154" cy="152" r="76" fill="#D87A55" opacity=".22"/>
+<circle cx="882" cy="220" r="130" fill="#334A5E" opacity=".08"/>
+<path d="M70 780 C250 670 350 870 530 742 S810 640 970 740 V1024 H70Z" fill="#D87A55" opacity=".18"/>
+<path d="M0 854 C210 760 370 970 610 826 S880 780 1024 840 V1024 H0Z" fill="#334A5E" opacity=".10"/>
+<g filter="url(#shadow)"><circle cx="512" cy="492" r="292" fill="#FFFDF8" opacity=".94"/><circle cx="512" cy="492" r="278" fill="none" stroke="#D87A55" stroke-width="8" opacity=".48"/></g>
+<text x="512" y="600" text-anchor="middle" font-size="310" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif">👨</text>
+<g fill="#334A5E" opacity=".42"><circle cx="226" cy="864" r="13"/><circle cx="268" cy="864" r="7"/><circle cx="310" cy="864" r="13"/></g>
+</svg>

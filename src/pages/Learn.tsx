@@ -6,6 +6,7 @@ import { play, stopAudio } from "../lib/audio";
 import { burst } from "../lib/burst";
 import { cue } from "../lib/sound";
 import { go } from "../lib/router";
+import { spellingSlots } from "../lib/spelling";
 import { gap, normalize } from "../lib/text";
 import { answer, advance, buildSession, gradeFor, sessionStats } from "../store/session";
 import { Rating } from "../store/srs";
@@ -245,7 +246,7 @@ function Quiz({ step, session }: { step: Step & { kind: QuizKind }; session: Act
         </ul>
       )}
 
-      {pending && <Feedback entry={entry} refw={ref} correct={pending.correct} onNext={next} />}
+      {pending && <Feedback entry={entry} refw={ref} correct={pending.correct} spelling={step.kind === "spell"} onNext={next} />}
     </div>
   );
 }
@@ -284,22 +285,51 @@ function SpellInput({ entry, pending, hints, onHint, onSubmit }: { entry: Entry;
     if (hints && !normalize(value).startsWith(normalize(prefix))) setValue(prefix);
     input.current?.focus();
   }, [hints]); // eslint-disable-line react-hooks/exhaustive-deps
-  const shown = pending ? pending.value : value;
+  const typed = Array.from(value);
+  const expected = Array.from(target);
+  if (pending) {
+    const slots = spellingSlots(pending.value, target);
+    return (
+      <div className="spell-result">
+        <p className="spell-label">你的拼写 <span className="sr-only" lang="en">{pending.value}</span></p>
+        <div className="slots" aria-hidden="true">
+          {slots.map((slot, i) => {
+            const ch = slot.kind === "missing" ? "—" : slot.typed;
+            return (
+              <span key={i} className={`slot ${ch === " " && slot.kind === "match" ? "slot-space" : ""} ${slot.kind === "match" ? "is-ok" : "is-bad"} ${slot.kind === "missing" ? "slot-missing" : ""}`}>
+                {ch === " " && slot.kind !== "match" ? "␣" : ch}
+              </span>
+            );
+          })}
+        </div>
+        {!pending.correct && (
+          <ul className="spell-edits">
+            {slots.map((slot, i) => {
+              if (slot.kind === "match") return null;
+              const character = slot.kind === "extra" ? slot.typed : slot.expected;
+              const label = character === " " ? "空格" : `「${character}」`;
+              const edit = slot.kind === "missing" ? `漏写 ${label}` : slot.kind === "extra" ? `多写 ${label}` : `应把「${slot.typed === " " ? "空格" : slot.typed}」改为 ${label}`;
+              return <li key={i}>第 {i + 1} 格{edit}</li>;
+            })}
+          </ul>
+        )}
+      </div>
+    );
+  }
   return (
     <form
       className="spell"
       onSubmit={(e) => {
         e.preventDefault();
-        if (!pending && value.trim()) onSubmit(value);
+        if (value.trim()) onSubmit(value);
       }}
     >
       <div className="slots" aria-hidden="true" onClick={() => input.current?.focus()}>
-        {Array.from(target).map((ch, i) => {
-          const typed = shown[i];
-          const ok = typed !== undefined && typed.toLowerCase() === ch.toLowerCase();
+        {Array.from({ length: Math.max(expected.length, typed.length) }, (_, i) => {
+          const ch = typed[i] ?? expected[i];
           return (
-            <span key={i} className={`slot ${ch === " " ? "slot-space" : ""} ${typed !== undefined ? (pending ? (ok ? "is-ok" : "is-bad") : "is-filled") : ""} ${!pending && i === shown.length ? "is-caret" : ""}`}>
-              {pending && !pending.correct ? ch : typed ?? ""}
+            <span key={i} className={`slot ${ch === " " ? "slot-space" : ""} ${i < typed.length ? "is-filled" : ""} ${i === typed.length ? "is-caret" : ""}`}>
+              {typed[i] ?? ""}
             </span>
           );
         })}
@@ -307,8 +337,9 @@ function SpellInput({ entry, pending, hints, onHint, onSubmit }: { entry: Entry;
       <input
         ref={input}
         className="spell-input"
-        value={shown}
-        onChange={(e) => !pending && setValue(e.target.value.slice(0, target.length + 6))}
+        value={value}
+        onChange={(e) => setValue(e.target.value)}
+        maxLength={128}
         autoFocus
         autoCapitalize="off"
         autoCorrect="off"
@@ -316,23 +347,20 @@ function SpellInput({ entry, pending, hints, onHint, onSubmit }: { entry: Entry;
         spellCheck={false}
         enterKeyHint="done"
         aria-label={`拼写，${target.length} 个字符`}
-        readOnly={!!pending}
       />
-      {!pending && (
-        <div className="spell-actions">
-          <button type="button" className="btn btn-ghost" onClick={onHint} disabled={hints >= target.length - 1}>
-            <Lightbulb size={17} /> 提示字母
-          </button>
-          <button type="submit" className="btn btn-primary" disabled={!value.trim()}>
-            确认 <kbd>Enter</kbd>
-          </button>
-        </div>
-      )}
+      <div className="spell-actions">
+        <button type="button" className="btn btn-ghost" onClick={onHint} disabled={hints >= target.length - 1}>
+          <Lightbulb size={17} /> 提示字母
+        </button>
+        <button type="submit" className="btn btn-primary" disabled={!value.trim()}>
+          确认 <kbd>Enter</kbd>
+        </button>
+      </div>
     </form>
   );
 }
 
-function Feedback({ entry, refw, correct, onNext }: { entry: Entry; refw: WordRef; correct: boolean; onNext: () => void }) {
+function Feedback({ entry, refw, correct, spelling, onNext }: { entry: Entry; refw: WordRef; correct: boolean; spelling: boolean; onNext: () => void }) {
   const atlas = useAtlas();
   const btn = useRef<HTMLButtonElement>(null);
   const panel = useRef<HTMLDivElement>(null);
@@ -345,8 +373,9 @@ function Feedback({ entry, refw, correct, onNext }: { entry: Entry; refw: WordRe
       <div className="feedback-inner">
         <Illustration src={atlas.img(entry, "thumb")} word={entry.w} topic={refw.topic} className="feedback-art" />
         <div className="feedback-text">
-          <p className="feedback-verdict">{correct ? "答对了" : "没关系，记住它"}</p>
+          <p className="feedback-verdict">{spelling ? (correct ? "拼写正确" : "这次拼写有误") : correct ? "答对了" : "没关系，记住它"}</p>
           <p className="feedback-word">
+            {spelling && !correct && <span className="spell-label">正确拼写</span>}
             <b lang="en">{entry.w}</b>
             <span className="ipa">{entry.uk || entry.us}</span>
           </p>

@@ -14,6 +14,7 @@ export function useEntry(id: string | null | undefined) {
   const atlas = useAtlas();
   const [entry, setEntry] = useState<Entry | undefined>(() => (id ? atlas.peek(id) : undefined));
   const [error, setError] = useState<string | null>(null);
+  const [attempt, setAttempt] = useState(0);
   useEffect(() => {
     if (!id) return;
     const hit = atlas.peek(id);
@@ -28,8 +29,8 @@ export function useEntry(id: string | null | undefined) {
     return () => {
       live = false;
     };
-  }, [atlas, id]);
-  return { entry: entry?.id === id ? entry : undefined, error };
+  }, [atlas, id, attempt]);
+  return { entry: entry?.id === id ? entry : undefined, error, retry: () => setAttempt((value) => value + 1) };
 }
 
 /** Warm the chunks for a list of ids (e.g. a learning session). */

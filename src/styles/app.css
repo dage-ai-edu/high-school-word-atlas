@@ -2439,6 +2439,21 @@ code {
 .learn-actions .btn {
   flex: 1;
 }
+.entry-load-error {
+  max-width: 680px;
+  margin: 40px auto;
+  padding: 24px var(--gutter);
+}
+.entry-load-error p + p {
+  margin-top: 8px;
+  color: var(--ink-3);
+}
+.entry-load-error .learn-actions {
+  position: static;
+  flex-wrap: wrap;
+  margin: 24px 0 0;
+  padding: 0;
+}
 .hint-keys {
   display: none;
   color: var(--ink-3);

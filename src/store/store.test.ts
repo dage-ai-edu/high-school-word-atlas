@@ -41,3 +41,19 @@ test("keeps textbook starts and migrates older level-only settings", () => {
   assert.equal(sanitizeSettings({ startMode: "textbook", startStage: 4 }).startMode, "textbook");
   assert.equal(sanitizeSettings({ startLevel: 2 }).startMode, "cefr");
 });
+
+test("drops malformed saved sessions while keeping learned cards", () => {
+  const saved = {
+    id: "old", started: 1, steps: [{ id: "ok", kind: "intro" }],
+    index: 0, graded: {}, newIds: ["ok"], reviewIds: [],
+  };
+  for (const session of [
+    { ...saved, steps: [null] }, { ...saved, index: 0.5 },
+    { ...saved, newIds: undefined }, { ...saved, steps: [{ id: "ok", kind: "unknown" }] },
+  ]) {
+    const result = sanitizeProgress({ version: 2, cards: { ok: card }, session }, "x");
+    assert.equal(result.session, null);
+    assert.deepEqual(result.cards.ok, card);
+  }
+  assert.deepEqual(sanitizeProgress({ version: 2, session: saved }, "x").session, saved);
+});

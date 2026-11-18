@@ -1,5 +1,6 @@
-/* Word Atlas offline cache: app shell network-first, everything else cache-first. */
-const VERSION = "atlas-v1";
+/* Keep word-list chunks in sync with the index; scope each edition's cache. */
+const PREFIX = "word-atlas:" + new URL(self.registration.scope).pathname + ":";
+const VERSION = PREFIX + "v2";
 const SHELL = `${VERSION}-shell`;
 const MEDIA = `${VERSION}-media`;
 
@@ -8,7 +9,7 @@ self.addEventListener("activate", (event) => {
   event.waitUntil(
     caches
       .keys()
-      .then((keys) => Promise.all(keys.filter((k) => !k.startsWith(VERSION)).map((k) => caches.delete(k))))
+      .then((keys) => Promise.all(keys.filter((k) => k.startsWith(PREFIX) && !k.startsWith(VERSION)).map((k) => caches.delete(k))))
       .then(() => self.clients.claim()),
   );
 });
@@ -24,7 +25,7 @@ self.addEventListener("fetch", (event) => {
   if (req.method !== "GET" || req.headers.has("range")) return;
   const url = new URL(req.url);
   if (url.origin !== location.origin) return;
-  const isShell = req.mode === "navigate" || url.pathname.endsWith("/index.json");
+  const isShell = req.mode === "navigate" || url.pathname.endsWith("/index.json") || /\/atlas\/entries\/\d+\.json$/.test(url.pathname);
   if (isShell) {
     event.respondWith(
       fetch(req)
@@ -32,12 +33,16 @@ self.addEventListener("fetch", (event) => {
           if (res.ok) caches.open(SHELL).then((c) => c.put(req, res.clone()));
           return res;
         })
-        .catch(() => caches.match(req).then((hit) => hit || caches.match(new URL("./", self.registration.scope).href))),
+        .catch(async () => {
+          const cache = await caches.open(SHELL);
+          const hit = await cache.match(req) || await caches.match(req);
+          return hit || (req.mode === "navigate" ? await cache.match(self.registration.scope) : undefined) || Response.error();
+        }),
     );
     return;
   }
   event.respondWith(
-    caches.match(req).then(
+    caches.open(/\/atlas\/(img|thumb|audio)\//.test(url.pathname) ? MEDIA : SHELL).then(async (cache) => await cache.match(req) || await caches.match(req)).then(
       (hit) =>
         hit ||
         fetch(req).then((res) => {

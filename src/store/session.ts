@@ -42,6 +42,40 @@ export function todayPlan(atlas: Atlas, p: Progress, s: Settings) {
   return { due, fresh, minutes: Math.max(1, Math.round(due.length * 0.25 + fresh.length * 0.9)) };
 }
 
+/** Old sessions may refer to entries removed by a word-list update. */
+export function resumableSession(atlas: Atlas, session: ActiveSession | null): ActiveSession | null {
+  if (!session || session.finished || session.index >= session.steps.length) return null;
+  let changed = false;
+  let index = 0;
+  const steps: Step[] = [];
+  for (const [position, step] of session.steps.entries()) {
+    const ref = atlas.byId.get(step.id);
+    if (!ref) {
+      changed = true;
+      continue;
+    }
+    if (position < session.index) index++;
+    if (step.kind !== "intro" && step.kind !== "spell") {
+      const valid = [...new Set((step.options ?? []).filter((id) => atlas.byId.has(id)))];
+      const options = valid.includes(step.id) && valid.length >= 2 ? valid : distractors(atlas, ref, step.kind, session.started + position);
+      if (!step.options || options.length !== step.options.length || options.some((id, i) => id !== step.options?.[i])) {
+        steps.push({ ...step, options });
+        changed = true;
+        continue;
+      }
+    }
+    steps.push(step);
+  }
+  if (index >= steps.length) return null;
+  if (!changed) return session;
+  return {
+    ...session, steps, index,
+    pending: session.steps[session.index].id === steps[index].id ? session.pending : undefined,
+    newIds: session.newIds.filter((id) => atlas.byId.has(id)),
+    reviewIds: session.reviewIds.filter((id) => atlas.byId.has(id)),
+  };
+}
+
 function quizKind(ref: WordRef, p: Progress, s: Settings, salt: number): QuizKind {
   const c = p.cards[ref.id];
   const hasImg = !!(ref.media & MEDIA.img);

@@ -8,7 +8,7 @@ import { cue } from "../lib/sound";
 import { go } from "../lib/router";
 import { spellingSlots } from "../lib/spelling";
 import { gap, normalize } from "../lib/text";
-import { answer, advance, buildSession, gradeFor, sessionStats } from "../store/session";
+import { answer, advance, buildSession, gradeFor, resumableSession, sessionStats } from "../store/session";
 import { Rating } from "../store/srs";
 import { store, useStore, type ActiveSession, type QuizKind, type Step } from "../store/store";
 import { EntryView, Highlight } from "../ui/EntryView";
@@ -22,35 +22,31 @@ import { shareSession } from "../ui/shareSession";
 export function Learn() {
   const atlas = useAtlas();
   const session = useStore((s) => s.progress.session);
-  const [ready, setReady] = useState(false);
-
   useEffect(() => {
     const { progress, settings } = store.get();
-    if (!progress.session) {
+    const active = progress.session?.finished ? progress.session : resumableSession(atlas, progress.session);
+    if (!active) {
       const s = buildSession(atlas, progress, settings);
       if (!s.steps.length) {
         go({ page: "today" }, null, true);
         return;
       }
       store.progress((p) => ({ ...p, session: s }));
+    } else if (active !== progress.session) {
+      store.progress((p) => ({ ...p, session: active }));
     }
   }, [atlas]);
 
   const ids = useMemo(() => [...new Set(session?.steps.map((s) => s.id) ?? [])], [session?.id]); // eslint-disable-line react-hooks/exhaustive-deps
   useEffect(() => {
     if (!ids.length) return;
-    let live = true;
-    // Load the first chunk before rendering, the rest in the background.
-    prefetch(atlas, ids.slice(0, 6)).then(() => live && setReady(true));
+    // Render the current entry's loading/error state immediately.
     void prefetch(atlas, ids);
-    return () => {
-      live = false;
-    };
   }, [atlas, ids]);
 
   useEffect(() => () => stopAudio(), []);
 
-  if (!session || !ready) return <div className="learn learn-loading"><span className="spinner" /></div>;
+  if (!session) return <div className="learn learn-loading"><span className="spinner" /></div>;
   if (session.finished || session.index >= session.steps.length) return <Summary session={session} />;
   return <Runner session={session} />;
 }
@@ -89,21 +85,36 @@ function useStepTimer() {
   return () => (performance.now() - t.current) / 1000;
 }
 
+function EntryLoading({ error, retry }: { error: string | null; retry: () => void }) {
+  if (!error) return <span className="spinner" />;
+  return (
+    <div className="entry-load-error" role="alert">
+      <p>这个词暂时没有加载成功</p>
+      <p>{error}</p>
+      <div className="learn-actions">
+        <button className="btn btn-primary" onClick={retry}>重试加载</button>
+        <button className="btn btn-ghost" onClick={() => go({ page: "today" })}>返回今日</button>
+      </div>
+    </div>
+  );
+}
+
 function Intro({ step }: { step: Step }) {
   const atlas = useAtlas();
-  const { entry } = useEntry(step.id);
+  const { entry, error, retry } = useEntry(step.id);
   const settings = useStore((s) => s.settings);
   const elapsed = useStepTimer();
   useEffect(() => {
     if (entry && settings.autoplay) void play(atlas.audio(entry, settings.accent), entry.w, settings.accent);
   }, [entry, atlas, settings.autoplay, settings.accent]);
   const next = useCallback(() => {
+    if (!entry) return;
     stopAudio();
     if (store.get().settings.sfx) void cue("flip");
     advance(elapsed());
-  }, [elapsed]);
+  }, [elapsed, entry]);
   useKeys({ Enter: next, " ": next });
-  if (!entry) return <span className="spinner" />;
+  if (!entry) return <EntryLoading error={error} retry={retry} />;
   return (
     <div className="intro">
       <p className="stage-label">
@@ -132,7 +143,7 @@ const KIND_LABEL: Record<QuizKind, string> = {
 function Quiz({ step, session }: { step: Step & { kind: QuizKind }; session: ActiveSession }) {
   const atlas = useAtlas();
   const ref = atlas.byId.get(step.id)!;
-  const { entry } = useEntry(step.id);
+  const { entry, error, retry } = useEntry(step.id);
   const settings = useStore((s) => s.settings);
   const pending = session.pending;
   const elapsed = useStepTimer();
@@ -141,7 +152,7 @@ function Quiz({ step, session }: { step: Step & { kind: QuizKind }; session: Act
 
   const submit = useCallback(
     (value: string, correct: boolean) => {
-      if (pending) return;
+      if (pending || !entry) return;
       const ms = elapsed() * 1000;
       if (correct) {
         const el = document.querySelector<HTMLElement>(step.kind === "spell" ? ".slots" : `[data-option="${value}"]`);
@@ -173,7 +184,7 @@ function Quiz({ step, session }: { step: Step & { kind: QuizKind }; session: Act
   }
   useKeys(keys);
 
-  if (!entry) return <span className="spinner" />;
+  if (!entry) return <EntryLoading error={error} retry={retry} />;
   const sentence = entry.ex[0] ? gap(entry.ex[0].en, entry.w) : null;
 
   return (

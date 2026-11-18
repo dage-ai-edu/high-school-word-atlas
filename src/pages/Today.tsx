@@ -5,7 +5,7 @@ import { TEXTBOOK_STAGES } from "../atlas/stages";
 import { go, openWord } from "../lib/router";
 import { cue } from "../lib/sound";
 import { hashSeed } from "../lib/text";
-import { buildSession, masteredCount, todayPlan } from "../store/session";
+import { buildSession, masteredCount, resumableSession, todayPlan } from "../store/session";
 import { isMastered } from "../store/srs";
 import { dayKey, store, useStore } from "../store/store";
 import { Galaxy } from "../galaxy/Galaxy";
@@ -49,7 +49,7 @@ export function Today() {
   const now = new Date();
   const today = progress.days[dayKey()];
   const streak = streakOf(progress.days);
-  const active = progress.session && !progress.session.finished ? progress.session : null;
+  const active = useMemo(() => resumableSession(atlas, progress.session), [atlas, progress.session]);
   const total = plan.due.length + plan.fresh.length;
   const goal = settings.dailyNew + Math.min(plan.due.length, 60);
   const doneToday = today?.r ?? 0;
@@ -60,6 +60,8 @@ export function Today() {
       const s = buildSession(atlas, progress, opts?.extra ? { ...settings, dailyNew: (today?.n ?? 0) + opts.extra } : settings, { reviewOnly: opts?.reviewOnly });
       if (!s.steps.length) return;
       store.progress((p) => ({ ...p, session: s }));
+    } else if (active !== progress.session) {
+      store.progress((p) => ({ ...p, session: active }));
     }
     if (settings.sfx) void cue("start");
     go({ page: "learn" });

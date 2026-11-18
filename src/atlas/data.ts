@@ -37,7 +37,9 @@ export async function loadOpenAtlas(): Promise<Atlas> {
   const loadChunk = (n: number) => {
     let p = pending.get(n);
     if (!p) {
-      p = fetch(url(`entries/${n}.json`))
+      const controller = new AbortController();
+      const timeout = setTimeout(() => controller.abort(), 15000);
+      p = fetch(url(`entries/${n}.json`), { signal: controller.signal })
         .then((r) => {
           if (!r.ok) throw new Error(`词条加载失败（${r.status}）`);
           return r.json() as Promise<Entry[]>;
@@ -46,7 +48,8 @@ export async function loadOpenAtlas(): Promise<Atlas> {
         .catch((e) => {
           pending.delete(n);
           throw e;
-        });
+        })
+        .finally(() => clearTimeout(timeout));
       pending.set(n, p);
     }
     return p;

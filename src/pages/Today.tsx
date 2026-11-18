@@ -5,13 +5,14 @@ import { TEXTBOOK_STAGES } from "../atlas/stages";
 import { go, openWord } from "../lib/router";
 import { cue } from "../lib/sound";
 import { hashSeed } from "../lib/text";
-import { buildSession, masteredCount, resumableSession, todayPlan } from "../store/session";
+import { additionalStudyPlan, buildSession, masteredCount, resumableSession, todayPlan } from "../store/session";
 import { isMastered } from "../store/srs";
 import { dayKey, store, useStore } from "../store/store";
 import { Galaxy } from "../galaxy/Galaxy";
 import { Highlight, Pronounce } from "../ui/EntryView";
 import { Illustration } from "../ui/Illustration";
 import { Ring } from "../ui/Ring";
+import { toast } from "../ui/Toast";
 
 const BRAND = `${import.meta.env.BASE_URL}brand`;
 
@@ -51,19 +52,33 @@ export function Today() {
   const streak = streakOf(progress.days);
   const active = useMemo(() => resumableSession(atlas, progress.session), [atlas, progress.session]);
   const total = plan.due.length + plan.fresh.length;
+  const extra = useMemo(() => additionalStudyPlan(atlas, progress, settings), [atlas, progress, settings]);
+  const nextStage = settings.startMode === "textbook" && extra.startStage !== settings.startStage ? TEXTBOOK_STAGES[extra.startStage] : null;
   const goal = settings.dailyNew + Math.min(plan.due.length, 60);
   const doneToday = today?.r ?? 0;
   const newWordScope = settings.startMode === "textbook" ? TEXTBOOK_STAGES[settings.startStage]?.name ?? "教材词汇" : `${atlas.cefr[settings.startLevel] ?? "A1"} 及以上`;
 
   const start = (opts?: { reviewOnly?: boolean; extra?: number }) => {
-    if (!active) {
-      const s = buildSession(atlas, progress, opts?.extra ? { ...settings, dailyNew: (today?.n ?? 0) + opts.extra } : settings, { reviewOnly: opts?.reviewOnly });
-      if (!s.steps.length) return;
+    const { progress: latest, settings: prefs } = store.get();
+    const resumed = resumableSession(atlas, latest.session);
+    if (!resumed) {
+      const addition = opts?.extra ? additionalStudyPlan(atlas, latest, prefs, opts.extra) : null;
+      if (addition && !addition.ids.length) {
+        toast("当前范围已没有未学新词，请调整学习范围。", "info");
+        go({ page: "me" });
+        return;
+      }
+      const s = buildSession(atlas, latest, prefs, addition ? { ids: addition.ids } : { reviewOnly: opts?.reviewOnly });
+      if (!s.steps.length) {
+        toast("当前没有待学任务，可以调整学习范围或进行打字练习。", "info");
+        return;
+      }
+      if (addition && addition.startStage !== prefs.startStage) store.settings({ startStage: addition.startStage });
       store.progress((p) => ({ ...p, session: s }));
-    } else if (active !== progress.session) {
-      store.progress((p) => ({ ...p, session: active }));
+    } else if (resumed !== latest.session) {
+      store.progress((p) => ({ ...p, session: resumed }));
     }
-    if (settings.sfx) void cue("start");
+    if (prefs.sfx) void cue("start");
     go({ page: "learn" });
   };
 
@@ -121,7 +136,7 @@ export function Today() {
             <>
               <p className="eyebrow eyebrow-light">今日已完成</p>
               <h2>今天的星，都亮了。</h2>
-              <p className="journey-lede">记忆需要一点留白。想多走一段，也可以。</p>
+              <p className="journey-lede">{!extra.ids.length ? "当前学习范围的新词已学完，可以调整范围或巩固已学词。" : nextStage ? `当前阶段的新词已学完，可以继续学习${nextStage.short}。` : "记忆需要一点留白。想多走一段，也可以。"}</p>
             </>
           )}
           {teaser.length > 0 && (
@@ -143,9 +158,13 @@ export function Today() {
               <button className="btn btn-primary btn-xl" onClick={() => start()}>
                 {active ? "继续旅程" : "开始今天的旅程"} <ArrowRight size={20} />
               </button>
-            ) : (
+            ) : extra.ids.length > 0 ? (
               <button className="btn btn-primary btn-xl" onClick={() => start({ extra: 5 })}>
-                再认识 5 个新词 <Sparkles size={18} />
+                {nextStage ? `继续${nextStage.short} · ${extra.ids.length} 个新词` : `再认识 ${extra.ids.length} 个新词`} <Sparkles size={18} />
+              </button>
+            ) : (
+              <button className="btn btn-primary btn-xl" onClick={() => go({ page: "me" })}>
+                调整学习范围 <ArrowRight size={20} />
               </button>
             )}
             {!active && plan.due.length > 0 && plan.fresh.length > 0 && (

@@ -35,6 +35,17 @@ export function nextNew(atlas: Atlas, p: Progress, settings: Settings, count: nu
   return out;
 }
 
+/** Extra study is independent of today's quota; offer the next textbook stage explicitly. */
+export function additionalStudyPlan(atlas: Atlas, p: Progress, s: Settings, count = 5) {
+  const startStage = TEXTBOOK_STAGES[s.startStage] ? s.startStage : 0;
+  const stages = s.startMode === "textbook" ? TEXTBOOK_STAGES.map((_, i) => i).slice(startStage) : [startStage];
+  for (const stage of stages) {
+    const ids = nextNew(atlas, p, { ...s, startStage: stage }, count);
+    if (ids.length) return { ids, startStage: stage };
+  }
+  return { ids: [], startStage };
+}
+
 export function todayPlan(atlas: Atlas, p: Progress, s: Settings) {
   const due = dueIds(p).filter((id) => atlas.byId.has(id));
   const newLeft = Math.max(0, s.dailyNew - newToday(p));
